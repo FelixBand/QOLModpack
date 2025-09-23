@@ -148,14 +148,14 @@
       }
     },
     {
-      "path": "mods/lambdynamiclights-4.3.3+1.21.8.jar",
+      "path": "mods/lambdynamiclights-4.4.1+1.21.8.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/yBW8D80W/versions/Pruo0oqp/lambdynamiclights-4.3.3%2B1.21.8.jar"
+        "https://cdn.modrinth.com/data/yBW8D80W/versions/PcxqJePE/lambdynamiclights-4.4.1%2B1.21.8.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "9a182a4fce44e4d9b7e9a6aab1aeb53badec5cfe",
-        "sha512": "072218329fd08cb66ad60aad73937e5c61546f6e3dbf6aba2d4c12ca5f838b3a7e630c6f373ab2c4b3eabb439a8516f507422e42243b246666bb49c4c8fb2b4b"
+        "sha1": "fad76a024480f8562f14f3062308bb3794022f22",
+        "sha512": "576f65bcf0d5d4921da53b428cc9d5b58c2c66f6fcda841655a566f176980f427b7cc708d4d1066b2829e2558239a511a2c8288902cc1ebfc3e28ba8ec0d0637"
       }
     },
     {
@@ -277,6 +277,39 @@
       "hashes": {
         "sha1": "cd5b1d0292b7f861b61b7bd9d42769a63ad45c3b",
         "sha512": "f2392c4d316308179e12d24c54fec026416a719004597ba04e39dc69b3a0c3de3828eebd2cdb6d5bb154ef51f3729d994e532f0b097459205c0a8201b9d2f431"
+      }
+    },
+    {
+      "path": "mods/NoChatReports-FABRIC-1.21.7-v2.14.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/qQyHxfxd/versions/LhwpK0O6/NoChatReports-FABRIC-1.21.7-v2.14.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "7f8bfb9a42199e65ea9ced4e8202ff70613c141c",
+        "sha512": "6e93c822e606ad12cb650801be1b3f39fcd2fef64a9bb905f357eb01a28451afddb3a6cadb39c112463519df0a07b9ff374d39223e9bf189aee7e7182077a7ae"
+      }
+    },
+    {
+      "path": "mods/no-telemetry-1.9.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/hg77g4Pw/versions/OwTaGd6A/no-telemetry-1.9.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "19545f40c8231fafdc183ea1c675ecbf3ecf025d",
+        "sha512": "4527236781611cc40a77e222e4dd2a1d6a5c0c9a9394eed4063c20c91ba62568c2d4323bc84a9372d69d10703e26b7569ef75ea55c52ad36ec55107f19bcaae8"
+      }
+    },
+    {
+      "path": "mods/moreculling-fabric-1.21.6-1.4.0-beta.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/51shyZVL/versions/ESxkwc6w/moreculling-fabric-1.21.6-1.4.0-beta.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "1e9b9ec184470aa5d52e0d968b5e87cf087efae2",
+        "sha512": "0f80c58b539c55c0b96a35b685694d8d74bf77f5dd9c63a7f811c17cf076ae26799b6411e941ff71d2f39b940262886fb3d66f78f239b7bb3558cce8c5447dac"
       }
     }
   ],
