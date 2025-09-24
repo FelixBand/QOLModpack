@@ -1,0 +1,2 @@
+gamma:1.0
+resourcePacks:["vanilla","file/Low Shield.zip","fabric","continuity:default","continuity:glass_pane_culling_fix"]

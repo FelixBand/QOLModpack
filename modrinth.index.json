@@ -311,6 +311,21 @@
         "sha1": "1e9b9ec184470aa5d52e0d968b5e87cf087efae2",
         "sha512": "0f80c58b539c55c0b96a35b685694d8d74bf77f5dd9c63a7f811c17cf076ae26799b6411e941ff71d2f39b940262886fb3d66f78f239b7bb3558cce8c5447dac"
       }
+    },
+
+
+
+
+    {
+      "path": "resourcepacks/Low Shield.zip",
+      "downloads": [
+        "https://cdn.modrinth.com/data/CZrLuVQo/versions/dgrLi0hp/Low%20Shield.zip"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "561890e9e21d83a8d0eebb22142f4605e9a11784",
+        "sha512": "0beb3ebaa47034c016e6821028a1f534323d5c5eea759b855889bfc530bb279d6e4d9310d02ab7cf4b195ea20f2b3f7896eba6cf72b155a96df4b26e15beb19f"
+      }
     }
   ],
   "dependencies": {
