@@ -312,6 +312,28 @@
         "sha512": "0f80c58b539c55c0b96a35b685694d8d74bf77f5dd9c63a7f811c17cf076ae26799b6411e941ff71d2f39b940262886fb3d66f78f239b7bb3558cce8c5447dac"
       }
     },
+    {
+      "path": "mods/defaultoptions-fabric-1.21.8-21.8.4.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/WEg59z5b/versions/XkZKKVyj/defaultoptions-fabric-1.21.8-21.8.4.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "307f949e89e020cf9a94929cf29d2d1724726af1",
+        "sha512": "a61eb3778f6982861b0290a2d8dccedd707d6ad60c670f1cc747c2cda0867c8121fb39d4102745988b04024c46971f3f2c08c2df4fc491fa3ae107694477d7cb"
+      }
+    },
+    {
+      "path": "mods/balm-fabric-1.21.8-21.8.8.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/c8Bb5uUc/balm-fabric-1.21.8-21.8.8.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "ffd379e2fdac03c022267854dda031815e772ef8",
+        "sha512": "9abb52110b4c1190192672590ee9c36d06b437379d25911a4bcd8990e041574a40f7c37caab11872f0f15d84cc34c34dc74af26c1dabc73b231af4d3d546a5bb"
+      }
+    },
 
 
 
