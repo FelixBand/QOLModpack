@@ -1,3 +1,4 @@
 gamma:1.0
 fov:0.5
+directionalAudio:true
 resourcePacks:["vanilla","file/Low Shield.zip","fabric","continuity:default","continuity:glass_pane_culling_fix"]
