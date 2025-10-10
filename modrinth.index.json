@@ -1,6 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
+  "versionId": "1.0.0",
   "name": "Felix QOL Modpack",
   "files": [
     {
@@ -158,17 +159,6 @@
       }
     },
     {
-      "path": "mods/locator-heads-1.3.0.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/L4pt5egz/versions/NtqTU4Oo/locator-heads-1.3.0.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "f30aa3ea5c69d89cca8655aa6dee9c24b43f94bf",
-        "sha512": "c320b136ad7528348368f1de4d09d36191e05bbce811a95510a8b9342943066bc96aa87c6f593795725306b8fc0e185ff72ec2288223f2f1daf9afa7853087d6"
-      }
-    },
-    {
       "path": "mods/logical_zoom-0.0.33.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/8bOImuGU/versions/mFRJLmgt/logical_zoom-0.0.33.jar"
@@ -263,6 +253,6 @@
   ],
   "dependencies": {
     "fabric-loader": "0.17.2",
-    "minecraft": "1.21.8"
+    "minecraft": "1.21.10"
   }
 }
