@@ -148,14 +148,14 @@
       }
     },
     {
-      "path": "mods/c2me-fabric-mc1.21.10-0.3.5+rc.1.0.jar",
+      "path": "mods/c2me-fabric-mc1.21.10-0.3.5.1.0.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/tPpclp9p/c2me-fabric-mc1.21.10-0.3.5%2Brc.1.0.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/uNick7oj/c2me-fabric-mc1.21.10-0.3.5.1.0.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "4933830bd4e8a3f1c7b1e9ee277eaedbfe056a9f",
-        "sha512": "c72fc22b509c74a914820be23ba3c3028cb7d9e72bb01a537e8a9158011dde8efc6dc642e68ceeb438b1504d0c93d55225309a43b224a58b6b47bd1871d58945"
+        "sha1": "36b6bbe8d1a051f1c4eab82d2614c4310ec74e5f",
+        "sha512": "4d079c872ab910fd65a6c9e8709c7050178626f7125c849389ca38388e19995bd874e071e86e6acf6fbefaa2f294fdbebecb9af8444a908b9a3de894d807c4db"
       }
     },
     {
@@ -266,6 +266,17 @@
       "hashes": {
         "sha1": "e9bb925e632dabe709a8558cdcb04c85efe24c61",
         "sha512": "c10184957dd2807f680bddd040042a4aa758ed56fd92b33b4fc3ab2683fbc5a5f6d960fc000a956eeab329b7d77c85c5ea57288757adb507327114e344abdc0e"
+      }
+    },
+    {
+      "path": "mods/cloth-config-20.0.149-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/qMxkrrmq/cloth-config-20.0.149-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "c86e380bdac24e4ecdd148558e9d4ddf32c86059",
+        "sha512": "df1d9e0349dc64fc0859f17b65b67b0d7745a26b4905e87fc148ddebc0285de51a3255848599f0d5ee24f6aab00fbac4849d40bb9052936eaa452d216c7ada62"
       }
     },
 
