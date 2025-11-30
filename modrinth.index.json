@@ -279,6 +279,61 @@
         "sha512": "df1d9e0349dc64fc0859f17b65b67b0d7745a26b4905e87fc148ddebc0285de51a3255848599f0d5ee24f6aab00fbac4849d40bb9052936eaa452d216c7ada62"
       }
     },
+    {
+      "path": "mods/fadeless-2.0.5-1.21.9.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/ncKjyGm3/versions/r4NI6C7n/fadeless-2.0.5-1.21.9.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "28c0f5d6921b01075f9ae1ac56f4b9884e5f1c23",
+        "sha512": "8f8e132d60c3f951fdf67d3ec4d8014cdb4b833dffeeaab04efd121114597f0920ea1f364744d55da9983400e8cc24e275a1b15a68dd69dc87b329a2c5b3399f"
+      }
+    },
+    {
+      "path": "mods/moreculling-fabric-1.21.9-1.5.0-beta.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/51shyZVL/versions/nASRyMbu/moreculling-fabric-1.21.9-1.5.0-beta.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "3ab31aec861c6bcade87f7e9317d1ca2ac7a19f3",
+        "sha512": "94a1fc8a75a2db1fa1d4b6296bca6ecc4b8ece318e9621ee6b3d02db66d44afb0cd7fdf79ba20f8c6470a1cbdbc99273a407fbed9b128ec6d693361fac7b5225"
+      }
+    },
+    {
+      "path": "mods/ferritecore-8.0.2-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/MGoveONm/ferritecore-8.0.2-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "5ea50634ed19a5e10acb46258bab0c1ee20f64ca",
+        "sha512": "8c3890fb116dfaf681f5f483ea0d1bfecfb87dd584cc72e772fe43ea6ecf15a09c782fedbe5cea3b8bf7e930bd5c00753a619ac5ce7afa7fd092769d68e9beec"
+      }
+    },
+    {
+      "path": "mods/bobby-5.2.10+mc1.21.9.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/M08ruV16/versions/xiXouhmS/bobby-5.2.10%2Bmc1.21.9.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "7f26b57f1c74426e832775bdbd218ec4afc425fe",
+        "sha512": "985e62045f5d4d1a7c77f542608509addf6c6f5f4b4f90f118fa70c1b7d36e4d4e2605d44f134fac75ef0e0da1c903fb79a25e53d9e10c5c1a5898a445ed58c9"
+      }
+    },
+    {
+      "path": "mods/mcwifipnp-1.9.7-1.21.9-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/RTWpcTBp/versions/1iixNbPc/mcwifipnp-1.9.7-1.21.9-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "2fff8203e362e606f3835bf31f53d9fd70572974",
+        "sha512": "d3e7d3d1ac98881ffbe575987074ed1c2a8ebde195711f717aa18ff3f61e4328d4710dde6f57c9ed0d54ab9d4a484d3c325abec71cc47d9ca2f3446d2d2d3151"
+      }
+    },
 
 
 
