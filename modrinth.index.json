@@ -71,17 +71,6 @@
       }
     },
     {
-      "path": "mods/ImmediatelyFast-Fabric-1.13.2+1.21.10.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/mmM8JfKR/ImmediatelyFast-Fabric-1.13.2%2B1.21.10.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "e3f487736064ccd6c94e110cbaa057cf72eea2aa",
-        "sha512": "4e1a36349ca1aff20ad199ae4f45160403684caf533ef8030fb154420b9bac0ec4e592537640bdf391ed09cc333894fc8b97c5e7aaa5bd8b9d3d98a7cbc2ed06"
-      }
-    },
-    {
       "path": "mods/entity_texture_features_1.21.9-fabric-7.0.6.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/BVzZfTc1/versions/sDFjwI93/entity_texture_features_1.21.9-fabric-7.0.6.jar"
@@ -192,14 +181,14 @@
       }
     },
     {
-      "path": "mods/controlify-2.4.3+1.21.10-fabric.jar",
+      "path": "mods/controlify-2.4.4+1.21.10-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/HMVVnaKs/controlify-2.4.3%2B1.21.10-fabric.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/DsLQgNuV/controlify-2.4.4%2B1.21.10-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "13b018f030ef165e9cfc8639cf53da1d22dcb999",
-        "sha512": "c64351e66a1dcb13e880b61e635dcf1dee2d99360ff3bb8d50af3a3896b71869f81fdef4d79359144deff2bc3c2e23dc3483880b3ea76c95fb9f793c4a91cbf5"
+        "sha1": "f1ef599f662cf81cbb3f68a3554fdd9d1795a60b",
+        "sha512": "c616b11d456050ad4c67f5d95225db731b613b91115c294bdf0ef31ef1e7774c6156d7d3a1e2d3bf1f4d5d19180f6dfcb1ac3bc2d4dcece337a22c397520a2e8"
       }
     },
     {
