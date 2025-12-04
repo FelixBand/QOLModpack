@@ -323,6 +323,17 @@
         "sha512": "8ae6023928e6359688fcaafb3e60b1a83104a57b730e10de420abe1e5d22a1646607d55d085c3e02dd8e8a4fdac846a23111b84a2f2a089bc908208cc963dc07"
       }
     },
+    {
+      "path": "mods/reeses-sodium-options-fabric-1.8.6+mc1.21.10.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/Bh37bMuy/versions/nUGhyPwZ/reeses-sodium-options-fabric-1.8.6%2Bmc1.21.10.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "55db55556d81a3b68f8f1d08a74ab00c127f3886",
+        "sha512": "3cbf1e48c0e6beb743695c5cc922dde95f4fe1b3080ba97bcd9a10c6666491b853d3f0cd071ed519a02c7a9a4d79c5d2be393ebafe25db80b48bf3ad1ca8cdb6"
+      }
+    },
 
 
 
