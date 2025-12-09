@@ -1,4 +1,6 @@
+fullscreen:true
 gamma:1.0
 fov:0.5
 directionalAudio:true
+inactivityFpsLimit:"minimized"
 resourcePacks:["vanilla","fabric","file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Low Shield.zip"]

@@ -345,6 +345,17 @@
         "sha512": "93ef2bce695fd7d180d03d8d1d2a15c74e7807f74f087518d607f754d58b1945fb571c5aa426e673c70c4c08dab54034cc927c89d4e5bf9521035dbbd5a6f236"
       }
     },
+    {
+      "path": "mods/no-telemetry-1.9.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/hg77g4Pw/versions/OwTaGd6A/no-telemetry-1.9.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "19545f40c8231fafdc183ea1c675ecbf3ecf025d",
+        "sha512": "4527236781611cc40a77e222e4dd2a1d6a5c0c9a9394eed4063c20c91ba62568c2d4323bc84a9372d69d10703e26b7569ef75ea55c52ad36ec55107f19bcaae8"
+      }
+    },
 
 
 
