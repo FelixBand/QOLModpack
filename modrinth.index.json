@@ -115,14 +115,14 @@
       }
     },
     {
-      "path": "mods/lambdynamiclights-4.8.6+1.21.10.jar",
+      "path": "mods/lambdynamiclights-4.8.7+1.21.10.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/yBW8D80W/versions/BRdrLWGs/lambdynamiclights-4.8.6%2B1.21.10.jar"
+        "https://cdn.modrinth.com/data/yBW8D80W/versions/QEjgcnZG/lambdynamiclights-4.8.7%2B1.21.10.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "f3876352a6299b5ec05dd1684fc420606eeda8e6",
-        "sha512": "ba35462249d6352abdb916da4eb6cae42bb4ac7095b937ab496cd1f13f5247df90731608eb5745e2764c292909b3f9cc3ba7447186c97609ad1a12d5f36a6667"
+        "sha1": "4ea9988c083f1e16182e6042ab55de414bfbbaff",
+        "sha512": "fd41d80cd9cc2cccb4c4e4f945bced2ca09c6b735d59b4565f3a23626b7a677351c2379accbb776100e179cd8385d6c85c92b2a304eeae9c099ef4533b195a9a"
       }
     },
     {
@@ -159,14 +159,14 @@
       }
     },
     {
-      "path": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
+      "path": "mods/fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar"
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/LcgnDDmT/fabric-language-kotlin-1.13.7%2Bkotlin.2.2.21.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "05e9cc4108da5b50735fa6d8a79a18fcd5310d82",
-        "sha512": "1d1d70bd4662ec1fcba57c9f16c3bceb185e8986119f266594f37d145d6d19772e5d6a50dcfec315e600c9eafd32f2b5f86bab72ae1954891297cde7fce62e9b"
+        "sha1": "ab71e8daf9a2d529204b5c28b3801713d22f3d46",
+        "sha512": "0453a8a4eb8d791b5f0097a6628fae6f13b6dfba1e2bd1f91218769123808c4396a88bcdfc785f1d6bca348f267b32afc2aa9e0d5ec93a7b35bcfe295268c7bc"
       }
     },
     {
@@ -332,6 +332,17 @@
       "hashes": {
         "sha1": "55db55556d81a3b68f8f1d08a74ab00c127f3886",
         "sha512": "3cbf1e48c0e6beb743695c5cc922dde95f4fe1b3080ba97bcd9a10c6666491b853d3f0cd071ed519a02c7a9a4d79c5d2be393ebafe25db80b48bf3ad1ca8cdb6"
+      }
+    },
+    {
+      "path": "mods/cwb-fabric-3.0.0+mc1.21.5.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/ETlrkaYF/versions/wXhtL4fb/cwb-fabric-3.0.0%2Bmc1.21.5.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "b663eb9a8238be3cd71173e39b6f9d01d0948c1d",
+        "sha512": "93ef2bce695fd7d180d03d8d1d2a15c74e7807f74f087518d607f754d58b1945fb571c5aa426e673c70c4c08dab54034cc927c89d4e5bf9521035dbbd5a6f236"
       }
     },
 
