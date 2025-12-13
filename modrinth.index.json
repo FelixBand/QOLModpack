@@ -224,6 +224,17 @@
         "sha512": "440611d9f526cb223f8592b5553ea0547f78fda1070554ccc88849150212a5032f0a06eaa35b834c2c513cddd8229a7e1fd85272e3547d84ae68210611f1f54d"
       }
     },
+    {
+      "path": "mods/cloth-config-21.11.151-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/9aTLUrUA/cloth-config-21.11.151-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "249ec375410e0be9b708da09aaa5cd60ad92aff3",
+        "sha512": "1f1c7edc14a72564e0c4921e930e80de74b588fa905cf243594a355eb391666cd453b454afe48cddaa3e5db987ab251a636bcd675944c2f9585f12717ac989c9"
+      }
+    },
 
 
 
@@ -240,7 +251,7 @@
     }
   ],
   "dependencies": {
-    "fabric-loader": "0.18.1",
+    "fabric-loader": "0.18.2",
     "minecraft": "1.21.11"
   }
 }
