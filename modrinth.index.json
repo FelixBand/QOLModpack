@@ -27,14 +27,14 @@
       }
     },
     {
-      "path": "mods/iris-fabric-1.10.1+mc1.21.11.jar",
+      "path": "mods/iris-fabric-1.10.2+mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/YL57xq9U/versions/PjHt94CV/iris-fabric-1.10.1%2Bmc1.21.11.jar"
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/ID2pg4dQ/iris-fabric-1.10.2%2Bmc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "c58f715ea17659a6b0c35014773194d69d3decc8",
-        "sha512": "7397d49e4e33be0e790ec661378912051b289f3d5efbb5418b62c3d3ce03edc2af971c46322c73c58cc9f49bf5b9271e100865d09e530fe01de4c08de35060ad"
+        "sha1": "027d7e37e96d0fb1bfcb9bb0d7193225e7fa9476",
+        "sha512": "411d1905dff43ef7676d7bda73594cd3e1c73c349895d9f65d5fa6c8d354864969ee1149c9d71a5ece79fd073ec4cf76ffa718a2eb8d0f687c029fbb3fdef355"
       }
     },
     {
@@ -60,25 +60,25 @@
       }
     },
     {
-      "path": "mods/lithium-fabric-0.21.0+mc1.21.11.jar",
+      "path": "mods/lithium-fabric-0.21.1+mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/P4cz15Hh/lithium-fabric-0.21.0%2Bmc1.21.11.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/4DdLmtyz/lithium-fabric-0.21.1%2Bmc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "5a3532ad9d4d710b98eb2e091f8f5c17673b6e9e",
-        "sha512": "ad9bd67fbe044732b3811fa89bf00d825b124202ed7ef49382239dff457e9797154340b129ef63ab405d4255d845ee628adb3714df471662e7fc3fe34c0c99a8"
+        "sha1": "21e19758c0ba258c2a384ec1b77caa415fc482b0",
+        "sha512": "0857d30d063dc704a264b2fe774a7e641926193cfdcde72fe2cd603043d8548045b955e30c05b1b2b96ef7d1c0f85d55269da26f44a0644c984b45623e976794"
       }
     },
     {
-      "path": "mods/voicechat-fabric-1.21.11-2.6.6.jar",
+      "path": "mods/voicechat-fabric-1.21.11-2.6.7.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/u24gyVpO/voicechat-fabric-1.21.11-2.6.6.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/K5zIeqNd/voicechat-fabric-1.21.11-2.6.7.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "53fd34db3946b585e76113d5da8c9176463f7aad",
-        "sha512": "76c3ba9f08e6c269296efd17956c0ef0d2be9b9de458866134cfc575a1e3ddf19b7381a55478891ea55c4fa89b5c8507fc13d586d8357fbc6c9384e43a41405a"
+        "sha1": "80eac3a15a995a94b2897ac14fd636a226004230",
+        "sha512": "619797f94ffe2be52dc2331b2e33ad97e1ebb154bcab4ad8a0cc74fa460aa9dc007062861a9aa54f1c6b2c6898bc1a5ee5bb70fd774f6c4276823f33e039558a"
       }
     },
     {
@@ -93,14 +93,14 @@
       }
     },
     {
-      "path": "mods/lambdynamiclights-4.9.0+1.21.11.jar",
+      "path": "mods/lambdynamiclights-4.9.1+1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/yBW8D80W/versions/z5t9q8Gz/lambdynamiclights-4.9.0%2B1.21.11.jar"
+        "https://cdn.modrinth.com/data/yBW8D80W/versions/5Tp7kdU0/lambdynamiclights-4.9.1%2B1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "c979914ca6aa3a18f34b2c112001b1a11824d019",
-        "sha512": "d8230df9a1e59d8f0715c20571c626230f848af89c7a03e119731f1d1f420053212a070eaab7cb161c3852dad01b654ca5604119d787cf38db334288fcf05536"
+        "sha1": "f22487846158f62b3485a5a0723ba048326ac00f",
+        "sha512": "df006fad702f713fa93feaa21ead00f446aa79e1771b5e049844842c7701d3a8a1b360a996c28f79c79a941e95ef63d27bfc563b5bec2ab8bf96eba0b2232fb8"
       }
     },
     {
@@ -181,14 +181,14 @@
       }
     },
     {
-      "path": "mods/e4mc_minecraft-fabric-5.4.2.jar",
+      "path": "mods/e4mc_minecraft-fabric-5.5.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/qANg5Jrr/versions/UWBY9Hnh/e4mc_minecraft-fabric-5.4.2.jar"
+        "https://cdn.modrinth.com/data/qANg5Jrr/versions/ksbz8jfO/e4mc_minecraft-fabric-5.5.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "5efa42fa294efc5fcefbd94d6f602be22ac2603f",
-        "sha512": "60502f424f2f62590aeba9693b577820b8887527534da9a57162f1da5465da8ba2b3eca551c9896aaa9acd9ec9e941144b0d52b1258d5f9829a4eac672e26fdf"
+        "sha1": "4b6fbb25acf0400cedaab0080448d48fdb26a24d",
+        "sha512": "ef651e84ad8d96fc02232a5437ae06d9cce4fa8d67bbbd57401705e6e760b46d745446c63170831abb41c3f7939d8e1a901c8c641c2b809e49e96613bba01c18"
       }
     },
     {
@@ -203,14 +203,14 @@
       }
     },
     {
-      "path": "mods/DistantHorizons-2.4.0-b-1.21.11-fabric-neoforge.jar",
+      "path": "mods/DistantHorizons-2.4.1-b-1.21.11-fabric-neoforge.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/uCdwusMi/versions/rdwJawR9/DistantHorizons-2.4.0-b-1.21.11-fabric-neoforge.jar"
+        "https://cdn.modrinth.com/data/uCdwusMi/versions/TkrPgySM/DistantHorizons-2.4.1-b-1.21.11-fabric-neoforge.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "0517ce23d59566cb157fa17351f7f39e0cbdedfe",
-        "sha512": "99ea302d7093103dece067ad3dc3e59444a4ca321b116706cd0b1ef8325c0854b627395454f8c4773f457ccf95fcf1f52ac1bceb08fc8c5dc9fc1d444a36223c"
+        "sha1": "bd5f26a38d6d5a9630a0313f153977a28d999831",
+        "sha512": "c66a18922270e51204123182804a380b7fbfe0baecb3b9dfa2ace12d4dae838966649ce25533aaadc572bbe6c647f6d513c4b292b091e8981f8506eeede809bf"
       }
     },
     {
