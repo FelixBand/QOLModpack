@@ -192,17 +192,6 @@
       }
     },
     {
-      "path": "mods/BorderlessFullscreen-v2.2.1-mc1.21.9.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/UIexcMP1/versions/tD2fz6dI/BorderlessFullscreen-v2.2.1-mc1.21.9.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "f4b319dcc20530496e7755fb925c5babdefe4e9f",
-        "sha512": "3b895bc9da165e6056c84a5d20ab9b040cbcc04a1ad16bd8a4cf1a17135c603356d0f9d29a65c01a52b4f832754c1b1e9fa7c02b178d9bd228b7438204d827fc"
-      }
-    },
-    {
       "path": "mods/DistantHorizons-2.4.2-b-1.21.11-fabric-neoforge.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/uCdwusMi/versions/MEUmB9jk/DistantHorizons-2.4.2-b-1.21.11-fabric-neoforge.jar"
@@ -281,6 +270,17 @@
       "hashes": {
         "sha1": "175139f89704a9e25287857b1d078454a75bba44",
         "sha512": "f92f9d9654eea1ffc33e9889e077e6f412cf057731346d92d0e182cd92512e68eac87df30a5f282fa42f8a2b90decb57fc3930add7811f6bf3c141b3fe41a0ce"
+      }
+    },
+    {
+      "path": "shaderpacks/photon_v1.2a.zip",
+      "downloads": [
+        "https://cdn.modrinth.com/data/lLqFfGNs/versions/rz2vlXVm/photon_v1.2a.zip"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "6ad7e57f22ceb5530b168d077414abc8387c9b04",
+        "sha512": "6dd3e8078c5a7958638259a3472ce1192e549e0683c5c668df25bfcff5d282af5fe791e423490561c4a2e68f3933f4ff2ef2ef689f13a4774bfdef86d7994db4"
       }
     }
   ],
