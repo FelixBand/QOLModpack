@@ -181,14 +181,14 @@
       }
     },
     {
-      "path": "mods/e4mc_minecraft-fabric-5.5.1.jar",
+      "path": "mods/mcwifipnp-1.9.8-1.21.11-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/qANg5Jrr/versions/ksbz8jfO/e4mc_minecraft-fabric-5.5.1.jar"
+        "https://cdn.modrinth.com/data/RTWpcTBp/versions/E4vQK4Ec/mcwifipnp-1.9.8-1.21.11-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "4b6fbb25acf0400cedaab0080448d48fdb26a24d",
-        "sha512": "ef651e84ad8d96fc02232a5437ae06d9cce4fa8d67bbbd57401705e6e760b46d745446c63170831abb41c3f7939d8e1a901c8c641c2b809e49e96613bba01c18"
+        "sha1": "5f80ddc4ae7a653e190da85f7858ae9f8ed84f1c",
+        "sha512": "8334b9d853bcd74ec14b817685e75cc580f27fa5b0dcdbd0dcf4ccf4e983feb7b4302d4ac03a8e753197320f601a0b1f88a5c07e7efae6ce96b0883d6ba69cd9"
       }
     },
     {
