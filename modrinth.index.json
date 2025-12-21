@@ -1,40 +1,40 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "4.1.0",
+  "versionId": "4.2.0",
   "name": "Felix QOL Modpack",
   "files": [
     {
-      "path": "mods/fabric-api-0.139.4+1.21.11.jar",
+      "path": "mods/fabric-api-0.140.2+1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/RDb9rvBm/fabric-api-0.139.4%2B1.21.11.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/gB6TkYEJ/fabric-api-0.140.2%2B1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "c0d3aa489c6c2f8806f236b3580e776da30a1c85",
-        "sha512": "871f5da6dae20095583ac6a871ee13e34151e458a1dac70d3a3de46982464407b0f7af921a3286fede46f27cc2378299ed1c937fd6895f75428445f46d33e4af"
+        "sha1": "c115a7e4442bb6f54cb316efa28fb7d41d2e103c",
+        "sha512": "af4465797d80401021a6aefc8c547200e7c0f8cae134299bf3fafbc310fa81f055246b0614fc0e037538f4a844e55aad30abfa3c67460422853dfc426f086d00"
       }
     },
     {
-      "path": "mods/sodium-fabric-0.8.0+mc1.21.11.jar",
+      "path": "mods/sodium-fabric-0.8.1+mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/MLXdfyIk/sodium-fabric-0.8.0%2Bmc1.21.11.jar"
+        "https://cdn.modrinth.com/data/AANobbMI/versions/2IxKzI1o/sodium-fabric-0.8.1%2Bmc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "331e5f5b6f6b9b471e39a2879dac32801018b8c0",
-        "sha512": "1740608c6301ee82065c29d902a2d18289c33ed73bd39d4643529e81eecda82bdd9d8e8d1923ff1fea11469f2bb2b8a9f33f0400d021e69533135c930c281638"
+        "sha1": "bc3718523f0a94d0043b0cb83b4d240ef82e2871",
+        "sha512": "9dfa77348883425c8507be0e788f93dfbd87fd0f258f658898ef0d28a3e5d2ac05e98bd9f494c9981c85c33d6c4082c5b82811869d24a15bfea4898c714a0c11"
       }
     },
     {
-      "path": "mods/iris-fabric-1.10.2+mc1.21.11.jar",
+      "path": "mods/iris-fabric-1.10.3+mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/YL57xq9U/versions/ID2pg4dQ/iris-fabric-1.10.2%2Bmc1.21.11.jar"
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/CTILw1NK/iris-fabric-1.10.3%2Bmc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "027d7e37e96d0fb1bfcb9bb0d7193225e7fa9476",
-        "sha512": "411d1905dff43ef7676d7bda73594cd3e1c73c349895d9f65d5fa6c8d354864969ee1149c9d71a5ece79fd073ec4cf76ffa718a2eb8d0f687c029fbb3fdef355"
+        "sha1": "83788e469485860d7a52149e3579e02599876437",
+        "sha512": "1c382b43cc780496ce4f67b856a797c2d00b1b0eec8fcfd645090f6d3d416340bc51a7ef0433482ba69f17fa62d9f46e49e507e876f2875d6d08b34fbd9d9e5b"
       }
     },
     {
@@ -71,14 +71,14 @@
       }
     },
     {
-      "path": "mods/voicechat-fabric-1.21.11-2.6.9.jar",
+      "path": "mods/voicechat-fabric-1.21.11-2.6.10.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/YECcGHNV/voicechat-fabric-1.21.11-2.6.9.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/T42QJY4i/voicechat-fabric-1.21.11-2.6.10.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "050cc29120ef218b30de4f9f285ba26c797fb77f",
-        "sha512": "e96414e96f36c8344c27d5ae0477699fa41e1fd1098036604063732d4b60e8004d2c24ddb4fad7ae84a0766c1930d56a67ac6acab9aeb75372758e431770e2f9"
+        "sha1": "b2906f756de948d6c778476546b2243ed2a68f36",
+        "sha512": "5da377423b2e48cf6729eab3f67eb82b21d591dee8ff060b2f9295c2743994ca3b49abe77c4b8d2480286c7e6e71f2f19afaf45e13d3794685b726cf2431fc19"
       }
     },
     {
@@ -192,14 +192,14 @@
       }
     },
     {
-      "path": "mods/DistantHorizons-2.4.2-b-1.21.11-fabric-neoforge.jar",
+      "path": "mods/DistantHorizons-2.4.3-b-1.21.11-fabric-neoforge.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/uCdwusMi/versions/MEUmB9jk/DistantHorizons-2.4.2-b-1.21.11-fabric-neoforge.jar"
+        "https://cdn.modrinth.com/data/uCdwusMi/versions/OmG1jkba/DistantHorizons-2.4.3-b-1.21.11-fabric-neoforge.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "9a348ad742fc6f21466069116b896168b53cb052",
-        "sha512": "a3ec208c2c68e09c6b3ad468c04ddc538bb3969b4a8afc9d02ff92cee51a19fead7d3cedb7c041079706ee98b8d1ad98af2160db971949765f4bdcce35d80b56"
+        "sha1": "02d9c3828e2e69e4e79434f2ce06962e0acef53f",
+        "sha512": "e5f736dec3c6b5788f86aea8fa1befe018cbf4e799e283403617c92477decfcce7578cf97edf4bbf04e424e7c5432c44e76a3384b4f9e738a11f9ee4e8bb05f3"
       }
     },
     {
@@ -255,6 +255,28 @@
       "hashes": {
         "sha1": "451daa1da7470dea8c1de97708e009f840f3130d",
         "sha512": "e169c6252d655b0ecf76717faa206270b99f23b29979ca70d76b1830fef5a06fe9579d23fdaa85fb789bc6e54f25332c039b68d2f55275da627dee474a9fb9e8"
+      }
+    },
+    {
+      "path": "mods/fusion-1.2.11a-fabric-mc1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/p19vrgc2/versions/qQ1z2Uun/fusion-1.2.11a-fabric-mc1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "7d5ad9e1cfeba2626d35a6660ec01d4a30e90199",
+        "sha512": "049efbb77437b79db3565b2599f211eb8c613c7e97197c7dfac170011cfc7e504b40eef4238f5e773f63918666a01ad33f657b3c8a1615a68e1cb229b0487bad"
+      }
+    },
+    {
+      "path": "mods/controlify-2.5.0+1.21.11-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/4N7tPBpk/controlify-2.5.0%2B1.21.11-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "b537022f927cfe5c412b28528d3bee33b4369e89",
+        "sha512": "cba7986ff8519a6f99c206f46d7990fccb73d25b3120f99f01f2bdec6b4715826d27aff2f294a2536e01e95fbaf8466b33f107cc7e3e2368fab7ec6d83e7a69e"
       }
     },
 
