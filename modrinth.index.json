@@ -295,6 +295,17 @@
       }
     },
     {
+      "path": "resourcepacks/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
+      "downloads": [
+        "https://cdn.modrinth.com/data/xuN3KzPl/versions/oYKivjVk/Fusion%20Connected%20Glass%20v1.0.1%20for%20Minecraft%201.20-1.21.8.zip"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "48210e165b4df035509c2cdaba654afdb0ad27b3",
+        "sha512": "52eb4da683dffa4cf25d26b79e420d5488509128567ca6ec447859ae9e6bd855ad0cc722b45731f151b0a919283514d2f449e655e273ac86e9ab937e048e889b"
+      }
+    },
+    {
       "path": "shaderpacks/photon_v1.2a.zip",
       "downloads": [
         "https://cdn.modrinth.com/data/lLqFfGNs/versions/rz2vlXVm/photon_v1.2a.zip"
