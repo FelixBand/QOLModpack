@@ -279,6 +279,17 @@
         "sha512": "cba7986ff8519a6f99c206f46d7990fccb73d25b3120f99f01f2bdec6b4715826d27aff2f294a2536e01e95fbaf8466b33f107cc7e3e2368fab7ec6d83e7a69e"
       }
     },
+    {
+      "path": "mods/locator-heads-1.6.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/L4pt5egz/versions/PW1bMbn7/locator-heads-1.6.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "f95033bb58732d35fd04020217fc70ac15711f67",
+        "sha512": "6f1da6051fae1d4cfe18592b70aa5801ada31f51f0c1de0ccdcd67ce4f90d92faa19969a31c377d1a21d462ffc189b976e99ee147af7c60213653d01eb5e39c4"
+      }
+    },
 
 
 
