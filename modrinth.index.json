@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "4.2.0",
+  "versionId": "4.3.0",
   "name": "Felix QOL Modpack",
   "files": [
     {
@@ -16,25 +16,47 @@
       }
     },
     {
-      "path": "mods/sodium-fabric-0.8.1+mc1.21.11.jar",
+      "path": "mods/sodium-fabric-0.8.2+mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/2IxKzI1o/sodium-fabric-0.8.1%2Bmc1.21.11.jar"
+        "https://cdn.modrinth.com/data/AANobbMI/versions/59wygFUQ/sodium-fabric-0.8.2%2Bmc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "bc3718523f0a94d0043b0cb83b4d240ef82e2871",
-        "sha512": "9dfa77348883425c8507be0e788f93dfbd87fd0f258f658898ef0d28a3e5d2ac05e98bd9f494c9981c85c33d6c4082c5b82811869d24a15bfea4898c714a0c11"
+        "sha1": "eaae2b226d76079e56ae6f5d4f5dc96214bd49d3",
+        "sha512": "0ab706031f954e4acfc0897536dcd182aaced35b912ee05f00a4c79609064c22d4249d7c1399b3359af974b258520664bbeb079d46f2e167f9f4d12ed86aeb37"
       }
     },
     {
-      "path": "mods/iris-fabric-1.10.3+mc1.21.11.jar",
+      "path": "mods/reeses-sodium-options-fabric-2.0.2+mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/YL57xq9U/versions/CTILw1NK/iris-fabric-1.10.3%2Bmc1.21.11.jar"
+        "https://cdn.modrinth.com/data/Bh37bMuy/versions/gmIM6uan/reeses-sodium-options-fabric-2.0.2%2Bmc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "83788e469485860d7a52149e3579e02599876437",
-        "sha512": "1c382b43cc780496ce4f67b856a797c2d00b1b0eec8fcfd645090f6d3d416340bc51a7ef0433482ba69f17fa62d9f46e49e507e876f2875d6d08b34fbd9d9e5b"
+        "sha1": "777f0d0671d41d70da3332f67328be864fda9289",
+        "sha512": "48a6699a91230db9fb0f693e931d6006fb1d011f6d0f6d520da9307a9d451949c24d1836bd6026568666d2028e2bf814c6ff843d6a4c8b5570bf6bcd860dead4"
+      }
+    },
+    {
+      "path": "mods/ImmediatelyFast-Fabric-1.14.1+1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/XCnavm6o/ImmediatelyFast-Fabric-1.14.1%2B1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "c090d0239ece01f4db5827b3df5455117d58d919",
+        "sha512": "6534609849c4b33951d3b6ce0c83dd9272181f8d1d9d8cf39bbca8b5a2e3cbb498200d36844454bb3e52e4943fc9a556f52674b53be4f07fe897f0bf5689ea66"
+      }
+    },
+    {
+      "path": "mods/iris-fabric-1.10.4+mc1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/Q4YiZeCX/iris-fabric-1.10.4%2Bmc1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "5b9a93e688af07555b6ded6ed95366a4197f74bb",
+        "sha512": "e555eb98aa0306d8a6337d4eb9402f7c994906c341bc5f1f0f9929a164bfd88266c714a4446635c961d17228691d0f7b15d8d74917ed5cec5f4fc6feb9d32005"
       }
     },
     {
@@ -258,14 +280,14 @@
       }
     },
     {
-      "path": "mods/fusion-1.2.11a-fabric-mc1.21.11.jar",
+      "path": "mods/continuity-3.0.1-beta.1+1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/p19vrgc2/versions/qQ1z2Uun/fusion-1.2.11a-fabric-mc1.21.11.jar"
+        "https://cdn.modrinth.com/data/1IjD5062/versions/mX1iknM1/continuity-3.0.1-beta.1%2B1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "7d5ad9e1cfeba2626d35a6660ec01d4a30e90199",
-        "sha512": "049efbb77437b79db3565b2599f211eb8c613c7e97197c7dfac170011cfc7e504b40eef4238f5e773f63918666a01ad33f657b3c8a1615a68e1cb229b0487bad"
+        "sha1": "51d34c3f2035db0c7fca321b2d94f01b5167707c",
+        "sha512": "b092e95668bf5e32d531842d920e99f865213eaf3e7c26759b51e5a95ef2702c2c0485bba6d8adf4543e8d71680d5a05fad68e94159e8e507033b516b736eb60"
       }
     },
     {
@@ -303,17 +325,6 @@
       "hashes": {
         "sha1": "175139f89704a9e25287857b1d078454a75bba44",
         "sha512": "f92f9d9654eea1ffc33e9889e077e6f412cf057731346d92d0e182cd92512e68eac87df30a5f282fa42f8a2b90decb57fc3930add7811f6bf3c141b3fe41a0ce"
-      }
-    },
-    {
-      "path": "resourcepacks/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
-      "downloads": [
-        "https://cdn.modrinth.com/data/xuN3KzPl/versions/oYKivjVk/Fusion%20Connected%20Glass%20v1.0.1%20for%20Minecraft%201.20-1.21.8.zip"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "48210e165b4df035509c2cdaba654afdb0ad27b3",
-        "sha512": "52eb4da683dffa4cf25d26b79e420d5488509128567ca6ec447859ae9e6bd855ad0cc722b45731f151b0a919283514d2f449e655e273ac86e9ab937e048e889b"
       }
     },
     {
