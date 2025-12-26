@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "4.3.0",
+  "versionId": "4.4.0",
   "name": "Felix QOL Modpack",
   "files": [
     {
@@ -71,25 +71,25 @@
       }
     },
     {
-      "path": "mods/modmenu-17.0.0-alpha.1.jar",
+      "path": "mods/modmenu-17.0.0-beta.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/mOgUt4GM/versions/fP9olSIC/modmenu-17.0.0-alpha.1.jar"
+        "https://cdn.modrinth.com/data/mOgUt4GM/versions/hGuj7hNc/modmenu-17.0.0-beta.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "b8582a34b433aed24478c9bb43156b66340d0f1f",
-        "sha512": "ef300ec938a688a52e95bafff3edc673ffee4af67273483a81b155f30ac9a4c4ca40e7ee96e27a35b4bb00a55b1ee4bd52f6d8efa69ba77417e569d0349ab562"
+        "sha1": "a409614af507ec8b31185d00d45cee1682097fe1",
+        "sha512": "bb0878d3ff2ddd9e4c6312d25eee5367b1ed114ea71baa07dbc30e13716f64d0bcebb1fccf37ca42ead0afb92044dccaef66b8c1c5d3946709e309d5d32f1984"
       }
     },
     {
-      "path": "mods/lithium-fabric-0.21.1+mc1.21.11.jar",
+      "path": "mods/lithium-fabric-0.21.2+mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/4DdLmtyz/lithium-fabric-0.21.1%2Bmc1.21.11.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/gl30uZvp/lithium-fabric-0.21.2%2Bmc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "21e19758c0ba258c2a384ec1b77caa415fc482b0",
-        "sha512": "0857d30d063dc704a264b2fe774a7e641926193cfdcde72fe2cd603043d8548045b955e30c05b1b2b96ef7d1c0f85d55269da26f44a0644c984b45623e976794"
+        "sha1": "c1f8f61d4b2fac28ab083a927c6b1338598255ed",
+        "sha512": "94625510013e0daaf1c2e2b6d8a463c932ff6220f91ba5b0cd5f868658215f046d94d07b3465660f576c4dc27a5aa183dfbdc1c9303f11894b5b25a1dc6c3bb6"
       }
     },
     {
@@ -214,14 +214,14 @@
       }
     },
     {
-      "path": "mods/DistantHorizons-2.4.3-b-1.21.11-fabric-neoforge.jar",
+      "path": "mods/DistantHorizons-2.4.5-b-1.21.11-fabric-neoforge.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/uCdwusMi/versions/OmG1jkba/DistantHorizons-2.4.3-b-1.21.11-fabric-neoforge.jar"
+        "https://cdn.modrinth.com/data/uCdwusMi/versions/GT3Bm3GN/DistantHorizons-2.4.5-b-1.21.11-fabric-neoforge.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "02d9c3828e2e69e4e79434f2ce06962e0acef53f",
-        "sha512": "e5f736dec3c6b5788f86aea8fa1befe018cbf4e799e283403617c92477decfcce7578cf97edf4bbf04e424e7c5432c44e76a3384b4f9e738a11f9ee4e8bb05f3"
+        "sha1": "9c97e5eab78fa8dd176e0f62f00db3e266c468ae",
+        "sha512": "a9f673fac1f6f554b7394168cbe726f1a15eb2bbef1b65b3c9979853af8de70bf13a457c88ebdc30b955a071d519e86c631cdbf1dd39cdab7c73b9c2d7f165e1"
       }
     },
     {
@@ -302,14 +302,14 @@
       }
     },
     {
-      "path": "mods/locator-heads-1.6.2.jar",
+      "path": "mods/locator-heads-1.6.3.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/L4pt5egz/versions/PW1bMbn7/locator-heads-1.6.2.jar"
+        "https://cdn.modrinth.com/data/L4pt5egz/versions/vk8J5uRa/locator-heads-1.6.3.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "f95033bb58732d35fd04020217fc70ac15711f67",
-        "sha512": "6f1da6051fae1d4cfe18592b70aa5801ada31f51f0c1de0ccdcd67ce4f90d92faa19969a31c377d1a21d462ffc189b976e99ee147af7c60213653d01eb5e39c4"
+        "sha1": "cb41b39e12bd802f5d8a57dc2a88846276bffb50",
+        "sha512": "8d6b5684972235c390b3a581b1d9bdaf4f466549e9b51ae17818d2c7372196d9fe1f47de0a413274d8d6eb80f645326c92b25bcf219d7d92c4db200f6cde1596"
       }
     },
 
