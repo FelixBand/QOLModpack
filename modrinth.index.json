@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "4.4.0",
+  "versionId": "4.5.0",
   "name": "Felix QOL Modpack",
   "files": [
     {
@@ -310,6 +310,17 @@
       "hashes": {
         "sha1": "cb41b39e12bd802f5d8a57dc2a88846276bffb50",
         "sha512": "8d6b5684972235c390b3a581b1d9bdaf4f466549e9b51ae17818d2c7372196d9fe1f47de0a413274d8d6eb80f645326c92b25bcf219d7d92c4db200f6cde1596"
+      }
+    },
+    {
+      "path": "mods/autologin-mod-1.1.8.jar",
+      "downloads": [
+        "https://github.com/FelixBand/AutoLogin-Mod/releases/download/v1.1.8/autologin-mod-1.1.8.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "835ec99be95b0b74878c362cc30a267b6db2d278",
+        "sha512": "b2e389addf56af19c02d9c0114b6cafa62ce201e2cb3baa18c110753466780729a04523c98a1705798b36ea5313fd2709a60acbc915cf263f4d46d244433bbe3"
       }
     },
 
