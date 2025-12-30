@@ -60,14 +60,14 @@
       }
     },
     {
-      "path": "mods/entityculling-fabric-1.9.4-mc1.21.11.jar",
+      "path": "mods/entityculling-fabric-1.9.5-mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/P9ZiZM7Q/entityculling-fabric-1.9.4-mc1.21.11.jar"
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/Dx3xsUER/entityculling-fabric-1.9.5-mc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "b23ec118baf57787c5a1f4937fd0b3a599a03680",
-        "sha512": "a28bd3c0b34e49d3cf11bd6354f19b153de2607113d0efe8765a1bca1a8b318e4df9ffd4862b80210f7b17ff0bb8fff3e86efd19cea994b0899ea41e3b2dfc11"
+        "sha1": "e2e88c0b2286148e9547eb23d95d2e30e60ad753",
+        "sha512": "1222e523900fafa6690f992d889471dbe9819de33ac72b0c26f6b6563a181befe714d0d737c608ca94c566c8c015f1fe6cb1b5286d7043468c244d040a27036e"
       }
     },
     {
@@ -258,14 +258,14 @@
       }
     },
     {
-      "path": "mods/moreculling-fabric-1.21.11-1.6.0-beta.2.jar",
+      "path": "mods/moreculling-fabric-1.21.11-1.6.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/51shyZVL/versions/Ju23l9rz/moreculling-fabric-1.21.11-1.6.0-beta.2.jar"
+        "https://cdn.modrinth.com/data/51shyZVL/versions/kWU8mVq5/moreculling-fabric-1.21.11-1.6.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "e968bd79bb85c2b658869a2738e033676207438f",
-        "sha512": "5d54ceba9a839d615cfcd32e1d1e1f054299fbcf165dcaccfd5b8f175d45f569c7c28cd6a5a8830c3bc52527bf0d93aac0eb0d565e8e5e331a2677b964768f17"
+        "sha1": "caaaf33e625903028b4f6f842df50c6c01ba059b",
+        "sha512": "86b9ab2123c8419963a10d14177e6337b13623e077b3a8d240c9575fe583b1eb377ce8e128b5caf3ab6cd958f25d8f0163131aef7de59791cd6683eef0703663"
       }
     },
     {
