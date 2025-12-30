@@ -138,7 +138,7 @@ _version = 3
 		#
 		# If enabled, the mod will log information about the world generation process. 
 		# This can be useful for debugging.
-		logWorldGenEventToFile = "INFO"
+		logWorldGenEventToFile = "ERROR"
 		#
 		# If enabled, the mod will log information about the renderer OpenGL process. 
 		# This can be useful for debugging.
