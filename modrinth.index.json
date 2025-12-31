@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "4.6.0",
+  "versionId": "4.7.0",
   "name": "Felix QOL Modpack",
   "files": [
     {
@@ -321,6 +321,17 @@
       "hashes": {
         "sha1": "c915116ce5b347c9f6d6ea31bd0552367ed407ce",
         "sha512": "f60607aa38891129f77c3e5905afe806689411c6bb7e207866fc804f7ebfc84b3589fcab8d8e74980f7a0cfc663444bb4b84ff890bb8092dfbe82e98337a0eec"
+      }
+    },
+    {
+      "path": "mods/macos-input-fixes-1.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/x9BrsVME/versions/LJz2SKJJ/macos-input-fixes-1.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "54de61180f57535bd83007baef66f6db3f51a3e3",
+        "sha512": "167d6cc307895841ec8d2c07b7fdcb6d6792edcbcfa71c7a642717ef898149093bc72ad669d5dacc0a06dac29bd597aa4bc41458bb27849fffb4c58d6196ac8b"
       }
     },
     {
