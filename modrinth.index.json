@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "4.7.0",
+  "versionId": "4.8.0",
   "name": "Felix QOL Modpack",
   "files": [
     {
@@ -93,14 +93,14 @@
       }
     },
     {
-      "path": "mods/voicechat-fabric-1.21.11-2.6.10.jar",
+      "path": "mods/voicechat-fabric-1.21.11-2.6.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/T42QJY4i/voicechat-fabric-1.21.11-2.6.10.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/1OVXKX2W/voicechat-fabric-1.21.11-2.6.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "b2906f756de948d6c778476546b2243ed2a68f36",
-        "sha512": "5da377423b2e48cf6729eab3f67eb82b21d591dee8ff060b2f9295c2743994ca3b49abe77c4b8d2480286c7e6e71f2f19afaf45e13d3794685b726cf2431fc19"
+        "sha1": "649080efc42624b06edd3896956605039eabeab2",
+        "sha512": "2ddab762110037616ef55403f97dfb4fa6df7c37bc12554a6f4d4bb40cebe102ff671c4876bb3cb0f98ad2542f414b079a6e48aa20656c9a13c4bfbdf908b534"
       }
     },
     {
@@ -126,14 +126,14 @@
       }
     },
     {
-      "path": "mods/c2me-fabric-mc1.21.11-0.3.6+alpha.0.36.jar",
+      "path": "mods/c2me-fabric-mc1.21.11-0.3.6.0.0.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/ZKiRI66j/c2me-fabric-mc1.21.11-0.3.6%2Balpha.0.36.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/olrVZpJd/c2me-fabric-mc1.21.11-0.3.6.0.0.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "18a5286becf93a92b6ffbf75ba5462ce8b6bedf6",
-        "sha512": "3495d4902e7c75dd18babb41712d41f6b08587f4fb68f10c439786085c747b51ac275bb937e8bf95801f3e1b3e536ddc44bdd23a2d688c78f6bec3c5ddb3cc59"
+        "sha1": "587f9a3d9e4591e8e1a1c3eda61ed2f7bfa5dc46",
+        "sha512": "c9b11100572fb71c3080ff11b011467624e8013b9942aade09a5c77eb62b3289667bad70501ddea8f35deb0a5d26884b79f76d4ed112d32342471ca7384b788a"
       }
     },
     {
@@ -291,14 +291,14 @@
       }
     },
     {
-      "path": "mods/controlify-2.5.0+1.21.11-fabric.jar",
+      "path": "mods/controlify-2.5.1+1.21.11-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/4N7tPBpk/controlify-2.5.0%2B1.21.11-fabric.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/8HbSN6J7/controlify-2.5.1%2B1.21.11-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "b537022f927cfe5c412b28528d3bee33b4369e89",
-        "sha512": "cba7986ff8519a6f99c206f46d7990fccb73d25b3120f99f01f2bdec6b4715826d27aff2f294a2536e01e95fbaf8466b33f107cc7e3e2368fab7ec6d83e7a69e"
+        "sha1": "a3be51751fd0cf4e6ee773931a0de3313e4285e2",
+        "sha512": "97abe77c6406fd40148f75fc7e44a49da0444bb001dd700eb11dc67f64a11fb84a86834b5d4fc18e8bc4b53573f57cad2a3086a253159d24660df71e914284a3"
       }
     },
     {
