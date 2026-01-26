@@ -291,14 +291,14 @@
       }
     },
     {
-      "path": "mods/controlify-2.5.1+1.21.11-fabric.jar",
+      "path": "mods/controlify-2.5.2+1.21.11-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/8HbSN6J7/controlify-2.5.1%2B1.21.11-fabric.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/XN6OUc3u/controlify-2.5.2%2B1.21.11-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "a3be51751fd0cf4e6ee773931a0de3313e4285e2",
-        "sha512": "97abe77c6406fd40148f75fc7e44a49da0444bb001dd700eb11dc67f64a11fb84a86834b5d4fc18e8bc4b53573f57cad2a3086a253159d24660df71e914284a3"
+        "sha1": "56aff402e628816a662422d63376369aadb89254",
+        "sha512": "7a7d55301cc1a51d9bdb9cc9a614a7ce5ea58f04b768db81d0e1ba4ee3d83c0bafb9f14a5a12e97ec3e6147b9090aa9489adae3e661bf18595f8d279c1afb160"
       }
     },
     {
