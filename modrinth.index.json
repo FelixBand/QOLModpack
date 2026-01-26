@@ -16,14 +16,14 @@
       }
     },
     {
-      "path": "mods/sodium-fabric-0.8.2+mc1.21.11.jar",
+      "path": "mods/sodium-fabric-0.8.4+mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/59wygFUQ/sodium-fabric-0.8.2%2Bmc1.21.11.jar"
+        "https://cdn.modrinth.com/data/AANobbMI/versions/1OWNgWVR/sodium-fabric-0.8.4%2Bmc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "eaae2b226d76079e56ae6f5d4f5dc96214bd49d3",
-        "sha512": "0ab706031f954e4acfc0897536dcd182aaced35b912ee05f00a4c79609064c22d4249d7c1399b3359af974b258520664bbeb079d46f2e167f9f4d12ed86aeb37"
+        "sha1": "c0a8ac43af978f8d8245bf033670944eb90d7b2e",
+        "sha512": "c882e07f09ccc04b6258e79979a8e1429018de5b09da5fccea189d0a5de60ea5475f1884fc724f4d3ababc8abe730b9856d5e4864c3e418b21871dbaed21f0c3"
       }
     },
     {
@@ -49,14 +49,14 @@
       }
     },
     {
-      "path": "mods/iris-fabric-1.10.4+mc1.21.11.jar",
+      "path": "mods/iris-fabric-1.10.5+mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/YL57xq9U/versions/Q4YiZeCX/iris-fabric-1.10.4%2Bmc1.21.11.jar"
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/ZQx4ktUs/iris-fabric-1.10.5%2Bmc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "5b9a93e688af07555b6ded6ed95366a4197f74bb",
-        "sha512": "e555eb98aa0306d8a6337d4eb9402f7c994906c341bc5f1f0f9929a164bfd88266c714a4446635c961d17228691d0f7b15d8d74917ed5cec5f4fc6feb9d32005"
+        "sha1": "8f56581bb74c845b702d07488cd9b8adffaae497",
+        "sha512": "e42a65e03c324c44847255e255dba4e75d65093bccd2b4e4804f297bf8505e218fbd5a600b8dda8fbe73229eb90ae710c7133e43aa2029b961a686600539ed79"
       }
     },
     {
@@ -181,14 +181,14 @@
       }
     },
     {
-      "path": "mods/ferritecore-8.0.3-fabric.jar",
+      "path": "mods/ferritecore-8.2.0-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/uXXizFIs/versions/eRLwt73x/ferritecore-8.0.3-fabric.jar"
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "0d2b112df25059211ae84f102254dc552367d72e",
-        "sha512": "be600543e499b59286f9409f46497570adc51939ae63eaa12ac29e6778da27d8c7c6cd0b3340d8bcca1cc99ce61779b1a8f52b990f9e4e9a93aa9c6482905231"
+        "sha1": "c2e2f5e008f5bc9f401dfad8ca94909917006b65",
+        "sha512": "3210926a82eb32efd9bcebabe2f6c053daf5c4337eebc6d5bacba96d283510afbde646e7e195751de795ec70a2ea44fef77cb54bf22c8e57bb832d6217418869"
       }
     },
     {
