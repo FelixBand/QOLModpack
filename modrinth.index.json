@@ -5,14 +5,14 @@
   "name": "Felix QOL Modpack",
   "files": [
     {
-      "path": "mods/fabric-api-0.140.2+1.21.11.jar",
+      "path": "mods/fabric-api-0.141.3+1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/gB6TkYEJ/fabric-api-0.140.2%2B1.21.11.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/i5tSkVBH/fabric-api-0.141.3%2B1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "c115a7e4442bb6f54cb316efa28fb7d41d2e103c",
-        "sha512": "af4465797d80401021a6aefc8c547200e7c0f8cae134299bf3fafbc310fa81f055246b0614fc0e037538f4a844e55aad30abfa3c67460422853dfc426f086d00"
+        "sha1": "50de67eb221f0b38216da8668b09ca311327040e",
+        "sha512": "c20c017e23d6d2774690d0dd774cec84c16bfac5461da2d9345a1cd95eee495b1954333c421e3d1c66186284d24a433f6b0cced8021f62e0bfa617d2384d0471"
       }
     },
     {
@@ -38,14 +38,14 @@
       }
     },
     {
-      "path": "mods/ImmediatelyFast-Fabric-1.14.1+1.21.11.jar",
+      "path": "mods/ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/XCnavm6o/ImmediatelyFast-Fabric-1.14.1%2B1.21.11.jar"
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/QwkfUKSj/ImmediatelyFast-Fabric-1.14.2%2B1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "c090d0239ece01f4db5827b3df5455117d58d919",
-        "sha512": "6534609849c4b33951d3b6ce0c83dd9272181f8d1d9d8cf39bbca8b5a2e3cbb498200d36844454bb3e52e4943fc9a556f52674b53be4f07fe897f0bf5689ea66"
+        "sha1": "4f17c6b7388f0afc5d24075dc2a294963f78c712",
+        "sha512": "dedff930a4e317994579020eaeef9f56d81d5215d871372d206fc974842d87e80e4be15d8571a4eaa4320c2412701ea093ba4494a47e8988e3d448ec8adcba37"
       }
     },
     {
@@ -71,14 +71,14 @@
       }
     },
     {
-      "path": "mods/modmenu-17.0.0-beta.1.jar",
+      "path": "mods/modmenu-17.0.0-beta.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/mOgUt4GM/versions/hGuj7hNc/modmenu-17.0.0-beta.1.jar"
+        "https://cdn.modrinth.com/data/mOgUt4GM/versions/JWQVh32x/modmenu-17.0.0-beta.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "a409614af507ec8b31185d00d45cee1682097fe1",
-        "sha512": "bb0878d3ff2ddd9e4c6312d25eee5367b1ed114ea71baa07dbc30e13716f64d0bcebb1fccf37ca42ead0afb92044dccaef66b8c1c5d3946709e309d5d32f1984"
+        "sha1": "632c7565ba0fbc033aa4574e1ae6919f277fe03b",
+        "sha512": "27cc0fd2c9426e8eba70f96b9d31e6dd756819cc44338b8948167e93fb6e22416d10d2e8c63f7c689c2aca2c27bdb6864d974b92e3f79b3027d23eee1bfbdb2e"
       }
     },
     {
@@ -170,14 +170,14 @@
       }
     },
     {
-      "path": "mods/balm-fabric-1.21.11-21.11.2.jar",
+      "path": "mods/balm-fabric-1.21.11-21.11.6.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/MBAkmtvl/versions/B70bHBzu/balm-fabric-1.21.11-21.11.2.jar"
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/sbE6e5Gh/balm-fabric-1.21.11-21.11.6.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "df0551636a124862a3deec4cb23b67c3363e83b2",
-        "sha512": "fa9aaa861c139aa7a539aaf7f8c34b9ab222eec6a0c5103920f9492a3724cee6ae3f6ce9b57f14d7c5b760d676d52c875b391825834e6edb2b01bd60ccf02bda"
+        "sha1": "af9caac1081738b5c682cd8cd72ee4644cce9607",
+        "sha512": "89aac07146c8204e705662010589c60b4e8fdf07cabc254e5901116edc95da40448d4a49abfdf179883512c83c7909b7ba02e767cde49cb44b69e1e58c793041"
       }
     },
     {
@@ -291,25 +291,25 @@
       }
     },
     {
-      "path": "mods/controlify-2.5.2+1.21.11-fabric.jar",
+      "path": "mods/controlify-3.0.0-beta.2+1.21.11-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/XN6OUc3u/controlify-2.5.2%2B1.21.11-fabric.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/H0Wzr7uD/controlify-3.0.0-beta.2%2B1.21.11-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "56aff402e628816a662422d63376369aadb89254",
-        "sha512": "7a7d55301cc1a51d9bdb9cc9a614a7ce5ea58f04b768db81d0e1ba4ee3d83c0bafb9f14a5a12e97ec3e6147b9090aa9489adae3e661bf18595f8d279c1afb160"
+        "sha1": "888bbd6c5bfe3d699190d77f704bec0ed78b2bf9",
+        "sha512": "fab7e46336461eaa6a8f7fd1ff6538759d2056d8b3a0410a4b4d7a59767c56b728ace8cbc4a4223c3542da297822b8581c375c718bfd3f7af66eeae38f36278b"
       }
     },
     {
-      "path": "mods/locator-heads-1.6.3.jar",
+      "path": "mods/locator-heads-1.6.4.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/L4pt5egz/versions/vk8J5uRa/locator-heads-1.6.3.jar"
+        "https://cdn.modrinth.com/data/L4pt5egz/versions/nRYY2Vc3/locator-heads-1.6.4.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "cb41b39e12bd802f5d8a57dc2a88846276bffb50",
-        "sha512": "8d6b5684972235c390b3a581b1d9bdaf4f466549e9b51ae17818d2c7372196d9fe1f47de0a413274d8d6eb80f645326c92b25bcf219d7d92c4db200f6cde1596"
+        "sha1": "d9498ba3cec62668ccb7bf4b7c5978b2f82ab613",
+        "sha512": "6e7358c685a087af2320e6c87bc923df1f4b2fec3c752151993597597cdcbea47bfd160e7905bbd5571d3fcd0513d4f2215fd1d728556af4ceae5ca1fb50a044"
       }
     },
     {
@@ -343,6 +343,17 @@
       "hashes": {
         "sha1": "51d97f5fba7b6a132976765e06f93e8f044d382c",
         "sha512": "5c4efa5d080475556362e88348414d74b81c94b1f25f6455a3933a113c949f12a65d6a267822debda5aeafa212ef1f3f675ff1eb38eb82f4f96cf823bb8aaa21"
+      }
+    },
+    {
+      "path": "mods/no-telemetry-1.10.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/hg77g4Pw/versions/cBEkQM9c/no-telemetry-1.10.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "3d52342f5825d01dda6661ef7116cdbacbe49746",
+        "sha512": "a123e59ee7cb9de88669de06d56f5313cc60ee5ec80b0cc407ca0cff3b54b81255fba65e615fa7a33142b8030868e0c2a4cf9bdeadda7b3c593d707eff45576d"
       }
     },
     {
