@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "4.8.0",
+  "versionId": "4.9.0",
   "name": "Felix QOL Modpack",
   "files": [
     {
@@ -16,14 +16,14 @@
       }
     },
     {
-      "path": "mods/sodium-fabric-0.8.4+mc1.21.11.jar",
+      "path": "mods/sodium-fabric-0.8.6+mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/1OWNgWVR/sodium-fabric-0.8.4%2Bmc1.21.11.jar"
+        "https://cdn.modrinth.com/data/AANobbMI/versions/ZPWbiWXz/sodium-fabric-0.8.6%2Bmc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "c0a8ac43af978f8d8245bf033670944eb90d7b2e",
-        "sha512": "c882e07f09ccc04b6258e79979a8e1429018de5b09da5fccea189d0a5de60ea5475f1884fc724f4d3ababc8abe730b9856d5e4864c3e418b21871dbaed21f0c3"
+        "sha1": "fa686304c63efea0456af91a0b6352f032e61e66",
+        "sha512": "55b5ade20dc70e8c9a0f7b6a8ba835d49efd3c4f8360869d6551f13e3a016c44dd78c5ecad638903172898154187726d429ad34a14cea30abfa8bd6d61eb6287"
       }
     },
     {
@@ -49,14 +49,14 @@
       }
     },
     {
-      "path": "mods/iris-fabric-1.10.5+mc1.21.11.jar",
+      "path": "mods/iris-fabric-1.10.6+mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/YL57xq9U/versions/ZQx4ktUs/iris-fabric-1.10.5%2Bmc1.21.11.jar"
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/TSXvi2yD/iris-fabric-1.10.6%2Bmc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "8f56581bb74c845b702d07488cd9b8adffaae497",
-        "sha512": "e42a65e03c324c44847255e255dba4e75d65093bccd2b4e4804f297bf8505e218fbd5a600b8dda8fbe73229eb90ae710c7133e43aa2029b961a686600539ed79"
+        "sha1": "9a4dd8518bbad9e6be9edd443cfc6da74b1bb26b",
+        "sha512": "ca4d3c2a37c1206ac40a825f528dafeaae98bc7cb4d17f1e8b2d427df8b4b106790baaeda60a7d7462784661508fb8278074731a67224bba994a6b52672790a6"
       }
     },
     {
@@ -82,25 +82,25 @@
       }
     },
     {
-      "path": "mods/lithium-fabric-0.21.2+mc1.21.11.jar",
+      "path": "mods/lithium-fabric-0.21.3+mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/gl30uZvp/lithium-fabric-0.21.2%2Bmc1.21.11.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qvNsoO3l/lithium-fabric-0.21.3%2Bmc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "c1f8f61d4b2fac28ab083a927c6b1338598255ed",
-        "sha512": "94625510013e0daaf1c2e2b6d8a463c932ff6220f91ba5b0cd5f868658215f046d94d07b3465660f576c4dc27a5aa183dfbdc1c9303f11894b5b25a1dc6c3bb6"
+        "sha1": "7733e091bebe5f68aaa4e13cfb6f1eaf3a192379",
+        "sha512": "2883739303f0bb602d3797cc601ed86ce6833e5ec313ddce675f3d6af3ee6a40b9b0a06dafe39d308d919669325e95c0aafd08d78c97acd976efde899c7810fd"
       }
     },
     {
-      "path": "mods/voicechat-fabric-1.21.11-2.6.11.jar",
+      "path": "mods/voicechat-fabric-1.21.11-2.6.12.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/1OVXKX2W/voicechat-fabric-1.21.11-2.6.11.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/pFTZ8sqQ/voicechat-fabric-1.21.11-2.6.12.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "649080efc42624b06edd3896956605039eabeab2",
-        "sha512": "2ddab762110037616ef55403f97dfb4fa6df7c37bc12554a6f4d4bb40cebe102ff671c4876bb3cb0f98ad2542f414b079a6e48aa20656c9a13c4bfbdf908b534"
+        "sha1": "28d5556d892eafcbf8da6dab7284879b61aeb1b4",
+        "sha512": "afc78e3d8ca463fb783b00ec3d4cb938ff9249f088d077f8cd75f6c846419e0fe4916061f57a0b188a5c28565c934623c52113f476e69e82aecabaffc8e8fdcc"
       }
     },
     {
@@ -148,14 +148,14 @@
       }
     },
     {
-      "path": "mods/fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
+      "path": "mods/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/Ha28R6CL/versions/LcgnDDmT/fabric-language-kotlin-1.13.7%2Bkotlin.2.2.21.jar"
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/ViT4gucI/fabric-language-kotlin-1.13.9%2Bkotlin.2.3.10.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "ab71e8daf9a2d529204b5c28b3801713d22f3d46",
-        "sha512": "0453a8a4eb8d791b5f0097a6628fae6f13b6dfba1e2bd1f91218769123808c4396a88bcdfc785f1d6bca348f267b32afc2aa9e0d5ec93a7b35bcfe295268c7bc"
+        "sha1": "20b2200961e11994595ebb2d5f6624f232d13751",
+        "sha512": "498672ee88cf703685026e74f82a85e30d980c62a1c8cc14744cb73add09a857db8d585b405e19f558ec490613642750eb00e09d8ef5a3c9578bc52b53568d51"
       }
     },
     {
@@ -258,14 +258,14 @@
       }
     },
     {
-      "path": "mods/moreculling-fabric-1.21.11-1.6.1.jar",
+      "path": "mods/moreculling-fabric-1.21.11-1.6.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/51shyZVL/versions/kWU8mVq5/moreculling-fabric-1.21.11-1.6.1.jar"
+        "https://cdn.modrinth.com/data/51shyZVL/versions/wOzykoLV/moreculling-fabric-1.21.11-1.6.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "caaaf33e625903028b4f6f842df50c6c01ba059b",
-        "sha512": "86b9ab2123c8419963a10d14177e6337b13623e077b3a8d240c9575fe583b1eb377ce8e128b5caf3ab6cd958f25d8f0163131aef7de59791cd6683eef0703663"
+        "sha1": "11a929de62650cc536244d4c2ba889fa84c1c0f2",
+        "sha512": "58cec88e84835c543d8604411f89a0984abe51f0332860354355ede290d2442fc33a86ecda1766e0b1a82ba4edfab27f3c9f6855c0af3234e200218b892756f2"
       }
     },
     {
@@ -291,14 +291,14 @@
       }
     },
     {
-      "path": "mods/controlify-3.0.0-beta.2+1.21.11-fabric.jar",
+      "path": "mods/controlify-3.0.0-beta.3+1.21.11-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/H0Wzr7uD/controlify-3.0.0-beta.2%2B1.21.11-fabric.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/4ps8U9xR/controlify-3.0.0-beta.3%2B1.21.11-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "888bbd6c5bfe3d699190d77f704bec0ed78b2bf9",
-        "sha512": "fab7e46336461eaa6a8f7fd1ff6538759d2056d8b3a0410a4b4d7a59767c56b728ace8cbc4a4223c3542da297822b8581c375c718bfd3f7af66eeae38f36278b"
+        "sha1": "65b9ae211a7c640a61b3dbef44e22e901996d436",
+        "sha512": "170ceb85a1c2fac2985163386c8bda2f212a2488dfe26852d4f52e0369e8b3b8ead9a5bf2e2f785e6b8580bcbb84e08398a86df98a9d31f452264706e12754d9"
       }
     },
     {
@@ -365,6 +365,17 @@
       "hashes": {
         "sha1": "835ec99be95b0b74878c362cc30a267b6db2d278",
         "sha512": "b2e389addf56af19c02d9c0114b6cafa62ce201e2cb3baa18c110753466780729a04523c98a1705798b36ea5313fd2709a60acbc915cf263f4d46d244433bbe3"
+      }
+    },
+    {
+      "path": "mods/vivecraft-1.21.11-1.3.7-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/wGoQDPN5/versions/GovTWsJu/vivecraft-1.21.11-1.3.7-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "208d12fa6d31804bf83439909d31f4a1bac96f22",
+        "sha512": "dbb261dbe792473691fb41d1963386d56c8cc53d93caaa8d3b31ab98eae9f47b12507a57b778325f0389812eea68686658d763e8dc388dd91bebc9fa962dba8e"
       }
     },
 
