@@ -4,3 +4,4 @@ fov:0.5
 directionalAudio:true
 inactivityFpsLimit:"minimized"
 resourcePacks:["vanilla","file/Low Shield.zip","continuity:default","continuity:glass_pane_culling_fix"]
+key_bedrockIfy.key.settings:key.keyboard.b
