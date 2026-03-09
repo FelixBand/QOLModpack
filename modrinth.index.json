@@ -370,12 +370,12 @@
     {
       "path": "mods/autologin-mod-1.1.8.jar",
       "downloads": [
-        "https://github.com/FelixBand/AutoLogin-Mod/releases/download/v1.1.8/autologin-mod-1.1.8.jar"
+        "https://cdn.modrinth.com/data/6OR8Lue2/versions/nGCco91g/autologin-mod-1.1.8.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "835ec99be95b0b74878c362cc30a267b6db2d278",
-        "sha512": "b2e389addf56af19c02d9c0114b6cafa62ce201e2cb3baa18c110753466780729a04523c98a1705798b36ea5313fd2709a60acbc915cf263f4d46d244433bbe3"
+        "sha1": "c5e4da1ebad283cbdb0ee8da3ce691a9325c2851",
+        "sha512": "b0011065e27aacdb76031c07293c36e7cf01c70fb9e96aaaddcaef752a714eed4e00180ddd7b9741b33819fba780d2bdee38ae4405361379f6583ed848654483"
       }
     },
     {
