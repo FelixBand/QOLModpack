@@ -389,6 +389,17 @@
         "sha512": "dbb261dbe792473691fb41d1963386d56c8cc53d93caaa8d3b31ab98eae9f47b12507a57b778325f0389812eea68686658d763e8dc388dd91bebc9fa962dba8e"
       }
     },
+    {
+      "path": "mods/bedrockify-1.11.5+mc1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/ox3rDp1B/versions/x2mn39SK/bedrockify-1.11.5%2Bmc1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "4f201df859b8d43b0b16abc419be813712d77c1a",
+        "sha512": "8d1014633a558dec37f6ff593e37b3012b6962674e566e102ace9d15d975288aeccec7bab167ccd7bb384e8dbd5b437306c2f47047b120e82b11b50518962159"
+      }
+    },
 
 
 
