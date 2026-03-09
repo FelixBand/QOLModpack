@@ -400,6 +400,17 @@
         "sha512": "8d1014633a558dec37f6ff593e37b3012b6962674e566e102ace9d15d975288aeccec7bab167ccd7bb384e8dbd5b437306c2f47047b120e82b11b50518962159"
       }
     },
+    {
+      "path": "mods/visual-snowy-leaves-0.6.0-beta.7+mc1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ff2M7Ii7/versions/zWY0Jv4A/visual-snowy-leaves-0.6.0-beta.7%2Bmc1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "77ce90a6e21a3d2c4b924c28d012470cbc48f8dd",
+        "sha512": "9cd44e1695e9aa97ee59e78660273f6b3297e165b5bf6d65a22a831389912fa2ad8b61c2a3319b9bb9da69950efcac8db6968df9300403f955af49ff94a19705"
+      }
+    },
 
 
 
