@@ -165,7 +165,7 @@
   "vrRadialButtons": "8",
   "shaderFullSizeShadowLimbs": "true",
   "originOffset": "0.0,0.0,0.0",
-  "vrToggleButtonEnabled": "true",
+  "vrToggleButtonEnabled": "false",
   "roomscaleSpearLunge": "true",
   "handCameraResScale": "1.0",
   "forceHardwareDetection": "0",
