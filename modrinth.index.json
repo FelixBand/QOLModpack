@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "4.10.2",
+  "versionId": "4.10.3",
   "name": "Felix QOL Modpack",
   "files": [
     {
@@ -225,14 +225,14 @@
       }
     },
     {
-      "path": "mods/voxy-extra-0.1.4.jar",
+      "path": "mods/voxy-extra-0.1.5.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/znQnhrkQ/versions/MQsmHUmw/voxy-extra-0.1.4.jar"
+        "https://cdn.modrinth.com/data/znQnhrkQ/versions/fo97jQbP/voxy-extra-0.1.5.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "0135ecb68a6dd9492df708dfa4c1936b031c64b2",
-        "sha512": "b11cf3db879d1aa084bb2110562e920d7c72406e22b22b4955954f7ee38dcab5bf1ce8753d62b8950fe56192223b6c1e02839bbbc2c5b2830af2d40053006b88"
+        "sha1": "8b42c88c5dd6fa1edba0d5863fea75dd6bdb21e1",
+        "sha512": "307399ec2562c8affe5799079caa56b9c6b53f517933630c07bf622dbd56bf0cd3ad016c3bb506fdd02e37bc529b02b86aae11599f7a94270a493e6a101deb5f"
       }
     },
     {
