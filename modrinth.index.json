@@ -433,6 +433,17 @@
         "sha512": "ff91f1866f21a13a32d379080b8efb5d4e07577591228c1d307b34d052696c9bdcbaf7706208dfbac56abc2c29482a15edcbf11f69fc0a01e459c4c20a5c2c28"
       }
     },
+    {
+      "path": "mods/Stfu-2.9.0-1.21.11.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/Rg9WdvvR/versions/Xj8oe2uB/Stfu-2.9.0-1.21.11.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "1974436bd3ea06c8e18c01523fd5cbfb3edb6ee0",
+        "sha512": "b052df0fa3837b833d750560423d634b84e901a3195aa2fdb067dde4d891e7f210c16311affe22fabf1f6265a93e5387b36fbc51cf2acc3e96730307ffb685e7"
+      }
+    },
 
 
 
