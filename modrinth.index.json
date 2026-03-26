@@ -49,14 +49,14 @@
       }
     },
     {
-      "path": "mods/modmenu-18.0.0-alpha.7.jar",
+      "path": "mods/modmenu-18.0.0-alpha.8.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/mOgUt4GM/versions/XIDyVLo7/modmenu-18.0.0-alpha.7.jar"
+        "https://cdn.modrinth.com/data/mOgUt4GM/versions/jvjwXH6l/modmenu-18.0.0-alpha.8.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "99a5d71948c358261a0e3cbf898ed0368727d36f",
-        "sha512": "9f7a5665d7b951fcc527a34d40c6cb0d5c04a0c6e82fbd05275bc446a5ae04f52076944ea004dcd8f5ab50fe63a1638739ad215683741a6f39aa94a0848a17fe"
+        "sha1": "996783ff7b322e73c3a6799fecc5ca3023958514",
+        "sha512": "9a9e97047ac7b34ae34951d517bfc7c5fd48906beed61ee1e7c20b5ac2eac25348061b4227d9c98992a116ea98ff1d36fb745043b767c1e686ba279cda094930"
       }
     },
     {
