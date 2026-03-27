@@ -192,6 +192,17 @@
       }
     },
     {
+      "path": "mods/bobby-5.2.12+mc26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/M08ruV16/versions/8gsFUovP/bobby-5.2.12%2Bmc26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "2af0b6ab7eeed738d39f66ead142756702a4cbf2",
+        "sha512": "db4e72c96ecf6f3861bf87a8af061a41edae1c5657718160a5cd5831e8ac31391c06a3de6a2b2b14bb30f0074cf9ec8ff9db30d2b7952b4cd1fde25c73af3811"
+      }
+    },
+    {
       "path": "mods/locator-heads-2.0.0.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/L4pt5egz/versions/iPo5GkeI/locator-heads-2.0.0.jar"
