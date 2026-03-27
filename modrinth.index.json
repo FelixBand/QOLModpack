@@ -225,6 +225,17 @@
       }
     },
     {
+      "path": "mods/Stfu-2.9.0-26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/Rg9WdvvR/versions/z55rnFWS/Stfu-2.9.0-26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "0b2292bd34a677af8a13562f702a38957ffb55cb",
+        "sha512": "89c2f23244120997c5080deaa277b7e3c84dba5215bfa05cfbf4c2e8a1c8f383c2a00c2f98522248237fa3f54ee1064d7fed807e02ab6c72a6c6d11dace954ca"
+      }
+    },
+    {
       "path": "mods/autologin-mod-1.1.8.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/6OR8Lue2/versions/nGCco91g/autologin-mod-1.1.8.jar"
