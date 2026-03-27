@@ -279,17 +279,6 @@
         "sha512": "89c2f23244120997c5080deaa277b7e3c84dba5215bfa05cfbf4c2e8a1c8f383c2a00c2f98522248237fa3f54ee1064d7fed807e02ab6c72a6c6d11dace954ca"
       }
     },
-    {
-      "path": "mods/autologin-mod-1.1.8.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/6OR8Lue2/versions/nGCco91g/autologin-mod-1.1.8.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "c5e4da1ebad283cbdb0ee8da3ce691a9325c2851",
-        "sha512": "b0011065e27aacdb76031c07293c36e7cf01c70fb9e96aaaddcaef752a714eed4e00180ddd7b9741b33819fba780d2bdee38ae4405361379f6583ed848654483"
-      }
-    },
 
 
 
