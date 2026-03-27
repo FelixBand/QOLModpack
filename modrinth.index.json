@@ -483,7 +483,7 @@
     }
   ],
   "dependencies": {
-    "fabric-loader": "0.18.4",
+    "fabric-loader": "0.18.5",
     "minecraft": "1.21.11"
   }
 }
