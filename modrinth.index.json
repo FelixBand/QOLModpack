@@ -268,6 +268,17 @@
         "sha512": "89c2f23244120997c5080deaa277b7e3c84dba5215bfa05cfbf4c2e8a1c8f383c2a00c2f98522248237fa3f54ee1064d7fed807e02ab6c72a6c6d11dace954ca"
       }
     },
+    {
+      "path": "mods/macos-input-fixes-1.12.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/x9BrsVME/versions/dQnfebpR/macos-input-fixes-1.12.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "fdf943895dfe518eb0a07c30d38bb3d4dfaffc1f",
+        "sha512": "6fd29284138923b964e0e8ddae6398448eb79d9a4b9a26c861d04da8c1522ef1acba06a516eac35bb5b7d0bc70cfdcdd5447f093ad2fa47fd7648e9b40b00fc3"
+      }
+    },
 
 
 
