@@ -236,6 +236,17 @@
       }
     },
     {
+      "path": "mods/yet_another_config_lib_v3-3.9.1+26.1-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/1eAoo2KR/versions/D39gcNZP/yet_another_config_lib_v3-3.9.1%2B26.1-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "66681ec3c536538e33860213bbfc361d4025fe1c",
+        "sha512": "c7791958ce0782be754bbf4766e2f488d61e4fc0b743408b676098fedc506206e26f5bdb5b49a3535555b5d900cd7cdc141482120b4c25959c473366b7b8173c"
+      }
+    },
+    {
       "path": "mods/Stfu-2.9.0-26.1.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/Rg9WdvvR/versions/z55rnFWS/Stfu-2.9.0-26.1.jar"
