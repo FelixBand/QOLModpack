@@ -104,14 +104,14 @@
       }
     },
     {
-      "path": "mods/voicechat-fabric-1.21.11-2.6.12.jar",
+      "path": "mods/voicechat-fabric-1.21.11-2.6.13.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/opkMxy6i/voicechat-fabric-2.6.12%2B26.1.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/XuE7i9fv/voicechat-fabric-2.6.13%2B26.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "68254383f6fca5dc37fef76fb9a03557fcbf41a1",
-        "sha512": "aa4a13b4608787e8dc9c933ef6ad96637885ecd03ace08bd6b3c71b1b248689023c4afb2070e4e9acec0733f02cde4fae5264aa4948dbfec0617e4e9f9f2cea2"
+        "sha1": "971c367a093d4836a2e5054f021ee7a21ebefa46",
+        "sha512": "970b0fcc9680c7320dcdbb01d79a7787e9cf4e3c8346923479f21df5debf85e6fbd82be745a13977951e51808f76422bb2b0fa26f28be1b80ac08fe1ab0b5500"
       }
     },
     {
