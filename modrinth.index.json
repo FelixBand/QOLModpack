@@ -27,6 +27,17 @@
       }
     },
     {
+      "path": "mods/reeses-sodium-options-fabric-2.0.4+mc26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/Bh37bMuy/versions/Egm4ZKcS/reeses-sodium-options-fabric-2.0.4%2Bmc26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "d88ae43d2084dc50bf6574af46443da60cfaa061",
+        "sha512": "b6fe70f877cdcb060257c924df149b526a5a308962d4457631d51b207063cc60220acc4a6fb47ae7b183db5096885bb2bd3a12e7a700c240ba436caa714bbd6f"
+      }
+    },
+    {
       "path": "mods/iris-fabric-1.10.7+mc26.1.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/YL57xq9U/versions/4cGUAiJ6/iris-fabric-1.10.7%2Bmc26.1.jar"
