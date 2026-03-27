@@ -60,14 +60,14 @@
       }
     },
     {
-      "path": "mods/lithium-fabric-0.22.0+mc26.1.jar",
+      "path": "mods/lithium-fabric-0.22.1+mc26.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/NYjDY08s/lithium-fabric-0.22.0%2Bmc26.1.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/W0ZXKJy9/lithium-fabric-0.22.1%2Bmc26.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "aadea1e75623c04ed59f79a5b4ba66f55c5528b2",
-        "sha512": "fb823073bbb5cd1b2a55af1edbe60bf69595352020301c453289560b42483308852f2e26a8ffc6a3b12e3544e1aa5e07cdf491b82ff2afca721be36c2bc7e693"
+        "sha1": "4075ade8217564086bfb46555c8e0858d202a073",
+        "sha512": "8af26b9892bbd098ba41627844f8d7e2a592a2273cd8d7638ba7946b5b9f246590dec2c9294f0bbe0d0dd826e7190d313846181a990d2bba9afa6ec03eedd250"
       }
     },
     {
