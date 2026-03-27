@@ -27,6 +27,17 @@
       }
     },
     {
+      "path": "mods/sodium-extra-fabric-0.8.4+mc26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/PtjYWJkn/versions/g0bLkt52/sodium-extra-fabric-0.8.4%2Bmc26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "a5a8cc4e6f20733df4493f4073bb5eaf0c067a66",
+        "sha512": "8c3ba4510ae0ab36c1fb21cbfbe2dacad28a8b301b7cc4b4293e291d1bb6d9039bada85a7396d424f0fa91b305df02be17373657e4fd09fa50294654cb128f37"
+      }
+    },
+    {
       "path": "mods/reeses-sodium-options-fabric-2.0.4+mc26.1.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/Bh37bMuy/versions/Egm4ZKcS/reeses-sodium-options-fabric-2.0.4%2Bmc26.1.jar"
