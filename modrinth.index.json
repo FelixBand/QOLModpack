@@ -60,14 +60,14 @@
       }
     },
     {
-      "path": "mods/moreculling-fabric-26.1-1.7.0-beta.1.jar",
+      "path": "mods/moreculling-fabric-26.1-1.7.0-beta.3.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/51shyZVL/versions/GvHUlfc7/moreculling-fabric-26.1-1.7.0-beta.1.jar"
+        "https://cdn.modrinth.com/data/51shyZVL/versions/PMO5hamO/moreculling-fabric-26.1-1.7.0-beta.3.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "7ae56891bad3e2166d0846002ddad52edd632661",
-        "sha512": "48ba15d6b175c534d0391afa6a7c6604a3e1f698145f844dd844ee53abe2456c3e3d82303d461eb8a6879ca9cb16e5ecd624ac07c80a4f4f7d6258ab05fbaa16"
+        "sha1": "b9002400d0a49a5640ca1688988b7549c67edb5e",
+        "sha512": "78fd6fc3863278bff75cb6b94814f978dbaa7ef4817cc1c9d65567afb1af18799194ac386f7948b7a0f099750e4f5e23e099c615c3995557d017bd4b60ea4fef"
       }
     },
     {
