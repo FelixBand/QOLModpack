@@ -312,7 +312,17 @@
         "sha512": "bdd2a4dd935f379f28329f3c80e3f031970bcc7869d74681abd5eca2f3f6f85e707f9647f8eedb9b7aef7176c1f4eea0fa557104f0644e6814c95b57f73a0dd5"
       }
     },
-
+    {
+      "path": "mods/BadOptimizations-2.4.1-26.1-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/g96Z4WVZ/versions/gjIvugXc/BadOptimizations-2.4.1-26.1-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "9636073ca8f378ea796b5d13bffac146a7f2f0f3",
+        "sha512": "efba144dec306767da3aceb4b179e093daa60bc4c0ba6295d64c166092b8f62e4a4cc63a5bae76fb4c608f1dffa8ecd70c6884e48c804915e1b37ef042e31a99"
+      }
+    },
 
 
 
