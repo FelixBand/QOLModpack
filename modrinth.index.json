@@ -301,6 +301,17 @@
         "sha512": "07ed65d2b820a00909fa78a1d102f216a169e3f6e0c26f6567ac5b0f71ddf14ef986037a36ff2ddc497a4fa8b436ce143969f79429806b1c5620e5bffb4061ab"
       }
     },
+    {
+      "path": "mods/controlify-3.0.0-beta.3+26.1-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/RWtB0dqp/controlify-3.0.0-beta.3%2B26.1-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "b48bbabc577f07dc1d757c2d58a4ac29297590bd",
+        "sha512": "bdd2a4dd935f379f28329f3c80e3f031970bcc7869d74681abd5eca2f3f6f85e707f9647f8eedb9b7aef7176c1f4eea0fa557104f0644e6814c95b57f73a0dd5"
+      }
+    },
 
 
 
