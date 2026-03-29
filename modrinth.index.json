@@ -323,6 +323,17 @@
         "sha512": "efba144dec306767da3aceb4b179e093daa60bc4c0ba6295d64c166092b8f62e4a4cc63a5bae76fb4c608f1dffa8ecd70c6884e48c804915e1b37ef042e31a99"
       }
     },
+    {
+      "path": "mods/fast-ip-ping-v1.0.9-mc26.1-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/9mtu0sUO/versions/ZYp0dup2/fast-ip-ping-v1.0.9-mc26.1-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "2d0973198ea241f0888258a709c6135da699591e",
+        "sha512": "379438dca7666c02ee0b30fc4ab5e4786a562311295df6f1cc3012dff2820ea1e0594923b0e7cdd4833f842d60a3f5d2165c5805e8085360fe745941da7157e6"
+      }
+    },
 
 
 
