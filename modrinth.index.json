@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "4.11.1",
+  "versionId": "4.12.0",
   "name": "Felix QOL Modpack",
   "files": [
     {
@@ -16,14 +16,14 @@
       }
     },
     {
-      "path": "mods/sodium-fabric-0.8.6+mc1.21.11.jar",
+      "path": "mods/sodium-fabric-0.8.7+mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/ZPWbiWXz/sodium-fabric-0.8.6%2Bmc1.21.11.jar"
+        "https://cdn.modrinth.com/data/AANobbMI/versions/UddlN6L4/sodium-fabric-0.8.7%2Bmc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "fa686304c63efea0456af91a0b6352f032e61e66",
-        "sha512": "55b5ade20dc70e8c9a0f7b6a8ba835d49efd3c4f8360869d6551f13e3a016c44dd78c5ecad638903172898154187726d429ad34a14cea30abfa8bd6d61eb6287"
+        "sha1": "e8865210ba9a926fc206ab9e73f9d4988a81ff69",
+        "sha512": "d7f035d6112eaac92cf0f11e4426db631fca5a7115dd355c2126efee4255b648a0102552bbf7b22a7eae9203d08f8740435842bfddcd94e2434f51b57ee9c641"
       }
     },
     {
@@ -60,25 +60,25 @@
       }
     },
     {
-      "path": "mods/iris-fabric-1.10.6+mc1.21.11.jar",
+      "path": "mods/iris-fabric-1.10.7+mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/YL57xq9U/versions/TSXvi2yD/iris-fabric-1.10.6%2Bmc1.21.11.jar"
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "9a4dd8518bbad9e6be9edd443cfc6da74b1bb26b",
-        "sha512": "ca4d3c2a37c1206ac40a825f528dafeaae98bc7cb4d17f1e8b2d427df8b4b106790baaeda60a7d7462784661508fb8278074731a67224bba994a6b52672790a6"
+        "sha1": "aae8567bd9ea397d50aff1d0b680a82ffe67040c",
+        "sha512": "b009a07ecbdf3eb510b4acacbb435e058406ddbabcc4f1a5efeacad154cd26777474dcf4a2b5a3a92644b150f047977ada5687a9d9172132fbe6d3d036961b7e"
       }
     },
     {
-      "path": "mods/entityculling-fabric-1.9.5-mc1.21.11.jar",
+      "path": "mods/entityculling-fabric-1.10.0-mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/Dx3xsUER/entityculling-fabric-1.9.5-mc1.21.11.jar"
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/SK12FGQf/entityculling-fabric-1.10.0-mc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "e2e88c0b2286148e9547eb23d95d2e30e60ad753",
-        "sha512": "1222e523900fafa6690f992d889471dbe9819de33ac72b0c26f6b6563a181befe714d0d737c608ca94c566c8c015f1fe6cb1b5286d7043468c244d040a27036e"
+        "sha1": "1d0370bf2f6fc68d7d5c448ae391ae8248a5e817",
+        "sha512": "25e3ba4d30518c65541872d61f12b7408d0c0231b12cfce7468b71097abd81f8e7c6bf46851dcb670b239ede0b96b78e8f303a21c6cb659b9be05181c4b17dc7"
       }
     },
     {
@@ -115,14 +115,14 @@
       }
     },
     {
-      "path": "mods/voicechat-fabric-1.21.11-2.6.12.jar",
+      "path": "mods/voicechat-fabric-1.21.11-2.6.14.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/pFTZ8sqQ/voicechat-fabric-1.21.11-2.6.12.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/TE9flmQz/voicechat-fabric-1.21.11-2.6.14.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "28d5556d892eafcbf8da6dab7284879b61aeb1b4",
-        "sha512": "afc78e3d8ca463fb783b00ec3d4cb938ff9249f088d077f8cd75f6c846419e0fe4916061f57a0b188a5c28565c934623c52113f476e69e82aecabaffc8e8fdcc"
+        "sha1": "08af06876a8f232efbb006e2d9a588e5f4bb3cd9",
+        "sha512": "bef9b27e4c1003eaa7b5024a27bdfb502a69b7825fa6bd071c5aa33b974017d6989904986b58e0c4ed81540444f3352da7d8314efdaf25d86e99e476032b81e3"
       }
     },
     {
@@ -170,14 +170,14 @@
       }
     },
     {
-      "path": "mods/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
+      "path": "mods/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/Ha28R6CL/versions/ViT4gucI/fabric-language-kotlin-1.13.9%2Bkotlin.2.3.10.jar"
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/21TRTKmh/fabric-language-kotlin-1.13.10%2Bkotlin.2.3.20.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "20b2200961e11994595ebb2d5f6624f232d13751",
-        "sha512": "498672ee88cf703685026e74f82a85e30d980c62a1c8cc14744cb73add09a857db8d585b405e19f558ec490613642750eb00e09d8ef5a3c9578bc52b53568d51"
+        "sha1": "9873294abf498f509453d37b0a5ba019f4570ffb",
+        "sha512": "e4eaf7594de08eb4f3ea8af2e939f3ee61d07597afb4d5f420c3fbadcb381c7bbad4b1afd5919b3087b73ed9636fb018b1c978858a112bd4f6acdcb42e9eedaa"
       }
     },
     {
@@ -236,14 +236,14 @@
       }
     },
     {
-      "path": "mods/voxy-0.2.12-alpha.jar",
+      "path": "mods/voxy-0.2.13-alpha.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/fxxUqruK/versions/KCqFt9Wm/voxy-0.2.12-alpha.jar"
+        "https://cdn.modrinth.com/data/fxxUqruK/versions/k5PZxsfL/voxy-0.2.13-alpha.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "bba31771b2d8bfeedbc01c70a93ede44186c56d1",
-        "sha512": "cc23ed119f209eef0543118bde01c7d485e2b5756b96e80a3520078e21116769af5432642bca6a3a33d2d70e969b02474e56169a4d5679c4c4499f497c4b013b"
+        "sha1": "ee8b260ef01a02f699795e31bfa1d398473f106f",
+        "sha512": "1052f153be78c6f7fa46c4334dc40ce2aa4048a394949eb51d3e95300f56fce1b5b81a4b7d2a0aae0fc268cb36b30078f121feccba4999a7b3c790a1c7a53a4f"
       }
     },
     {
@@ -255,6 +255,17 @@
       "hashes": {
         "sha1": "8b42c88c5dd6fa1edba0d5863fea75dd6bdb21e1",
         "sha512": "307399ec2562c8affe5799079caa56b9c6b53f517933630c07bf622dbd56bf0cd3ad016c3bb506fdd02e37bc529b02b86aae11599f7a94270a493e6a101deb5f"
+      }
+    },
+    {
+      "path": "mods/Voxy World Gen V2-1.21.11-2.2.3.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/xT0lnNE9/versions/h8WC8uM7/Voxy%20World%20Gen%20V2-1.21.11-2.2.3.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "51cddf32bd3e1c6b3baac63621eca2bc4a39c76e",
+        "sha512": "a4911943af74c1d937fdbb1e02d3c2136adb4e978431c3cca8e3e0485d39147d9c6aab739031a1de7f90616af947eac226b8c6ae9bd71ed7d4edd64cfd09593f"
       }
     },
     {
@@ -357,14 +368,14 @@
       }
     },
     {
-      "path": "mods/macos-input-fixes-1.11.jar",
+      "path": "mods/macos-input-fixes-1.12.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/x9BrsVME/versions/LJz2SKJJ/macos-input-fixes-1.11.jar"
+        "https://cdn.modrinth.com/data/x9BrsVME/versions/dQnfebpR/macos-input-fixes-1.12.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "54de61180f57535bd83007baef66f6db3f51a3e3",
-        "sha512": "167d6cc307895841ec8d2c07b7fdcb6d6792edcbcfa71c7a642717ef898149093bc72ad669d5dacc0a06dac29bd597aa4bc41458bb27849fffb4c58d6196ac8b"
+        "sha1": "fdf943895dfe518eb0a07c30d38bb3d4dfaffc1f",
+        "sha512": "6fd29284138923b964e0e8ddae6398448eb79d9a4b9a26c861d04da8c1522ef1acba06a516eac35bb5b7d0bc70cfdcdd5447f093ad2fa47fd7648e9b40b00fc3"
       }
     },
     {
