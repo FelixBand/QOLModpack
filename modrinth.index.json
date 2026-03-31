@@ -345,6 +345,17 @@
         "sha512": "4dd59950e1c249a9c5cae50beff86c5c59b19b0f2cdf72dea0315eeba93bced72a300eebfef435f3bf17532dc541d74e1e69cd577ab5b08067e34e7bcccddc97"
       }
     },
+    {
+      "path": "mods/borderlessmining-1.2.1+26.1-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/KxYAzYLi/versions/odQOUMN6/borderlessmining-1.2.1%2B26.1-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "54811166f804899cb09ad4ab39505a9ae3d65f25",
+        "sha512": "6910bf6cfbacbaff7fd1700d9184aefc28ca8d2ca2182e14003feec36211a3bdc3ff057860b2b9e35a51946b64f689a1ba490816d26243fbb8ccd7cb0f0d3e89"
+      }
+    },
 
 
 
