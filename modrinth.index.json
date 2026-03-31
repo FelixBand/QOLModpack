@@ -258,14 +258,14 @@
       }
     },
     {
-      "path": "mods/yet_another_config_lib_v3-3.9.1+26.1-fabric.jar",
+      "path": "mods/yet_another_config_lib_v3-3.9.2+26.1-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/1eAoo2KR/versions/D39gcNZP/yet_another_config_lib_v3-3.9.1%2B26.1-fabric.jar"
+        "https://cdn.modrinth.com/data/1eAoo2KR/versions/h2FGeDHG/yet_another_config_lib_v3-3.9.2%2B26.1-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "66681ec3c536538e33860213bbfc361d4025fe1c",
-        "sha512": "c7791958ce0782be754bbf4766e2f488d61e4fc0b743408b676098fedc506206e26f5bdb5b49a3535555b5d900cd7cdc141482120b4c25959c473366b7b8173c"
+        "sha1": "0282a3772dea69135dbb66773fa82190ac7a39b9",
+        "sha512": "0efbc7bbf9cabcf5f78884eab0b85ca902e6ca7dfa07b60c1c812b828442b940e80c459fd3de8b87cae50bba3c203efc4444a8e29d21b94ad1ad12d438f91a58"
       }
     },
     {
@@ -343,17 +343,6 @@
       "hashes": {
         "sha1": "d81b34b76b8885f637e1a253810a78bee772a346",
         "sha512": "4dd59950e1c249a9c5cae50beff86c5c59b19b0f2cdf72dea0315eeba93bced72a300eebfef435f3bf17532dc541d74e1e69cd577ab5b08067e34e7bcccddc97"
-      }
-    },
-    {
-      "path": "mods/borderlessmining-1.2.1+26.1-fabric.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/KxYAzYLi/versions/odQOUMN6/borderlessmining-1.2.1%2B26.1-fabric.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "54811166f804899cb09ad4ab39505a9ae3d65f25",
-        "sha512": "6910bf6cfbacbaff7fd1700d9184aefc28ca8d2ca2182e14003feec36211a3bdc3ff057860b2b9e35a51946b64f689a1ba490816d26243fbb8ccd7cb0f0d3e89"
       }
     },
 
