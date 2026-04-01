@@ -477,6 +477,17 @@
         "sha512": "29d4dc6365ffd31b1d83472ed8561747696f42a2359eb62584e070ad0185fa69f46d51bc374dbbba7f7e274a0379f930469d1a1ecce33e08be9e36251063563c"
       }
     },
+    {
+      "path": "mods/skinrestorer-2.7.0+1.21.11-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/ghrZDhGW/versions/64YNvBfd/skinrestorer-2.7.0%2B1.21.11-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "f6e725c0c88f67fc1e4a00faaf19ef6e41dd72e3",
+        "sha512": "5a32010cde723696841709b3250256e543b593fe5c1e8c088078f64854a08baffb2b5f1e8addc7e8a6a90607a5ecd6549f457fead247e5a6fb7989868c50f739"
+      }
+    },
 
 
 
