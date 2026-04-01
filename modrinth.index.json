@@ -345,6 +345,17 @@
         "sha512": "4dd59950e1c249a9c5cae50beff86c5c59b19b0f2cdf72dea0315eeba93bced72a300eebfef435f3bf17532dc541d74e1e69cd577ab5b08067e34e7bcccddc97"
       }
     },
+    {
+      "path": "mods/MouseTweaks-fabric-mc26.1-2.31.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/aC3cM3Vq/versions/EBIKCzuP/MouseTweaks-fabric-mc26.1-2.31.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "d81b34b76b8885f637e1a253810a78bee772a346",
+        "sha512": "4dd59950e1c249a9c5cae50beff86c5c59b19b0f2cdf72dea0315eeba93bced72a300eebfef435f3bf17532dc541d74e1e69cd577ab5b08067e34e7bcccddc97"
+      }
+    },
 
 
 
@@ -372,7 +383,7 @@
     }
   ],
   "dependencies": {
-    "fabric-loader": "0.18.5",
+    "fabric-loader": "0.18.6",
     "minecraft": "26.1"
   }
 }
