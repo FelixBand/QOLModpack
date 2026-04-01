@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "4.12.1",
+  "versionId": "4.13.0",
   "name": "Felix QOL Modpack",
   "files": [
     {
@@ -464,6 +464,17 @@
       "hashes": {
         "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
         "sha512": "392db7d471030cca27483ecf58c626a14cd73d71a18afe6d4173c6b030948b8a925b36e708d4cc2c897dfa3f20a7f23b999fc18aa6d36c156da29037601153ac"
+      }
+    },
+    {
+      "path": "mods/ViaFabricPlus-4.4.10.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/rIC2XJV4/versions/zokPILXX/ViaFabricPlus-4.4.10.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "308bc6587479a8e9f9125607e724fcc2a5f40fd1",
+        "sha512": "29d4dc6365ffd31b1d83472ed8561747696f42a2359eb62584e070ad0185fa69f46d51bc374dbbba7f7e274a0379f930469d1a1ecce33e08be9e36251063563c"
       }
     },
 
