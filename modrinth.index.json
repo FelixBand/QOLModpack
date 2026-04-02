@@ -5,14 +5,14 @@
   "name": "Felix QOL Modpack",
   "files": [
     {
-      "path": "mods/fabric-api-0.144.3+26.1.jar",
+      "path": "mods/fabric-api-0.145.2+26.1.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/mmmOfXE7/fabric-api-0.144.3%2B26.1.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/IWDXHj9j/fabric-api-0.145.2%2B26.1.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "ed68db035b8f692c965c20100654779e3fd65f25",
-        "sha512": "a641807b87edd230bffb60df83b98bfbb6c2efec24fe29d099b4b16ff78500f45501044c7e6f744360c666399e6d1b46a6d8500bd47183a5c96440d8d7805828"
+        "sha1": "c5871fe31bfb7f5547160d514176589ef979860c",
+        "sha512": "b52d9f76b194f1229fb79edfceb44f3e5e27249b72800e3616730f26807afd29a62a065cd459ac86fcfcf1e58ed7cf473b62a10603dad853e69608157df860fc"
       }
     },
     {
@@ -82,14 +82,14 @@
       }
     },
     {
-      "path": "mods/lithium-fabric-0.22.1+mc26.1.jar",
+      "path": "mods/lithium-fabric-0.23.0+mc26.1.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/W0ZXKJy9/lithium-fabric-0.22.1%2Bmc26.1.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/kHXOBNih/lithium-fabric-0.23.0%2Bmc26.1.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "4075ade8217564086bfb46555c8e0858d202a073",
-        "sha512": "8af26b9892bbd098ba41627844f8d7e2a592a2273cd8d7638ba7946b5b9f246590dec2c9294f0bbe0d0dd826e7190d313846181a990d2bba9afa6ec03eedd250"
+        "sha1": "4904811469a2f62d7de3e250b6c98acfa3b58d9f",
+        "sha512": "9d7e92ea2af7d024cfe09bfc7eacf236e551da024f4ddeb3a20d88b01bc3620ee1c5a3355299c9dbfcc76406fb0b8e121a989651e6a73c8c2632290f84db8448"
       }
     },
     {
@@ -104,25 +104,25 @@
       }
     },
     {
-      "path": "mods/voicechat-fabric-1.21.11-2.6.14.jar",
+      "path": "mods/voicechat-fabric-2.6.14+26.1.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/mXHTeWn9/voicechat-fabric-2.6.14%2B26.1.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/EuaIzAYI/voicechat-fabric-2.6.14%2B26.1.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "8108954d9ccbc74f044c53972ccc8d37e96c55bb",
-        "sha512": "195f52817d1452b00a7dba70c1f0acac82e84d5acea5a58f170bf8f9738542956fdd988af5e5ce99b4198bbe03d0482ead88b16cc2b3202abbb59072373e0b42"
+        "sha1": "bd6a822e7043b0b195bada890c20fc6596193812",
+        "sha512": "d750b08dd760c4b7392937fb03d7a2d49d04a40b647458d7a20e2d6fadf5945a6b6366111b4e5be2974bf9daaa2f76da2ef07b7b583ea3998e2aed360e884b2c"
       }
     },
     {
-      "path": "mods/sound-physics-remastered-fabric-1.5.1+26.1.jar",
+      "path": "mods/sound-physics-remastered-fabric-1.5.1+26.1.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/qyVF9oeo/versions/XLwWIIue/sound-physics-remastered-fabric-1.5.1%2B26.1.jar"
+        "https://cdn.modrinth.com/data/qyVF9oeo/versions/aulCuAkE/sound-physics-remastered-fabric-1.5.1%2B26.1.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "a18502d774c76362e0178479ef00e9dd04f3bbe4",
-        "sha512": "486d4c293d8668e28d08570ff9b9ff7b267dbe4df3c57d4b0446aa64cd16dc7e581f7802d210acf3592298d6e8b519fbf154299d770e23bb6379de96e2bc0b6a"
+        "sha1": "0e6b170d2add6a2b30906657e50cc91f95209cf9",
+        "sha512": "94f978f262248f12db517f8fd64c546a29466d594bdca6b408996b11f3307fbeab686674dfa3fa8de1b23decec9e689a0758391165651b86c88be7fb8700bfae"
       }
     },
     {
@@ -137,36 +137,36 @@
       }
     },
     {
-      "path": "mods/c2me-fabric-mc26.1-0.3.7+alpha.0.61.jar",
+      "path": "mods/c2me-fabric-mc26.1.1-0.3.7+alpha.0.63.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/tKXPZtpT/c2me-fabric-mc26.1-0.3.7%2Balpha.0.61.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/wGnmDPvI/c2me-fabric-mc26.1.1-0.3.7%2Balpha.0.63.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "a67b297fea485c75015adc1f7e4ebecdbf69d9d4",
-        "sha512": "6f5947e45f15cfbf8756fed2fad222702f331d5dfa6b0580bd92671b14c5ea6f8cb0a0968ecf53ca237763bdda29aedd33d60c9ee6cd36ce11618177f92b405b"
+        "sha1": "19f4bedeb5fbfe1be295c653288b4d38a7a84576",
+        "sha512": "d22e6acf2ba318046ce268c56cea586580ab217325e451b37b72f3213ceab95561c5a8dad4e3aec36a087a1096fa51bb81c670d64076395f38ad286a05ec4f22"
       }
     },
     {
-      "path": "mods/ImmediatelyFast-Fabric-1.15.0+26.1.jar",
+      "path": "mods/ImmediatelyFast-Fabric-1.15.1+26.1.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/m3ka9Hsm/ImmediatelyFast-Fabric-1.15.0%2B26.1.jar"
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/UM3jWaXo/ImmediatelyFast-Fabric-1.15.1%2B26.1.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "6abb68036a327d19c87f89676fbbc9cc9b995402",
-        "sha512": "ea542a2540cbfed132ac27f0f494d5b8e63399bb4d23829d9ac7bbcd29a46a68cee01f21bb54850ba7fe9862aff25dfe910e0d0a7fcc4ad3859ebded5693702e"
+        "sha1": "25780ccb6f42d49280223f6aeb6603f8b624c9e5",
+        "sha512": "3e7253defa73110883d0685ba2e5321228b627aa0206277fec26b5d332e1b372b93e1c053a6fd3be938188f110307a6716a2f80dd97c205231aa8900bdf7641d"
       }
     },
     {
-      "path": "mods/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
+      "path": "mods/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/Ha28R6CL/versions/ViT4gucI/fabric-language-kotlin-1.13.9%2Bkotlin.2.3.10.jar"
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/21TRTKmh/fabric-language-kotlin-1.13.10%2Bkotlin.2.3.20.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "20b2200961e11994595ebb2d5f6624f232d13751",
-        "sha512": "498672ee88cf703685026e74f82a85e30d980c62a1c8cc14744cb73add09a857db8d585b405e19f558ec490613642750eb00e09d8ef5a3c9578bc52b53568d51"
+        "sha1": "9873294abf498f509453d37b0a5ba019f4570ffb",
+        "sha512": "e4eaf7594de08eb4f3ea8af2e939f3ee61d07597afb4d5f420c3fbadcb381c7bbad4b1afd5919b3087b73ed9636fb018b1c978858a112bd4f6acdcb42e9eedaa"
       }
     },
     {
@@ -395,6 +395,6 @@
   ],
   "dependencies": {
     "fabric-loader": "0.18.6",
-    "minecraft": "26.1"
+    "minecraft": "26.1.1"
   }
 }
