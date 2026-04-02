@@ -49,17 +49,6 @@
       }
     },
     {
-      "path": "mods/entityculling-fabric-1.10.0-mc26.1.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/YSbzFHRt/entityculling-fabric-1.10.0-mc26.1.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "6b83d2cadbdb67d0c05e56cb62e0ccb24409890a",
-        "sha512": "325be6ce1f4c3a975ca45a85bd210c836f043f8c68a68087b39c29e7e8940f05bb850419afb038a995e90b2d06cbfe2e09fa18050440ba68890015ebaf20340d"
-      }
-    },
-    {
       "path": "mods/moreculling-fabric-26.1-1.7.0-beta.3.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/51shyZVL/versions/PMO5hamO/moreculling-fabric-26.1-1.7.0-beta.3.jar"
@@ -225,17 +214,6 @@
       }
     },
     {
-      "path": "mods/fadeless-2.0.7-26.1.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/ncKjyGm3/versions/NUDdPq7H/fadeless-2.0.7-26.1.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "e235aa2d7ced0f3c86fedcb3ca5e560ec06d03d9",
-        "sha512": "c0eb41ee17e2fc189e3b4dfbcaedec22131fb9340216cffceb8554b7a9ff23d836f3d82a5ba0a70d775bd30c40b462931ff48e6814064f575d807e78ca31b1ae"
-      }
-    },
-    {
       "path": "mods/no-telemetry-1.10.0.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/hg77g4Pw/versions/cBEkQM9c/no-telemetry-1.10.0.jar"
@@ -277,17 +255,6 @@
       "hashes": {
         "sha1": "0b2292bd34a677af8a13562f702a38957ffb55cb",
         "sha512": "89c2f23244120997c5080deaa277b7e3c84dba5215bfa05cfbf4c2e8a1c8f383c2a00c2f98522248237fa3f54ee1064d7fed807e02ab6c72a6c6d11dace954ca"
-      }
-    },
-    {
-      "path": "mods/macos-input-fixes-1.12.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/x9BrsVME/versions/dQnfebpR/macos-input-fixes-1.12.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "fdf943895dfe518eb0a07c30d38bb3d4dfaffc1f",
-        "sha512": "6fd29284138923b964e0e8ddae6398448eb79d9a4b9a26c861d04da8c1522ef1acba06a516eac35bb5b7d0bc70cfdcdd5447f093ad2fa47fd7648e9b40b00fc3"
       }
     },
     {
@@ -343,17 +310,6 @@
       "hashes": {
         "sha1": "d81b34b76b8885f637e1a253810a78bee772a346",
         "sha512": "4dd59950e1c249a9c5cae50beff86c5c59b19b0f2cdf72dea0315eeba93bced72a300eebfef435f3bf17532dc541d74e1e69cd577ab5b08067e34e7bcccddc97"
-      }
-    },
-    {
-      "path": "mods/ViaFabricPlus-4.5.0.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/rIC2XJV4/versions/6LithIYH/ViaFabricPlus-4.5.0.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "df16bcecf2ea43715fd0c20542eb73464bb72e35",
-        "sha512": "b23eac569914ef3097234dd4687d50bb52a6b164cc4636c7d6faddb7c8d18bbaf2bacac87ce64f4cd681dd1572ee6fef7ae059a9053ff205c242628ecd86bf60"
       }
     },
     {
