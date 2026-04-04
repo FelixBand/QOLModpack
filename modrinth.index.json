@@ -115,14 +115,14 @@
       }
     },
     {
-      "path": "mods/voicechat-fabric-1.21.11-2.6.14.jar",
+      "path": "mods/voicechat-fabric-1.21.11-2.6.15.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/TE9flmQz/voicechat-fabric-1.21.11-2.6.14.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/Rbi7ZjtI/voicechat-fabric-1.21.11-2.6.15.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "08af06876a8f232efbb006e2d9a588e5f4bb3cd9",
-        "sha512": "bef9b27e4c1003eaa7b5024a27bdfb502a69b7825fa6bd071c5aa33b974017d6989904986b58e0c4ed81540444f3352da7d8314efdaf25d86e99e476032b81e3"
+        "sha1": "094377c02b2b14b14a62086898f03bd57de9354c",
+        "sha512": "41ba1dab28fd22cd736b0e85ad5a0be00c461011203e7ce3fa2e3a1671e4de469435a806a628d64664f5853bb45fac7c5f81e490cd4b91a44b45fcbef3f40b01"
       }
     },
     {
@@ -258,14 +258,14 @@
       }
     },
     {
-      "path": "mods/Voxy World Gen V2-1.21.11-2.2.3.jar",
+      "path": "mods/Voxy World Gen V2-1.21.11-2.2.4.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/xT0lnNE9/versions/h8WC8uM7/Voxy%20World%20Gen%20V2-1.21.11-2.2.3.jar"
+        "https://cdn.modrinth.com/data/xT0lnNE9/versions/68QZfMFI/Voxy%20World%20Gen%20V2-1.21.11-2.2.4.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "51cddf32bd3e1c6b3baac63621eca2bc4a39c76e",
-        "sha512": "a4911943af74c1d937fdbb1e02d3c2136adb4e978431c3cca8e3e0485d39147d9c6aab739031a1de7f90616af947eac226b8c6ae9bd71ed7d4edd64cfd09593f"
+        "sha1": "6a938370cda34eb8100273a24d312bde165c8f04",
+        "sha512": "40a137479c0528f0fea159379021520bdd26e3187092ed346fccd12aad4d7d0539ee13a7cd0240b2db435a4548a67b6a20f80e9b61f5ab68fc579759d2b94db7"
       }
     },
     {
