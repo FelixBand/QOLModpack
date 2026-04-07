@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "game": "minecraft",
   "versionId": "5.0.0",
-  "name": "Felix QOL Modpack",
+  "name": "Felix' QOL Modpack",
   "files": [
     {
       "path": "mods/fabric-api-0.144.3+26.1.jar",
