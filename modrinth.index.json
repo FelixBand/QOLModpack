@@ -60,17 +60,6 @@
       }
     },
     {
-      "path": "mods/entityculling-fabric-1.10.0-mc26.1.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/YSbzFHRt/entityculling-fabric-1.10.0-mc26.1.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "6b83d2cadbdb67d0c05e56cb62e0ccb24409890a",
-        "sha512": "325be6ce1f4c3a975ca45a85bd210c836f043f8c68a68087b39c29e7e8940f05bb850419afb038a995e90b2d06cbfe2e09fa18050440ba68890015ebaf20340d"
-      }
-    },
-    {
       "path": "mods/moreculling-fabric-26.1.1-1.7.0-beta.5.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/51shyZVL/versions/KJBkanxk/moreculling-fabric-26.1.1-1.7.0-beta.5.jar"
@@ -236,17 +225,6 @@
       }
     },
     {
-      "path": "mods/fadeless-2.0.7-26.1.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/ncKjyGm3/versions/NUDdPq7H/fadeless-2.0.7-26.1.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "e235aa2d7ced0f3c86fedcb3ca5e560ec06d03d9",
-        "sha512": "c0eb41ee17e2fc189e3b4dfbcaedec22131fb9340216cffceb8554b7a9ff23d836f3d82a5ba0a70d775bd30c40b462931ff48e6814064f575d807e78ca31b1ae"
-      }
-    },
-    {
       "path": "mods/no-telemetry-1.10.0.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/hg77g4Pw/versions/cBEkQM9c/no-telemetry-1.10.0.jar"
@@ -357,14 +335,14 @@
       }
     },
     {
-      "path": "mods/ViaFabricPlus-4.5.0.jar",
+      "path": "mods/ViaFabricPlus-4.5.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/rIC2XJV4/versions/6LithIYH/ViaFabricPlus-4.5.0.jar"
+        "https://cdn.modrinth.com/data/rIC2XJV4/versions/M4FHfVPR/ViaFabricPlus-4.5.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "df16bcecf2ea43715fd0c20542eb73464bb72e35",
-        "sha512": "b23eac569914ef3097234dd4687d50bb52a6b164cc4636c7d6faddb7c8d18bbaf2bacac87ce64f4cd681dd1572ee6fef7ae059a9053ff205c242628ecd86bf60"
+        "sha1": "05f3c85ae4c4ddfa82148bbc4f26925d446874cd",
+        "sha512": "a37d1f9f0178a70ebb61a7d36809f9f42280e2c847d6228ea264f610a3459b3f29725e959edbe81fda570a4e2f39ad6210c244914bf53c1959b7662d91b956ad"
       }
     },
     {
