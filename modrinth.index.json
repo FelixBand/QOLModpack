@@ -2,61 +2,83 @@
   "formatVersion": 1,
   "game": "minecraft",
   "versionId": "5.0.0",
-  "name": "Felix QOL Modpack",
+  "name": "Felix' QOL Modpack",
   "files": [
     {
-      "path": "mods/fabric-api-0.145.2+26.1.1.jar",
+      "path": "mods/fabric-api-0.145.4+26.1.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/IWDXHj9j/fabric-api-0.145.2%2B26.1.1.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/E1uEPd5j/fabric-api-0.145.4%2B26.1.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "c5871fe31bfb7f5547160d514176589ef979860c",
-        "sha512": "b52d9f76b194f1229fb79edfceb44f3e5e27249b72800e3616730f26807afd29a62a065cd459ac86fcfcf1e58ed7cf473b62a10603dad853e69608157df860fc"
+        "sha1": "bb199e859c384ae1bacfb4107a82ae3d98416609",
+        "sha512": "5cbf5c07c25ddc48affc2d67a7b911df6fe263ac4cafa7baeddab4dbc8e47c785a892cb7ea5181909c1703121eeed77e6b9459d61a78616621fc31142cc0d019"
       }
     },
     {
-      "path": "mods/sodium-fabric-0.8.7+mc26.1.jar",
+      "path": "mods/sodium-fabric-0.8.9+mc26.1.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/Amr4VcZo/sodium-fabric-0.8.7%2Bmc26.1.jar"
+        "https://cdn.modrinth.com/data/AANobbMI/versions/uGvVQBnw/sodium-fabric-0.8.9%2Bmc26.1.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "ef8e9c3571e601427716de38b8b1ec11f09dfa06",
-        "sha512": "28aea2021f9526412c5d5299736dabc6d6d1cae004398f6de8d7c5c00506f4e15c9020b4515de55be27f7d92ccb93188273c1027ab56fe889ac4941d30458945"
+        "sha1": "48b949ec71365788dfd4e89d489f7abd504aa709",
+        "sha512": "74f9dc8963b5258226837cc361ba6b525da734ab4fa5f05d1862bc6e9175f4fa81ca3d49443e2fb85be144d06042f0d65cbcceefc391043af857b38aa2614ae8"
       }
     },
     {
-      "path": "mods/reeses-sodium-options-fabric-2.0.4+mc26.1.jar",
+      "path": "mods/sodium-extra-fabric-0.8.6+mc26.1.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/Bh37bMuy/versions/Egm4ZKcS/reeses-sodium-options-fabric-2.0.4%2Bmc26.1.jar"
+        "https://cdn.modrinth.com/data/PtjYWJkn/versions/hf1Xa5Gs/sodium-extra-fabric-0.8.6%2Bmc26.1.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "d88ae43d2084dc50bf6574af46443da60cfaa061",
-        "sha512": "b6fe70f877cdcb060257c924df149b526a5a308962d4457631d51b207063cc60220acc4a6fb47ae7b183db5096885bb2bd3a12e7a700c240ba436caa714bbd6f"
+        "sha1": "634a4e9ff4cea16073d4ab2af289fcdf934d5cc1",
+        "sha512": "7b9777d03216f8fead378dfa1a19c2e4e682b94e1a994f27ca098195bccb117377e34e7812022554ed330cb6cfbe674e35b952626184f3e0931ad9089e222441"
       }
     },
     {
-      "path": "mods/iris-fabric-1.10.8+mc26.1.jar",
+      "path": "mods/reeses-sodium-options-fabric-2.0.5+mc26.1.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/YL57xq9U/versions/Yi5E3d2l/iris-fabric-1.10.8%2Bmc26.1.jar"
+        "https://cdn.modrinth.com/data/Bh37bMuy/versions/p88Tf9YM/reeses-sodium-options-fabric-2.0.5%2Bmc26.1.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "8abc14f32d78721682c37a28f634f12e879b7f91",
-        "sha512": "287001e89beed106614fd6d9db20d8605d3ad9b3d1fb25878a58782a8867dfd0ba64750ab5c0c90ccdc666c687009711f4e40bd385fc2a8d0d6e3c7008dff02a"
+        "sha1": "e1c704acfb5bde6df36b23c3a38faff1f02abb73",
+        "sha512": "32736018c32c6ebd391a2fd0566b058faeae6b0cf00b1d56b816b8211ebcb665949bae5b1ae8bf2e9b7a24845ed94234c3fffc71f74354956833cfedeadcef12"
       }
     },
     {
-      "path": "mods/moreculling-fabric-26.1-1.7.0-beta.3.jar",
+      "path": "mods/iris-fabric-1.10.9+mc26.1.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/51shyZVL/versions/PMO5hamO/moreculling-fabric-26.1-1.7.0-beta.3.jar"
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/MwcLS51S/iris-fabric-1.10.9%2Bmc26.1.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "b9002400d0a49a5640ca1688988b7549c67edb5e",
-        "sha512": "78fd6fc3863278bff75cb6b94814f978dbaa7ef4817cc1c9d65567afb1af18799194ac386f7948b7a0f099750e4f5e23e099c615c3995557d017bd4b60ea4fef"
+        "sha1": "c30e04509a1b284372cb9037b07714d4223ae91a",
+        "sha512": "01714943b36e7b78618bf133a20da489197322e20ebc2d9858f15bb57ac198fdab23dac6c917d6239ad3fe2e7c47f53fb387d475805eb7269fbfc16e30664155"
+      }
+    },
+    {
+      "path": "mods/entityculling-fabric-1.10.0-mc26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/YSbzFHRt/entityculling-fabric-1.10.0-mc26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "6b83d2cadbdb67d0c05e56cb62e0ccb24409890a",
+        "sha512": "325be6ce1f4c3a975ca45a85bd210c836f043f8c68a68087b39c29e7e8940f05bb850419afb038a995e90b2d06cbfe2e09fa18050440ba68890015ebaf20340d"
+      }
+    },
+    {
+      "path": "mods/moreculling-fabric-26.1.1-1.7.0-beta.5.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/51shyZVL/versions/KJBkanxk/moreculling-fabric-26.1.1-1.7.0-beta.5.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "7831be27edaf8581c6bba15867b2a47f4ee9b625",
+        "sha512": "57556eb3280637c5666e0a4e93d8b92912848ba7804014d56f73e1363b3e1f7b272f5641cd08420123b9bf68ec9c5d71c2314ba3e4c5d69e5c4e00f0e925ddd8"
       }
     },
     {
@@ -93,25 +115,25 @@
       }
     },
     {
-      "path": "mods/voicechat-fabric-2.6.14+26.1.1.jar",
+      "path": "mods/voicechat-fabric-2.6.15+26.1.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/EuaIzAYI/voicechat-fabric-2.6.14%2B26.1.1.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/4cjovAfF/voicechat-fabric-2.6.15%2B26.1.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "bd6a822e7043b0b195bada890c20fc6596193812",
-        "sha512": "d750b08dd760c4b7392937fb03d7a2d49d04a40b647458d7a20e2d6fadf5945a6b6366111b4e5be2974bf9daaa2f76da2ef07b7b583ea3998e2aed360e884b2c"
+        "sha1": "0f8c8e1194a0f7ee1f155038d315a59f8625b21f",
+        "sha512": "d215cb1acab1688403c3233d614615acd8b544913b93ffe9d0a2c4ae37c4011b62cc0f1de9d39e6113b384b45b92d2b8c9317a5d70f912b63fcf7242a8dcbf34"
       }
     },
     {
-      "path": "mods/sound-physics-remastered-fabric-1.5.1+26.1.1.jar",
+      "path": "mods/sound-physics-remastered-fabric-1.5.1+26.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/qyVF9oeo/versions/aulCuAkE/sound-physics-remastered-fabric-1.5.1%2B26.1.1.jar"
+        "https://cdn.modrinth.com/data/qyVF9oeo/versions/XLwWIIue/sound-physics-remastered-fabric-1.5.1%2B26.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "0e6b170d2add6a2b30906657e50cc91f95209cf9",
-        "sha512": "94f978f262248f12db517f8fd64c546a29466d594bdca6b408996b11f3307fbeab686674dfa3fa8de1b23decec9e689a0758391165651b86c88be7fb8700bfae"
+        "sha1": "a18502d774c76362e0178479ef00e9dd04f3bbe4",
+        "sha512": "486d4c293d8668e28d08570ff9b9ff7b267dbe4df3c57d4b0446aa64cd16dc7e581f7802d210acf3592298d6e8b519fbf154299d770e23bb6379de96e2bc0b6a"
       }
     },
     {
@@ -148,14 +170,14 @@
       }
     },
     {
-      "path": "mods/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+      "path": "mods/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/Ha28R6CL/versions/21TRTKmh/fabric-language-kotlin-1.13.10%2Bkotlin.2.3.20.jar"
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/ViT4gucI/fabric-language-kotlin-1.13.9%2Bkotlin.2.3.10.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "9873294abf498f509453d37b0a5ba019f4570ffb",
-        "sha512": "e4eaf7594de08eb4f3ea8af2e939f3ee61d07597afb4d5f420c3fbadcb381c7bbad4b1afd5919b3087b73ed9636fb018b1c978858a112bd4f6acdcb42e9eedaa"
+        "sha1": "20b2200961e11994595ebb2d5f6624f232d13751",
+        "sha512": "498672ee88cf703685026e74f82a85e30d980c62a1c8cc14744cb73add09a857db8d585b405e19f558ec490613642750eb00e09d8ef5a3c9578bc52b53568d51"
       }
     },
     {
@@ -214,6 +236,17 @@
       }
     },
     {
+      "path": "mods/fadeless-2.0.7-26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/ncKjyGm3/versions/NUDdPq7H/fadeless-2.0.7-26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e235aa2d7ced0f3c86fedcb3ca5e560ec06d03d9",
+        "sha512": "c0eb41ee17e2fc189e3b4dfbcaedec22131fb9340216cffceb8554b7a9ff23d836f3d82a5ba0a70d775bd30c40b462931ff48e6814064f575d807e78ca31b1ae"
+      }
+    },
+    {
       "path": "mods/no-telemetry-1.10.0.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/hg77g4Pw/versions/cBEkQM9c/no-telemetry-1.10.0.jar"
@@ -255,6 +288,17 @@
       "hashes": {
         "sha1": "0b2292bd34a677af8a13562f702a38957ffb55cb",
         "sha512": "89c2f23244120997c5080deaa277b7e3c84dba5215bfa05cfbf4c2e8a1c8f383c2a00c2f98522248237fa3f54ee1064d7fed807e02ab6c72a6c6d11dace954ca"
+      }
+    },
+    {
+      "path": "mods/macos-input-fixes-1.12.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/x9BrsVME/versions/dQnfebpR/macos-input-fixes-1.12.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "fdf943895dfe518eb0a07c30d38bb3d4dfaffc1f",
+        "sha512": "6fd29284138923b964e0e8ddae6398448eb79d9a4b9a26c861d04da8c1522ef1acba06a516eac35bb5b7d0bc70cfdcdd5447f093ad2fa47fd7648e9b40b00fc3"
       }
     },
     {
@@ -313,6 +357,17 @@
       }
     },
     {
+      "path": "mods/ViaFabricPlus-4.5.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/rIC2XJV4/versions/6LithIYH/ViaFabricPlus-4.5.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "df16bcecf2ea43715fd0c20542eb73464bb72e35",
+        "sha512": "b23eac569914ef3097234dd4687d50bb52a6b164cc4636c7d6faddb7c8d18bbaf2bacac87ce64f4cd681dd1572ee6fef7ae059a9053ff205c242628ecd86bf60"
+      }
+    },
+    {
       "path": "mods/skinrestorer-2.7.1+26.1-fabric.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/ghrZDhGW/versions/vxDnBONX/skinrestorer-2.7.1%2B26.1-fabric.jar"
@@ -332,6 +387,17 @@
       "hashes": {
         "sha1": "117c66f292cedd7e65506fd3bf314ec1885f035f",
         "sha512": "816fbcee228960ad04b5ae62e7da7cb27b8777f3471a61a8e1e951b1616353c2424b10f9558fe5e70306b5c2bd36130add229b0be2450ae5328869ef40b71114"
+      }
+    },
+    {
+      "path": "mods/renderscale-1.3.7+26.1-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/Va8PJBFX/versions/EPT9LzJa/renderscale-1.3.7%2B26.1-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "0f56e960f97f5c42d058a929531902963380b7a8",
+        "sha512": "77ce43b61a44a75509c607b533b7f8cdebc358f8a43446df0e6dda0e4dfe0af6897cd886f620dbbae33a4517b9858306085fd7a90a992448c86659540cbd25d2"
       }
     },
 
