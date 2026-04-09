@@ -16,6 +16,17 @@
       }
     },
     {
+      "path": "mods/lithium-fabric-0.24.0+mc26.1.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/5vmGhyue/lithium-fabric-0.24.0%2Bmc26.1.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "bcdcb297661775c51971b1be1720a4479ed81804",
+        "sha512": "05d13f5f429c415a1b85e5561bf2e6efb36c5f6b750daa95aeedf3bbd4d67b842b2329095d4505f6d0bd3ce2b7872cd040c2fb405f9eec764ab66bb8dc0314e1"
+      }
+    },
+    {
       "path": "mods/sodium-fabric-0.8.9+mc26.1.1.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/AANobbMI/versions/uGvVQBnw/sodium-fabric-0.8.9%2Bmc26.1.1.jar"
@@ -46,6 +57,17 @@
       "hashes": {
         "sha1": "e1c704acfb5bde6df36b23c3a38faff1f02abb73",
         "sha512": "32736018c32c6ebd391a2fd0566b058faeae6b0cf00b1d56b816b8211ebcb665949bae5b1ae8bf2e9b7a24845ed94234c3fffc71f74354956833cfedeadcef12"
+      }
+    },
+    {
+      "path": "mods/ImmediatelyFast-Fabric-1.15.2+26.1.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/lRuSLf0Y/ImmediatelyFast-Fabric-1.15.2%2B26.1.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "195bc6059dda0aac574906d035fae0b62a575a87",
+        "sha512": "46371d0958d705182e0945a0bd93b750a07a1f32a4f3189d85741804392137a47790d3bd0e341e7e9d5bf2783652598575ae1dc26f188aa9a71758f9d568e709"
       }
     },
     {
