@@ -82,17 +82,6 @@
       }
     },
     {
-      "path": "mods/lithium-fabric-0.23.0+mc26.1.1.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/kHXOBNih/lithium-fabric-0.23.0%2Bmc26.1.1.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "4904811469a2f62d7de3e250b6c98acfa3b58d9f",
-        "sha512": "9d7e92ea2af7d024cfe09bfc7eacf236e551da024f4ddeb3a20d88b01bc3620ee1c5a3355299c9dbfcc76406fb0b8e121a989651e6a73c8c2632290f84db8448"
-      }
-    },
-    {
       "path": "mods/ScalableLux-0.2.0+fabric.2b63825-all.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/Ps1zyz6x/versions/gYbHVCz8/ScalableLux-0.2.0%2Bfabric.2b63825-all.jar"
@@ -115,17 +104,6 @@
       }
     },
     {
-      "path": "mods/sound-physics-remastered-fabric-1.5.1+26.1.1.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/qyVF9oeo/versions/aulCuAkE/sound-physics-remastered-fabric-1.5.1%2B26.1.1.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "0e6b170d2add6a2b30906657e50cc91f95209cf9",
-        "sha512": "94f978f262248f12db517f8fd64c546a29466d594bdca6b408996b11f3307fbeab686674dfa3fa8de1b23decec9e689a0758391165651b86c88be7fb8700bfae"
-      }
-    },
-    {
       "path": "mods/lambdynamiclights-4.10.1+26.1.1.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/yBW8D80W/versions/XrvvtEB5/lambdynamiclights-4.10.1%2B26.1.1.jar"
@@ -145,17 +123,6 @@
       "hashes": {
         "sha1": "19f4bedeb5fbfe1be295c653288b4d38a7a84576",
         "sha512": "d22e6acf2ba318046ce268c56cea586580ab217325e451b37b72f3213ceab95561c5a8dad4e3aec36a087a1096fa51bb81c670d64076395f38ad286a05ec4f22"
-      }
-    },
-    {
-      "path": "mods/ImmediatelyFast-Fabric-1.15.1+26.1.1.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/UM3jWaXo/ImmediatelyFast-Fabric-1.15.1%2B26.1.1.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "25780ccb6f42d49280223f6aeb6603f8b624c9e5",
-        "sha512": "3e7253defa73110883d0685ba2e5321228b627aa0206277fec26b5d332e1b372b93e1c053a6fd3be938188f110307a6716a2f80dd97c205231aa8900bdf7641d"
       }
     },
     {
@@ -335,17 +302,6 @@
       }
     },
     {
-      "path": "mods/ViaFabricPlus-4.5.1.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/rIC2XJV4/versions/M4FHfVPR/ViaFabricPlus-4.5.1.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "05f3c85ae4c4ddfa82148bbc4f26925d446874cd",
-        "sha512": "a37d1f9f0178a70ebb61a7d36809f9f42280e2c847d6228ea264f610a3459b3f29725e959edbe81fda570a4e2f39ad6210c244914bf53c1959b7662d91b956ad"
-      }
-    },
-    {
       "path": "mods/skinrestorer-2.7.1+26.1-fabric.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/ghrZDhGW/versions/vxDnBONX/skinrestorer-2.7.1%2B26.1-fabric.jar"
@@ -354,17 +310,6 @@
       "hashes": {
         "sha1": "25e58aacb7ac56fba94467999ea49dd17d2a0b6a",
         "sha512": "c5645d80283e4133c9548a4f1d1245990909464e7853e6d73e4170a11016af65b065a013d11c77e089e1da6b2f9fcad6f1c483b780cf763c02a9da4009ea1cf5"
-      }
-    },
-    {
-      "path": "mods/vivecraft-26.1.1-1.3.7-b2-fabric.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/wGoQDPN5/versions/kKel3DMM/vivecraft-26.1.1-1.3.7-b2-fabric.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "117c66f292cedd7e65506fd3bf314ec1885f035f",
-        "sha512": "816fbcee228960ad04b5ae62e7da7cb27b8777f3471a61a8e1e951b1616353c2424b10f9558fe5e70306b5c2bd36130add229b0be2450ae5328869ef40b71114"
       }
     },
     {
