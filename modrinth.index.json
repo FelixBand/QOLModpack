@@ -71,14 +71,14 @@
       }
     },
     {
-      "path": "mods/entityculling-fabric-1.10.0-mc1.21.11.jar",
+      "path": "mods/entityculling-fabric-1.10.1-mc1.21.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/NNAgCjsB/versions/SK12FGQf/entityculling-fabric-1.10.0-mc1.21.11.jar"
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/WORDhU8n/entityculling-fabric-1.10.1-mc1.21.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "1d0370bf2f6fc68d7d5c448ae391ae8248a5e817",
-        "sha512": "25e3ba4d30518c65541872d61f12b7408d0c0231b12cfce7468b71097abd81f8e7c6bf46851dcb670b239ede0b96b78e8f303a21c6cb659b9be05181c4b17dc7"
+        "sha1": "4e595b6162d24c3d8d65bc6417cf79daac5bde0d",
+        "sha512": "93fac75432afb97f286827190b3e0363775e013946e22bc62cd86b1d0e0c10c1e7dbd520ca22a9445acb1f50afca38c12d41a4f9a4d3685218287bb7cad237b8"
       }
     },
     {
