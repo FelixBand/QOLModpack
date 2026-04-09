@@ -247,14 +247,14 @@
       }
     },
     {
-      "path": "mods/voxy-extra-0.1.5.jar",
+      "path": "mods/voxy-extra-0.1.6.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/znQnhrkQ/versions/fo97jQbP/voxy-extra-0.1.5.jar"
+        "https://cdn.modrinth.com/data/znQnhrkQ/versions/Wunjl0Ox/voxy-extra-0.1.6.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "8b42c88c5dd6fa1edba0d5863fea75dd6bdb21e1",
-        "sha512": "307399ec2562c8affe5799079caa56b9c6b53f517933630c07bf622dbd56bf0cd3ad016c3bb506fdd02e37bc529b02b86aae11599f7a94270a493e6a101deb5f"
+        "sha1": "75880c2159962e7f4d829935744055f0702304fe",
+        "sha512": "2eff2d32a4d966ada000ff8c61164c26539283ae95f3d6d6d0df6b74f594cc7340e67d279ec0401e42fa17c9066465e1758730c35f7f822b63eb8c6c1287a4a6"
       }
     },
     {
@@ -467,14 +467,14 @@
       }
     },
     {
-      "path": "mods/ViaFabricPlus-4.4.10.jar",
+      "path": "mods/ViaFabricPlus-4.4.11.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/rIC2XJV4/versions/zokPILXX/ViaFabricPlus-4.4.10.jar"
+        "https://cdn.modrinth.com/data/rIC2XJV4/versions/8Us9jOjr/ViaFabricPlus-4.4.11.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "308bc6587479a8e9f9125607e724fcc2a5f40fd1",
-        "sha512": "29d4dc6365ffd31b1d83472ed8561747696f42a2359eb62584e070ad0185fa69f46d51bc374dbbba7f7e274a0379f930469d1a1ecce33e08be9e36251063563c"
+        "sha1": "4c4d943fecf384c02faecd3df985dc334f533824",
+        "sha512": "29eb0dc6d87ea16d02b545234fe02f3fcddde1ec7fd294b4f5654763da153bddbe6339ae3b16791f9dc4b26929e546fa4d642b99addff024e38135529114d2a0"
       }
     },
     {
@@ -526,7 +526,7 @@
     }
   ],
   "dependencies": {
-    "fabric-loader": "0.18.6",
+    "fabric-loader": "0.19.0",
     "minecraft": "1.21.11"
   }
 }
