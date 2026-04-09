@@ -5,14 +5,14 @@
   "name": "Felix' QOL Modpack",
   "files": [
     {
-      "path": "mods/fabric-api-0.145.4+26.1.1.jar",
+      "path": "mods/fabric-api-0.145.4+26.1.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/E1uEPd5j/fabric-api-0.145.4%2B26.1.1.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/fm7UYECV/fabric-api-0.145.4%2B26.1.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "bb199e859c384ae1bacfb4107a82ae3d98416609",
-        "sha512": "5cbf5c07c25ddc48affc2d67a7b911df6fe263ac4cafa7baeddab4dbc8e47c785a892cb7ea5181909c1703121eeed77e6b9459d61a78616621fc31142cc0d019"
+        "sha1": "f6a5958eae1644ce8e8622b513bc6a795594675b",
+        "sha512": "ffd5ef62a745f76cd2e5481252cb7bc67006c809b4f436827d05ea22c01d19279e94a3b24df3d57e127af1cd08440b5de6a92a4ea8f39b2dcbbe1681275564c3"
       }
     },
     {
@@ -291,14 +291,14 @@
       }
     },
     {
-      "path": "mods/controlify-3.0.0-beta.3+26.1-fabric.jar",
+      "path": "mods/controlify-3.0.0+26.1-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/RWtB0dqp/controlify-3.0.0-beta.3%2B26.1-fabric.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/J2qX8478/controlify-3.0.0%2B26.1-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "b48bbabc577f07dc1d757c2d58a4ac29297590bd",
-        "sha512": "bdd2a4dd935f379f28329f3c80e3f031970bcc7869d74681abd5eca2f3f6f85e707f9647f8eedb9b7aef7176c1f4eea0fa557104f0644e6814c95b57f73a0dd5"
+        "sha1": "64f6cea2808dffb4f945fc248879b55303fe746f",
+        "sha512": "ba6926faaa35ccd144626a7f06bf10e9d6ea20bc2760533266b8a574b3bad175e087e5d9ffa9857d728a31801a9893c7d4b60600f29a71503f9eb2fabbd01f8f"
       }
     },
     {
@@ -398,6 +398,17 @@
       "hashes": {
         "sha1": "848f0a18c74cfe0db2905bf9d5dfb1f68850ba85",
         "sha512": "c966c058c0a398ac293a91ab3116658ad03a007bbdc9809879badb4fb776c7c9fad1131adabd78385fe9504be87d8a925bd6b130246594cf2959c6665e9e044e"
+      }
+    },
+    {
+      "path": "mods/voxy-extra-0.1.6.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/znQnhrkQ/versions/Wunjl0Ox/voxy-extra-0.1.6.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "75880c2159962e7f4d829935744055f0702304fe",
+        "sha512": "2eff2d32a4d966ada000ff8c61164c26539283ae95f3d6d6d0df6b74f594cc7340e67d279ec0401e42fa17c9066465e1758730c35f7f822b63eb8c6c1287a4a6"
       }
     },
 
