@@ -247,14 +247,14 @@
       }
     },
     {
-      "path": "mods/voxy-extra-0.1.6.jar",
+      "path": "mods/voxy-extra-0.1.5.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/znQnhrkQ/versions/Wunjl0Ox/voxy-extra-0.1.6.jar"
+        "https://cdn.modrinth.com/data/znQnhrkQ/versions/fo97jQbP/voxy-extra-0.1.5.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "75880c2159962e7f4d829935744055f0702304fe",
-        "sha512": "2eff2d32a4d966ada000ff8c61164c26539283ae95f3d6d6d0df6b74f594cc7340e67d279ec0401e42fa17c9066465e1758730c35f7f822b63eb8c6c1287a4a6"
+        "sha1": "8b42c88c5dd6fa1edba0d5863fea75dd6bdb21e1",
+        "sha512": "307399ec2562c8affe5799079caa56b9c6b53f517933630c07bf622dbd56bf0cd3ad016c3bb506fdd02e37bc529b02b86aae11599f7a94270a493e6a101deb5f"
       }
     },
     {
