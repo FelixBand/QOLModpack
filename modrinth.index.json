@@ -411,6 +411,17 @@
         "sha512": "7dd35bbe930d79a303564c61bf9e9de53480d0c602e6bd6889cbcff52969d76fbc598ca15dfd7a22219e5702f9c89ca5d7c8619d4f9612775a2053cd55e7a819"
       }
     },
+    {
+      "path": "mods/ViaFabricPlus-4.5.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/rIC2XJV4/versions/D9mD8kWw/ViaFabricPlus-4.5.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e6f2a9d0d3cfb5ea7c43141e455d32d28e89886b",
+        "sha512": "d5891bf096f777b9646438beb74279014b416538dba593ea57932012463caa152ee906e23ebebe5cc3722d87bda1f23204b5d25661d33e131a8393720de8dc84"
+      }
+    },
 
 
 
