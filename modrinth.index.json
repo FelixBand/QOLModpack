@@ -514,19 +514,19 @@
       }
     },
     {
-      "path": "shaderpacks/photon-main.zip",
+      "path": "shaderpacks/photon_v1.3.zip",
       "downloads": [
-        "https://github.com/sixthsurge/photon/archive/refs/heads/main.zip"
+        "https://cdn.modrinth.com/data/lLqFfGNs/versions/VFSm0NBn/photon_v1.3.zip"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "8d6497321aa36c30d58962c131df82effe07a3ae",
-        "sha512": "9fcaa31ef4411ee4a9f8f9f526ba1aeb57a38c7abde2645c7a21de3451a6a503530503ed025ab65551f08f20e6b4be5397db1df301085de3c02c1b410194dd61"
+        "sha1": "d7bcffc983fc7d0f5270a2265e91597921a79d6b",
+        "sha512": "b080876d12ce6e6b5fe19c77d251748edee40ae79a750d870ff16ce4554097dfa140744acfc2bd96c4a93d51681e5e642f79291a50279db6e988fe15077214d3"
       }
     }
   ],
   "dependencies": {
-    "fabric-loader": "0.19.0",
+    "fabric-loader": "0.19.1",
     "minecraft": "1.21.11"
   }
 }
