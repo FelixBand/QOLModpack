@@ -1,7 +1,8 @@
-fullscreen:true
-gamma:1.0
 fov:0.5
+fullscreen:true
+exclusiveFullscreen:true
 directionalAudio:true
+gamma:1.0
 inactivityFpsLimit:"minimized"
 resourcePacks:["vanilla","file/Low Shield.zip","continuity:default","continuity:glass_pane_culling_fix"]
 chatScale:0.7533216879401409
