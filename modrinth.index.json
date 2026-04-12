@@ -16,14 +16,14 @@
       }
     },
     {
-      "path": "mods/lithium-fabric-0.24.0+mc26.1.2.jar",
+      "path": "mods/lithium-fabric-0.24.1+mc26.1.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/5vmGhyue/lithium-fabric-0.24.0%2Bmc26.1.2.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/v2xoRvRP/lithium-fabric-0.24.1%2Bmc26.1.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "bcdcb297661775c51971b1be1720a4479ed81804",
-        "sha512": "05d13f5f429c415a1b85e5561bf2e6efb36c5f6b750daa95aeedf3bbd4d67b842b2329095d4505f6d0bd3ce2b7872cd040c2fb405f9eec764ab66bb8dc0314e1"
+        "sha1": "987c45786c145803e9a6d20718d65242b699de6f",
+        "sha512": "8711bc8c6f39be4c8511becb7a68e573ced56777bd691639f2fc62299b35bb4ccd2efe4a39bd9c308084b523be86a5f5c4bf921ab85f7a22bf075d8ea2359621"
       }
     },
     {
@@ -115,14 +115,14 @@
       }
     },
     {
-      "path": "mods/voicechat-fabric-2.6.15+26.1.1.jar",
+      "path": "mods/voicechat-fabric-2.6.16+26.1.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/4cjovAfF/voicechat-fabric-2.6.15%2B26.1.1.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/eGxtLv6D/voicechat-fabric-2.6.16%2B26.1.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "0f8c8e1194a0f7ee1f155038d315a59f8625b21f",
-        "sha512": "d215cb1acab1688403c3233d614615acd8b544913b93ffe9d0a2c4ae37c4011b62cc0f1de9d39e6113b384b45b92d2b8c9317a5d70f912b63fcf7242a8dcbf34"
+        "sha1": "82e82d3ccd71f8fb196e33b427e0afb791839eea",
+        "sha512": "e3261eddf20a70949086c347f95671307f3c595e256447a40222783206b8996250d6f66b2c567bd56666d87162533b419237de47a3502176dc28cae360bc62f9"
       }
     },
     {
@@ -378,6 +378,28 @@
         "sha512": "2eff2d32a4d966ada000ff8c61164c26539283ae95f3d6d6d0df6b74f594cc7340e67d279ec0401e42fa17c9066465e1758730c35f7f822b63eb8c6c1287a4a6"
       }
     },
+    {
+      "path": "mods/cwb-4.0.0+26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/ETlrkaYF/versions/Fmq7puEW/cwb-4.0.0%2B26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "1bfab01495b017a900f0bd2d7149494259a2f7a4",
+        "sha512": "5f7ac2b47ab314ba66ed4476440298df0bdaaadb5e6a93861ba039df5e0b756f56e86437c4f2451dad1c9ee2dd36997c2d6a907cec0a1c54c4f7d5bbfe1fd632"
+      }
+    },
+    {
+      "path": "mods/vivecraft-26.1.2-1.3.7-b4-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/wGoQDPN5/versions/oUgVbSvf/vivecraft-26.1.2-1.3.7-b4-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "8c7c4958cc9aca391c69600b1a6929e6dbf5f7f4",
+        "sha512": "c0964e6922a3da42721706df52139a2a16ad1cb21e967cac1c2f0b846b7c714a531a32b31aa20f22816e73526666604d4e73e07bc8c71c96f9b5e2f44d3198c4"
+      }
+    },
 
 
 
@@ -393,19 +415,19 @@
       }
     },
     {
-      "path": "shaderpacks/photon-main.zip",
+      "path": "shaderpacks/photon_v1.3.zip",
       "downloads": [
-        "https://github.com/sixthsurge/photon/archive/refs/heads/main.zip"
+        "https://cdn.modrinth.com/data/lLqFfGNs/versions/VFSm0NBn/photon_v1.3.zip"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "8d6497321aa36c30d58962c131df82effe07a3ae",
-        "sha512": "9fcaa31ef4411ee4a9f8f9f526ba1aeb57a38c7abde2645c7a21de3451a6a503530503ed025ab65551f08f20e6b4be5397db1df301085de3c02c1b410194dd61"
+        "sha1": "d7bcffc983fc7d0f5270a2265e91597921a79d6b",
+        "sha512": "b080876d12ce6e6b5fe19c77d251748edee40ae79a750d870ff16ce4554097dfa140744acfc2bd96c4a93d51681e5e642f79291a50279db6e988fe15077214d3"
       }
     }
   ],
   "dependencies": {
-    "fabric-loader": "0.19.0",
+    "fabric-loader": "0.19.1",
     "minecraft": "26.1.2"
   }
 }
