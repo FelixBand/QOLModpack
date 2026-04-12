@@ -115,14 +115,14 @@
       }
     },
     {
-      "path": "mods/voicechat-fabric-1.21.11-2.6.15.jar",
+      "path": "mods/voicechat-fabric-1.21.11-2.6.16.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/Rbi7ZjtI/voicechat-fabric-1.21.11-2.6.15.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/KtAJ2LmQ/voicechat-fabric-1.21.11-2.6.16.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "094377c02b2b14b14a62086898f03bd57de9354c",
-        "sha512": "41ba1dab28fd22cd736b0e85ad5a0be00c461011203e7ce3fa2e3a1671e4de469435a806a628d64664f5853bb45fac7c5f81e490cd4b91a44b45fcbef3f40b01"
+        "sha1": "e9e90f72d65072fef3206b94a6f6ac898af4813e",
+        "sha512": "f2d7485c238cb081124af22c1d6c8c6779d5a2b831a4b766a0f6d710551c37667f879d82277620c43f9bc677de91b2231ff7ba1217b12e715e081148b303c0be"
       }
     },
     {
@@ -192,14 +192,14 @@
       }
     },
     {
-      "path": "mods/balm-fabric-1.21.11-21.11.8.jar",
+      "path": "mods/balm-fabric-1.21.11-21.11.9.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/MBAkmtvl/versions/IYfoTfMp/balm-fabric-1.21.11-21.11.8.jar"
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/wk8IL07y/balm-fabric-1.21.11-21.11.9.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "afd42c85a4ccefaef783b632679701869330eb73",
-        "sha512": "3d9af084e684e18152ea557cb8da92165f05d9ca7b9ee1c87db46a271681b7a1c0f23eab116cabe2734f1f445a75945168978d588f16ca785efe34e74216d826"
+        "sha1": "c86419f7e2460a1ab5da972a7a6f729e6794c92f",
+        "sha512": "42c894cf4d8d5f89d1806aa397f939d8ce75e079ce0c21f5a4720023eb64c861585e2b3d1ab50e4487b3e88612b03e31e09f70915093ba291d80349fcd0d56d5"
       }
     },
     {
