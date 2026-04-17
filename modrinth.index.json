@@ -302,14 +302,14 @@
       }
     },
     {
-      "path": "mods/fast-ip-ping-v1.0.9-mc26.1-fabric.jar",
+      "path": "mods/fast-ip-ping-v1.0.11-mc26.1.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/9mtu0sUO/versions/ZYp0dup2/fast-ip-ping-v1.0.9-mc26.1-fabric.jar"
+        "https://cdn.modrinth.com/data/9mtu0sUO/versions/H7KycYXE/fast-ip-ping-v1.0.11-mc26.1.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "2d0973198ea241f0888258a709c6135da699591e",
-        "sha512": "379438dca7666c02ee0b30fc4ab5e4786a562311295df6f1cc3012dff2820ea1e0594923b0e7cdd4833f842d60a3f5d2165c5805e8085360fe745941da7157e6"
+        "sha1": "6b69eaa6323da9f7933206d55cdb09ea3299cde3",
+        "sha512": "a3172cf7c42c8c71c4fd38ff267233787320ff9a24b39fdac61df659d326ab3d13a5227dd3ee4d966080e31ccb922a8a27580931eaa003565f809f9e3399287e"
       }
     },
     {
