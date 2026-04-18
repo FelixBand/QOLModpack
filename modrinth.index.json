@@ -16,14 +16,14 @@
       }
     },
     {
-      "path": "mods/lithium-fabric-0.24.1+mc26.1.2.jar",
+      "path": "mods/lithium-fabric-0.24.2+mc26.1.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/v2xoRvRP/lithium-fabric-0.24.1%2Bmc26.1.2.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/R7MxYvuW/lithium-fabric-0.24.2%2Bmc26.1.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "987c45786c145803e9a6d20718d65242b699de6f",
-        "sha512": "8711bc8c6f39be4c8511becb7a68e573ced56777bd691639f2fc62299b35bb4ccd2efe4a39bd9c308084b523be86a5f5c4bf921ab85f7a22bf075d8ea2359621"
+        "sha1": "a2575886c93255a73e5c583e89332b8bd56023d3",
+        "sha512": "9231ad05667d4eef0348c700bf5160929e0b723d9e145fd97c7fcef9387ac2e6d524fb15d99f47f8f838f1d235324fd750cdcb6603b63aab6085d79fbeaab31b"
       }
     },
     {
@@ -170,14 +170,14 @@
       }
     },
     {
-      "path": "mods/balm-fabric-26.1.2-26.1.2.1.jar",
+      "path": "mods/balm-fabric-26.1.2-26.1.2.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/MBAkmtvl/versions/CXPaGqRl/balm-fabric-26.1.2-26.1.2.1.jar"
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/QNdlITcY/balm-fabric-26.1.2-26.1.2.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "68e43dd090c9a594aa584f6eadcbb45a6f0c6d00",
-        "sha512": "fdb7cb7de1b4f5ff34cee67b0fa1278cccad9b316c32f859827787f0ad402852187ac89b2c7a19a062de6cf8b7b045bf6447960d9f9296db64d512a99891ab9e"
+        "sha1": "0ae74e2d53f566b58aaecb4c97a31d90d6faf1fc",
+        "sha512": "591dc5b312c166a2c3aa1be4635c63db494e1d274b644c29143a1323dca94a289a52109c499a34716a9f1bdbbc14028cd81b0dc746a52bc126232b747b0a37f7"
       }
     },
     {
@@ -203,14 +203,14 @@
       }
     },
     {
-      "path": "mods/locator-heads-2.0.0.jar",
+      "path": "mods/locator-heads-2.2.0.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/L4pt5egz/versions/iPo5GkeI/locator-heads-2.0.0.jar"
+        "https://cdn.modrinth.com/data/L4pt5egz/versions/6DwkUvG0/locator-heads-2.2.0.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "83304e2eaed73353689f0984cc52fade187935b6",
-        "sha512": "70db218c54e2c713c62c2d3fe058dae06c973d99bcf95c5710ffe52fe22ae785feabd9db6c025d14ea5e54f5e19a932eab8919af01ba9b04d4cc2865f8fe8c9a"
+        "sha1": "3f07ef1d3b80036596d9af8e124f7819f9b9e1af",
+        "sha512": "d95a2f1ecab7ea5b6322be8e6b2bd931c9948db7665e57e58d36f53903c829ec6d4cedb8c2e47ee9947329082df1904c5d82ed793591dfce987b449f3bde0d61"
       }
     },
     {
@@ -247,14 +247,14 @@
       }
     },
     {
-      "path": "mods/Stfu-2.9.0-26.1.jar",
+      "path": "mods/Stfu-2.9.1-26.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/Rg9WdvvR/versions/z55rnFWS/Stfu-2.9.0-26.1.jar"
+        "https://cdn.modrinth.com/data/Rg9WdvvR/versions/TCs1xt2K/Stfu-2.9.1-26.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "0b2292bd34a677af8a13562f702a38957ffb55cb",
-        "sha512": "89c2f23244120997c5080deaa277b7e3c84dba5215bfa05cfbf4c2e8a1c8f383c2a00c2f98522248237fa3f54ee1064d7fed807e02ab6c72a6c6d11dace954ca"
+        "sha1": "7f4f22b428ed41677f8fd537561110fa0806d455",
+        "sha512": "6c3fe6c9ec2cc21a0fe12fd4e8fa779056737f73300af6fb36785c6a98613b96b34305e361718328888bcd237db091b0ec089de13a957e5f8eab946bab0ada87"
       }
     },
     {
@@ -422,6 +422,17 @@
         "sha512": "d5891bf096f777b9646438beb74279014b416538dba593ea57932012463caa152ee906e23ebebe5cc3722d87bda1f23204b5d25661d33e131a8393720de8dc84"
       }
     },
+    {
+      "path": "mods/bedrockify-1.11.6+mc26.1.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/ox3rDp1B/versions/LyAZ5Yqf/bedrockify-1.11.6%2Bmc26.1.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "2955f16235f96a52c15b87148e241ca16dc1c1dd",
+        "sha512": "fa5cbe9fcc9f89d4db8c3b6f795327c5807165c83ca44b746756b59243b44be2caeb5dc3c77558819decdf94d2a59740a29f9ddcac6b30ac9de0154f9b836c85"
+      }
+    },
 
 
 
@@ -449,7 +460,7 @@
     }
   ],
   "dependencies": {
-    "fabric-loader": "0.19.1",
+    "fabric-loader": "0.19.2",
     "minecraft": "26.1.2"
   }
 }
