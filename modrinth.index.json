@@ -444,6 +444,17 @@
         "sha512": "f5f3e75e20140f745c8adb19ef38cb2d4e5cc011ad2799ab6fbc052f18a8cefdc0b53caa40147fa4594158d87093f2c52c2980da49244ebaef2ad37cd1644315"
       }
     },
+    {
+      "path": "mods/modernfix-5.27.5-build.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/TjSm1wrD/versions/5REDoIHm/modernfix-5.27.5-build.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "2a52e6878e4c0237d0a2a45af47fb65342904199",
+        "sha512": "1ac2938e1cabe026ef667d6556874e1125ace2df1d0c0cd73fa6ee6224cd8850d00a2a92c90aa7ae9881c71a3dda628a18128fa7ce5fcd89247eadef6771c741"
+      }
+    },
 
 
 
