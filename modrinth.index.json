@@ -5,14 +5,14 @@
   "name": "Felix' QOL Modpack",
   "files": [
     {
-      "path": "mods/fabric-api-0.145.4+26.1.2.jar",
+      "path": "mods/fabric-api-0.146.1+26.1.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/fm7UYECV/fabric-api-0.145.4%2B26.1.2.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/tnmuHGZA/fabric-api-0.146.1%2B26.1.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "f6a5958eae1644ce8e8622b513bc6a795594675b",
-        "sha512": "ffd5ef62a745f76cd2e5481252cb7bc67006c809b4f436827d05ea22c01d19279e94a3b24df3d57e127af1cd08440b5de6a92a4ea8f39b2dcbbe1681275564c3"
+        "sha1": "d2ee4e810cc926a38758e7a0f6e1497382be557a",
+        "sha512": "cd8a760ecb976127036f8047c1e968f264aea9cd9deca60e6e9cb57496b1b5cca79873c59b7ab46b92f49ac22f49a2b695bb6ebe61653c8df6954e97b8836890"
       }
     },
     {
