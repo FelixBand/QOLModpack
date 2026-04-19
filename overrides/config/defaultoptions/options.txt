@@ -7,3 +7,20 @@ inactivityFpsLimit:"minimized"
 resourcePacks:["vanilla","file/Low Shield.zip","continuity:default","continuity:glass_pane_culling_fix"]
 chatScale:0.7533216879401409
 chatWidth:0.5718873789612676
+key_keybind.name.ESSENTIAL_FRIENDS:key.keyboard.unknown
+key_keybind.name.COSMETIC_STUDIO:key.keyboard.unknown
+key_keybind.name.SCREENSHOT_MANAGER:key.keyboard.unknown
+key_keybind.name.COSMETICS_VISIBILITY_TOGGLE:key.keyboard.unknown
+key_keybind.name.CHAT_PEEK:key.keyboard.unknown
+key_keybind.name.INVITE_FRIENDS:key.keyboard.unknown
+key_keybind.name.MENU_ACCESS:key.keyboard.unknown
+key_keybind.name.EMOTE_WHEEL:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_1:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_2:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_3:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_4:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_5:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_6:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_7:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_8:key.keyboard.unknown
+key_keybind.name.ZOOM:key.keyboard.unknown
