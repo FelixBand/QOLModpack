@@ -433,6 +433,17 @@
         "sha512": "fa5cbe9fcc9f89d4db8c3b6f795327c5807165c83ca44b746756b59243b44be2caeb5dc3c77558819decdf94d2a59740a29f9ddcac6b30ac9de0154f9b836c85"
       }
     },
+    {
+      "path": "mods/autologin-1.1.0+26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/qbvK7wHQ/versions/BmTDrgLX/autologin-1.1.0%2B26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "42957f573ead272ea1779c02236b771483b5d40a",
+        "sha512": "f5f3e75e20140f745c8adb19ef38cb2d4e5cc011ad2799ab6fbc052f18a8cefdc0b53caa40147fa4594158d87093f2c52c2980da49244ebaef2ad37cd1644315"
+      }
+    },
 
 
 
