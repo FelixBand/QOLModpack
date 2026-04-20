@@ -499,6 +499,17 @@
         "sha512": "028bfa99f6eda39f78fa8b700a95d6b05c0349545560596176291efe69c3d0061642c7af5b8063e326e1b311de3b055e10efcae1ed254075baf2d91c6921c011"
       }
     },
+    {
+      "path": "mods/fadeless-2.0.8-26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/ncKjyGm3/versions/AuK4B1qm/fadeless-2.0.8-26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "53c22a0efa32c8c34470e7742e14d0e75b2cc90e",
+        "sha512": "b20c20c34c6cb4f8758203a158fb099fbef1f293b42a93f12564158fe93041dc953e9d1e0c83f7d42fcbab17b3943554c56391af5ecdce77214f24c2b481b952"
+      }
+    },
 
 
 
