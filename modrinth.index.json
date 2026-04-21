@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "5.0.1",
+  "versionId": "5.0.2",
   "name": "Felix' QOL Modpack",
   "files": [
     {
@@ -126,14 +126,14 @@
       }
     },
     {
-      "path": "mods/lambdynamiclights-4.10.1+26.1.1.jar",
+      "path": "mods/lambdynamiclights-4.10.2+26.1.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/yBW8D80W/versions/XrvvtEB5/lambdynamiclights-4.10.1%2B26.1.1.jar"
+        "https://cdn.modrinth.com/data/yBW8D80W/versions/UnhzVQJV/lambdynamiclights-4.10.2%2B26.1.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "5ff6fb499e9f591839ef521b37b275cd993be05c",
-        "sha512": "21950b0927d930dc45264b69080eb0801fcdf16e087f5c1833df7e8f0929cb018a2c6c3503837368c43d8e50ebcbb24653f156400e84912885fcd25bcf3f74ab"
+        "sha1": "7d48324546d39cdfe5bfa90e1897bb031619a15d",
+        "sha512": "62932181fd3483f04efabb02adcdbe1d9565b29bee7ba9ed71b91b6291b54174dc0f8db468fa14f9e61b10e35ddfe772655786803ad9a3f392154060fe6cf91f"
       }
     },
     {
@@ -467,14 +467,14 @@
       }
     },
     {
-      "path": "mods/zoomify-2.16.0+26.1.jar",
+      "path": "mods/logical_zoom-0.0.35.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/w7ThoJFB/versions/3zi0VJPK/zoomify-2.16.0%2B26.1.jar"
+        "https://cdn.modrinth.com/data/8bOImuGU/versions/LK7npJtc/logical_zoom-0.0.35.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "3d5fe088b9b7288aec181535bc084bc6da296fcc",
-        "sha512": "04c9892b007ad4af13a22ced6090ccf297d4b043110b1bf782eaf36a4b53af6ed37911586d392c0be56e67ea889f6e54ad09c0fdb780ca11ad468780e20c018b"
+        "sha1": "94475dbeac2dc58e0dc74ef55b43750dc2459926",
+        "sha512": "bf18820f8e1fa3d3e909747e0a3f32351a00da0eae446387f19f1abcdb9459c865fb2b38f86e0a1f374f99ca3db40ee7e4c0ec006f84c930b38024483b334516"
       }
     },
     {
