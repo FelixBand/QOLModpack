@@ -510,6 +510,17 @@
         "sha512": "b20c20c34c6cb4f8758203a158fb099fbef1f293b42a93f12564158fe93041dc953e9d1e0c83f7d42fcbab17b3943554c56391af5ecdce77214f24c2b481b952"
       }
     },
+    {
+      "path": "mods/voxy-server-side-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/84zcagOb/versions/FUA8kyHB/voxy-server-side-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "22c7aaaabb2c0a6cd6871efbdf206205a4002552",
+        "sha512": "46c56bd6422ed5674ec5391abf2163c0c23e636c2bd2b0786122f6e580badc4767444d973e9e0545510e04bf2a4614555fe840956a43e7c973be20825d0f21fb"
+      }
+    },
 
 
 
