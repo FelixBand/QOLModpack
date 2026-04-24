@@ -521,6 +521,17 @@
         "sha512": "534f20999bfc74b6e7288ac29b34b646e3ecc4bbb36e90a79b78c0b7bdd5e692955359fb8e64142f0a9280c252b10e8cf21817f9e80f21d275cfbba0a9e1f857"
       }
     },
+    {
+      "path": "mods/PushierPistons-1.0-mc26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/eIcHtprZ/versions/bThkGddj/PushierPistons-1.0-mc26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "7292b44c616c32229ebf712fe8bdb32b71372649",
+        "sha512": "928399834457fa97b9f7a45c7b9da857f6b3134d4b353d803040b1a63df1addd98e21226e71b30b4639d17025b5f3891403aa181a10b36d08efe41ad20c2acd7"
+      }
+    },
 
 
 
