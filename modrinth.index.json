@@ -543,6 +543,17 @@
         "sha512": "928399834457fa97b9f7a45c7b9da857f6b3134d4b353d803040b1a63df1addd98e21226e71b30b4639d17025b5f3891403aa181a10b36d08efe41ad20c2acd7"
       }
     },
+    {
+      "path": "mods/isxander-main-menu-credits-1.3.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/qJDfP7WN/versions/YlrQhKgF/isxander-main-menu-credits-1.3.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e4b0c3671d0f634ae5aac194253348dcebc3d6fc",
+        "sha512": "745eda2989b7b9c49ce428cdb7559a44585b283dc0b1b2de8813ad069c6bf28622494aa5f38a421cc75ccd5b1d4f0f2bc120c696bbb88319469fe7f6eccd8203"
+      }
+    },
 
 
 
