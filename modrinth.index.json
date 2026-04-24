@@ -554,6 +554,28 @@
         "sha512": "745eda2989b7b9c49ce428cdb7559a44585b283dc0b1b2de8813ad069c6bf28622494aa5f38a421cc75ccd5b1d4f0f2bc120c696bbb88319469fe7f6eccd8203"
       }
     },
+    {
+      "path": "mods/dasik-library-1.6.9+build.23.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/JVMIalSJ/versions/PbKHKHCL/dasik-library-1.6.9%2Bbuild.23.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e851ab21639f7b4c22c32d9ca97de72bf7f4567e",
+        "sha512": "ceb577b4ee7c2fac106dfaa49bd8d2eedb715408007618c61500e87065605340464490e61d06ea9542eee7251d10860adb310bcba10112b2578c1067da69fc85"
+      }
+    },
+    {
+      "path": "mods/collapsible-game-rules-1.0.0+build.12.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/lObgjyJl/versions/qXr4OMtX/collapsible-game-rules-1.0.0%2Bbuild.12.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "fb82c49a0da3e58741e95cd435919894b24be8f6",
+        "sha512": "5b94c29491133f7664aa83e787f0e053aafe8a73ed23533fdb5789d38e4fec2eed26ca9d778002426c62cd257bcb363c8a5c0d461a7e29ea7db4fc28658c4e6b"
+      }
+    },
 
 
 
