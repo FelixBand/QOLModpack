@@ -137,25 +137,25 @@
       }
     },
     {
-      "path": "mods/c2me-fabric-mc26.1.2-0.3.7+alpha.0.65.jar",
+      "path": "mods/c2me-fabric-mc26.1.2-0.3.7+alpha.0.67.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/yrNQQ1AQ/c2me-fabric-mc26.1.2-0.3.7%2Balpha.0.65.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/lWpNUM5l/c2me-fabric-mc26.1.2-0.3.7%2Balpha.0.67.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "b2ad88cbe82f510d178726e6304f575892b53878",
-        "sha512": "6666ebaa3bfa403e386776590fc845b7c306107d37ebc7b1be3b057893fbf9f933abb2314c171d7fe19c177cf8823cb47fdc32040d34a9704f5ab656dd5d93f8"
+        "sha1": "5c2d748ef94a66a18be1f6e5ba5583169f551e1b",
+        "sha512": "c784f68a63be54307784b0d5e5ab46d1a78f5b5483ee83207658874d30b17cc718e0042453b06bf9c584148cfd0382c20c6d633ef3c5852efe078402b06e7eb7"
       }
     },
     {
-      "path": "mods/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+      "path": "mods/fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/Ha28R6CL/versions/21TRTKmh/fabric-language-kotlin-1.13.10%2Bkotlin.2.3.20.jar"
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/2i87JpYj/fabric-language-kotlin-1.13.11%2Bkotlin.2.3.21.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "9873294abf498f509453d37b0a5ba019f4570ffb",
-        "sha512": "e4eaf7594de08eb4f3ea8af2e939f3ee61d07597afb4d5f420c3fbadcb381c7bbad4b1afd5919b3087b73ed9636fb018b1c978858a112bd4f6acdcb42e9eedaa"
+        "sha1": "b6190b247c557c493dc4204121744f289a1d1837",
+        "sha512": "fa5ed2613f7216999cc0c5ddc71906f082a32b52507d7160acbdcf0eb8de12993ba302e5afde6681d025008ecc66c7533fc0c21deb672ef681b2194fb9be4245"
       }
     },
     {
