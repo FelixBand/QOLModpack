@@ -522,9 +522,9 @@
       }
     },
     {
-      "path": "mods/FrozenLib-2.4.3-mc26.1.jar",
+      "path": "mods/FrozenLib-2.4.3-mc26.1.jar.disabled",
       "downloads": [
-        "https://cdn.modrinth.com/data/9KawNmQc/versions/7oHxPPpP/FrozenLib-2.4.3-mc26.1.jar.disabled"
+        "https://cdn.modrinth.com/data/9KawNmQc/versions/7oHxPPpP/FrozenLib-2.4.3-mc26.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
@@ -533,9 +533,9 @@
       }
     },
     {
-      "path": "mods/PushierPistons-1.0-mc26.1.jar",
+      "path": "mods/PushierPistons-1.0-mc26.1.jar.disabled",
       "downloads": [
-        "https://cdn.modrinth.com/data/eIcHtprZ/versions/bThkGddj/PushierPistons-1.0-mc26.1.jar.disabled"
+        "https://cdn.modrinth.com/data/eIcHtprZ/versions/bThkGddj/PushierPistons-1.0-mc26.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
