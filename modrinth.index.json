@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "5.3.1",
+  "versionId": "5.3.2",
   "name": "Felix' QOL Modpack",
   "files": [
     {
@@ -82,14 +82,14 @@
       }
     },
     {
-      "path": "mods/moreculling-fabric-26.1.1-1.7.0-beta.5.jar",
+      "path": "mods/moreculling-fabric-26.1.1-1.7.0.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/51shyZVL/versions/KJBkanxk/moreculling-fabric-26.1.1-1.7.0-beta.5.jar"
+        "https://cdn.modrinth.com/data/51shyZVL/versions/2dmV3p9N/moreculling-fabric-26.1.1-1.7.0.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "7831be27edaf8581c6bba15867b2a47f4ee9b625",
-        "sha512": "57556eb3280637c5666e0a4e93d8b92912848ba7804014d56f73e1363b3e1f7b272f5641cd08420123b9bf68ec9c5d71c2314ba3e4c5d69e5c4e00f0e925ddd8"
+        "sha1": "ae8afeefa6e512f7c22053642fd5059a5ed4979b",
+        "sha512": "b8d5dcfb8effc744acf019a286b898680a50e53421f6bff45667d8e7c5e6b47cef905766e2770f1f70b8464e6602845a800e428a6983a912ceb5314e0190ff80"
       }
     },
     {
@@ -519,6 +519,28 @@
       "hashes": {
         "sha1": "0ab55f7a08a2db523b9e194556225749c2f52f06",
         "sha512": "534f20999bfc74b6e7288ac29b34b646e3ecc4bbb36e90a79b78c0b7bdd5e692955359fb8e64142f0a9280c252b10e8cf21817f9e80f21d275cfbba0a9e1f857"
+      }
+    },
+    {
+      "path": "mods/FrozenLib-2.4.3-mc26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/9KawNmQc/versions/7oHxPPpP/FrozenLib-2.4.3-mc26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "29a6c7d1ea1afd5adf37878a27901f2efabd2c63",
+        "sha512": "44f3361f18f49ed4303c6c89fa1a8d48974592fee626b083446c755979f12fc45441000650e4944c538e00103db037635b3775d5d83e777d266a2e6672912bb0"
+      }
+    },
+    {
+      "path": "mods/PushierPistons-1.0-mc26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/eIcHtprZ/versions/bThkGddj/PushierPistons-1.0-mc26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "7292b44c616c32229ebf712fe8bdb32b71372649",
+        "sha512": "928399834457fa97b9f7a45c7b9da857f6b3134d4b353d803040b1a63df1addd98e21226e71b30b4639d17025b5f3891403aa181a10b36d08efe41ad20c2acd7"
       }
     },
     {
