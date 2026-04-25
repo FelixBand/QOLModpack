@@ -522,28 +522,6 @@
       }
     },
     {
-      "path": "mods/FrozenLib-2.4.3-mc26.1.jar.disabled",
-      "downloads": [
-        "https://cdn.modrinth.com/data/9KawNmQc/versions/7oHxPPpP/FrozenLib-2.4.3-mc26.1.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "29a6c7d1ea1afd5adf37878a27901f2efabd2c63",
-        "sha512": "44f3361f18f49ed4303c6c89fa1a8d48974592fee626b083446c755979f12fc45441000650e4944c538e00103db037635b3775d5d83e777d266a2e6672912bb0"
-      }
-    },
-    {
-      "path": "mods/PushierPistons-1.0-mc26.1.jar.disabled",
-      "downloads": [
-        "https://cdn.modrinth.com/data/eIcHtprZ/versions/bThkGddj/PushierPistons-1.0-mc26.1.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "7292b44c616c32229ebf712fe8bdb32b71372649",
-        "sha512": "928399834457fa97b9f7a45c7b9da857f6b3134d4b353d803040b1a63df1addd98e21226e71b30b4639d17025b5f3891403aa181a10b36d08efe41ad20c2acd7"
-      }
-    },
-    {
       "path": "mods/isxander-main-menu-credits-1.3.0.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/qJDfP7WN/versions/YlrQhKgF/isxander-main-menu-credits-1.3.0.jar"
