@@ -1,5 +1,6 @@
 {
   "menu.shareToLan": "Start Multiplayer Game",
   "lanServer.start": "Start Multiplayer Game",
-  "lanServer.title": "A Minecraft World"
+  "lanServer.title": "A Minecraft World",
+  "commands.kick.owner.failed": "Cannot kick server owner in Multiplayer game"
 }
