@@ -576,6 +576,17 @@
         "sha512": "5b94c29491133f7664aa83e787f0e053aafe8a73ed23533fdb5789d38e4fec2eed26ca9d778002426c62cd257bcb363c8a5c0d461a7e29ea7db4fc28658c4e6b"
       }
     },
+    {
+      "path": "mods/skinshuffle-2.11.0+26.1-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/3s19I5jr/versions/PxOMlzF3/skinshuffle-2.11.0%2B26.1-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "24adaf98c6a09716eec485fb4d5071b1b2e230e9",
+        "sha512": "66f49a3c9af588de3942b26add488a93bfef8ef5900e84b97510287e37bfef693f273807df9549437c222beca19a1296ad98c5fb1575c34a8cc877f1721969b8"
+      }
+    },
 
 
 
