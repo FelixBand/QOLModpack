@@ -1,0 +1,41 @@
+{
+  "schema_version": "2",
+  "default_overrides": {
+    "force_compatible": false
+  },
+  "default_packs": [
+    "file/Low Shield.zip",
+    "continuity:glass_pane_culling_fix",
+    "file/Felix's QOL Resource Pack"
+  ],
+  "pack_overrides": {
+    "file/Low Shield.zip": {
+      "hidden": true,
+      "required": true
+    },
+    "file/Felix's QOL Resource Pack": {
+      "hidden": true,
+      "required": true
+    },
+    "continuity:glass_pane_culling_fix": {
+      "hidden": true,
+      "required": true
+    },
+    "controlify:legacy_console": {
+      "hidden": true,
+      "required": false
+    },
+    "classic_icons": {
+      "hidden": true,
+      "required": false
+    },
+    "black_icons": {
+      "hidden": true,
+      "required": false
+    },
+    "white_icons": {
+      "hidden": true,
+      "required": false
+    }
+  }
+}
