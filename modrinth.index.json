@@ -620,6 +620,17 @@
         "sha512": "25d11832cea1e60c21bc6e8a60960d0785e86bff345b0236092918d597e1a5253d2bf763e74645c6215d711bbf2371d520aa0dd4453f4cdb2b8bf136c46740fb"
       }
     },
+    {
+      "path": "mods/centered-crosshair+26.1-1.5.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/xUTHly0N/versions/iSy7n8UE/centered-crosshair%2B26.1-1.5.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "51dac481482f1184aa69c83b2d971c66f7f63820",
+        "sha512": "8b67f98fcee03a43acc68aca581eb866f316c2bdcc4fa99f3f5f1612ba3d3006d8f7ac1a0cff7368a7650b3ec07bef84ac88c1881ad5dc40af2de7e5c690116e"
+      }
+    },
 
 
 

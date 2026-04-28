@@ -25,7 +25,9 @@
   "hide_config_buttons": false,
   "config_mode": false,
   "disable_drag_and_drop": false,
-  "hidden_mods": [],
+  "hidden_mods": [
+    "modmenu"
+  ],
   "hidden_configs": [],
   "disable_update_checker": []
 }
