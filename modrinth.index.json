@@ -544,17 +544,6 @@
       }
     },
     {
-      "path": "mods/isxander-main-menu-credits-1.3.0.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/qJDfP7WN/versions/YlrQhKgF/isxander-main-menu-credits-1.3.0.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "e4b0c3671d0f634ae5aac194253348dcebc3d6fc",
-        "sha512": "745eda2989b7b9c49ce428cdb7559a44585b283dc0b1b2de8813ad069c6bf28622494aa5f38a421cc75ccd5b1d4f0f2bc120c696bbb88319469fe7f6eccd8203"
-      }
-    },
-    {
       "path": "mods/dasik-library-1.6.9+build.23.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/JVMIalSJ/versions/PbKHKHCL/dasik-library-1.6.9%2Bbuild.23.jar"
@@ -596,6 +585,50 @@
       "hashes": {
         "sha1": "fadfb62b0102228b076a352b475ee77456a76655",
         "sha512": "cc37065d99555d5642bc5557ff1b4c95fab825674d7443022095f4dc1fa6ba312064e9948df1baf63df0001b7770c79131bab150070dce1e009be31696720160"
+      }
+    },
+    {
+      "path": "mods/melody_fabric_1.0.16_MC_26.1.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/CVT4pFB2/versions/V4DQs36M/melody_fabric_1.0.16_MC_26.1.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "217859fbab6a2047a9c64a97d26aaadd34329148",
+        "sha512": "44411ef17c00e88cbd05d389e3ff04e92d17e165897703157a1b0219523befef3ea53ab521e04beb35057274c9d19f1da878cbbdda1c47e483c70a9c1c3e70fb"
+      }
+    },
+    {
+      "path": "mods/konkrete_fabric_1.10.1_MC_26.1.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/J81TRJWm/versions/SBC2WlEa/konkrete_fabric_1.10.1_MC_26.1.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "210d9a4c8c70dc8695d719cc2bd8c89315360dec",
+        "sha512": "7c6c529bf5e5eca1434b342cfeea669602d48c7138185c1c7b162d7d0cc46a92ab26ba061e29157632c8267b72ee09fd6f524c049d1ce2ca59df845b54bbe5be"
+      }
+    },
+    {
+      "path": "mods/fancymenu_fabric_3.8.6_MC_26.1.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/zpO2HtMi/fancymenu_fabric_3.8.6_MC_26.1.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "99800b9f827c48d73790de084ad1247102277173",
+        "sha512": "25d11832cea1e60c21bc6e8a60960d0785e86bff345b0236092918d597e1a5253d2bf763e74645c6215d711bbf2371d520aa0dd4453f4cdb2b8bf136c46740fb"
+      }
+    },
+    {
+      "path": "mods/fancy-entity-renderer-fabric-26.1.2-0.6.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/RQ6INv2n/versions/KVwfuEY8/fancy-entity-renderer-fabric-26.1.2-0.6.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "849dfa18c0fea6ebf816cfeb115300956c779c2f",
+        "sha512": "cde1700b55867d60de6e6a5ab31a0a4ee4e3bc0c853c7423d29275866274cc687a221072ef31661c9d10da79d7b168f89ef59c901e5e5ab9e48ed2ed87af8688"
       }
     },
 
