@@ -6,7 +6,8 @@
   "default_packs": [
     "file/Low Shield.zip",
     "continuity:glass_pane_culling_fix",
-    "file/Felix's QOL Resource Pack"
+    "file/Felix's QOL Resource Pack",
+    "file/felix-controlify"
   ],
   "pack_overrides": {
     "file/Low Shield.zip": {
@@ -14,6 +15,10 @@
       "required": true
     },
     "file/Felix's QOL Resource Pack": {
+      "hidden": true,
+      "required": true
+    },
+    "file/felix-controlify": {
       "hidden": true,
       "required": true
     },
