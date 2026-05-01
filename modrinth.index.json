@@ -555,17 +555,6 @@
       }
     },
     {
-      "path": "mods/collapsible-game-rules-1.0.0+build.12.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/lObgjyJl/versions/qXr4OMtX/collapsible-game-rules-1.0.0%2Bbuild.12.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "fb82c49a0da3e58741e95cd435919894b24be8f6",
-        "sha512": "5b94c29491133f7664aa83e787f0e053aafe8a73ed23533fdb5789d38e4fec2eed26ca9d778002426c62cd257bcb363c8a5c0d461a7e29ea7db4fc28658c4e6b"
-      }
-    },
-    {
       "path": "mods/skinshuffle-2.11.0+26.1-fabric.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/3s19I5jr/versions/PxOMlzF3/skinshuffle-2.11.0%2B26.1-fabric.jar"
