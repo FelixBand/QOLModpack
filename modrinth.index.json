@@ -544,17 +544,6 @@
       }
     },
     {
-      "path": "mods/dasik-library-1.6.9+build.23.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/JVMIalSJ/versions/PbKHKHCL/dasik-library-1.6.9%2Bbuild.23.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "e851ab21639f7b4c22c32d9ca97de72bf7f4567e",
-        "sha512": "ceb577b4ee7c2fac106dfaa49bd8d2eedb715408007618c61500e87065605340464490e61d06ea9542eee7251d10860adb310bcba10112b2578c1067da69fc85"
-      }
-    },
-    {
       "path": "mods/skinshuffle-2.11.0+26.1-fabric.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/3s19I5jr/versions/PxOMlzF3/skinshuffle-2.11.0%2B26.1-fabric.jar"
