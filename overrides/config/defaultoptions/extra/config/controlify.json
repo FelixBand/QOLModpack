@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "global": {
+    "virtual_mouse_screens": [
+      "net.minecraft.client.gui.screens.inventory.AbstractContainerScreen",
+      "net.minecraft.client.gui.screens.options.OptionsScreen"
+    ],
+    "show_splitscreen_ad": false
+  }
+}
