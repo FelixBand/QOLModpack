@@ -610,6 +610,17 @@
       }
     },
     {
+      "path": "mods/malilib-fabric-26.1.2-0.28.3.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/GcWjdA9I/versions/7lAncM04/malilib-fabric-26.1.2-0.28.3.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "257a7f73b1167d44444ff6102bd64b959abe3c2c",
+        "sha512": "dd3dca9c4d7e67d9471b63cfb37c1a7189ff3a771ab04693cdd3f885a5b94e764f6593154e9ebbdb27633cd6f7ab06a40661b9fb0daa4c2d5b7f0c8bfec22bfd"
+      }
+    },
+    {
       "path": "mods/tweakeroo-fabric-26.1.2-0.28.2.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/t5wuYk45/versions/weHlJmDK/tweakeroo-fabric-26.1.2-0.28.2.jar"
