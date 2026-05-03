@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "5.5.2",
+  "versionId": "5.6.0",
   "name": "Felix' QOL Modpack",
   "files": [
     {
@@ -607,6 +607,28 @@
       "hashes": {
         "sha1": "51dac481482f1184aa69c83b2d971c66f7f63820",
         "sha512": "8b67f98fcee03a43acc68aca581eb866f316c2bdcc4fa99f3f5f1612ba3d3006d8f7ac1a0cff7368a7650b3ec07bef84ac88c1881ad5dc40af2de7e5c690116e"
+      }
+    },
+    {
+      "path": "mods/tweakeroo-fabric-26.1.2-0.28.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/t5wuYk45/versions/weHlJmDK/tweakeroo-fabric-26.1.2-0.28.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "2b2ac8842370c702edc5abe6e0f78d8c7a44ab60",
+        "sha512": "4f645d6e03865f3a0a83f6bcc2169be23adb7a335479b79a20350631509c74f43d2cae71c3f200c8c43cb8b0eb0d452ea357f602bccba24202f01aed3cea8f57"
+      }
+    },
+    {
+      "path": "mods/eclipsestweakeroo-0.7.3-26.1.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/6kKLK5i1/versions/5yknCiSy/eclipsestweakeroo-0.7.3-26.1.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "0478a16856ef9514bc8a64d16c7343752f3b2066",
+        "sha512": "4740fc6ac3fa99ad94d8008df8e7b0a927fa9f2fdd26bdaf3d181b1bf65505a7e93b52d8bc0fa2e0c09c7678edf1d89b66403e0f123686cdbb4b828355eaf417"
       }
     },
 
