@@ -41,7 +41,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = Felix's QOL Modpack 5.6.0
+  label = Felix's QOL Modpack 5.6.1
   navigatable = true
   widget_active_state_requirement_container_identifier = fcd6d8bf-11c1-4412-9f17-88953b6d55c1-1777395423064
   [loading_requirement_container_meta:fcd6d8bf-11c1-4412-9f17-88953b6d55c1-1777395423064] = [groups:][instances:]
