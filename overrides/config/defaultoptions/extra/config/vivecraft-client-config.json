@@ -176,7 +176,7 @@
   "FBTROTATIONS": "1.0,0.0,0.0,0.0;1.0,0.0,0.0,0.0;1.0,0.0,0.0,0.0;1.0,0.0,0.0,0.0;1.0,0.0,0.0,0.0;1.0,0.0,0.0,0.0;1.0,0.0,0.0,0.0",
   "freezeEffect": "true",
   "mixedRealityFov": "40.0",
-  "vrServerBlacklist": "mc.hypixel.net",
+  "vrServerBlacklist": "mc.hypixel.net;hypixel.net;alpha.hypixel.net;stuck.hypixel.net",
   "playerModelLegScale": "1.0",
   "xSensitivity": "1.0",
   "teleportLimitHoriz": "16",

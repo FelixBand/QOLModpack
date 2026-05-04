@@ -5,6 +5,13 @@
       "net.minecraft.client.gui.screens.inventory.AbstractContainerScreen",
       "net.minecraft.client.gui.screens.options.OptionsScreen"
     ],
+    "keyboard_movement_whitelist": [
+      "play.cubecraft.net",
+      "hypixel.net",
+      "stuck.hypixel.net",
+      "alpha.hypixel.net",
+      "mc.hypixel.net"
+    ],
     "show_splitscreen_ad": false
   }
 }
