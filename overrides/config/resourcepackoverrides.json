@@ -22,6 +22,10 @@
       "hidden": true,
       "required": true
     },
+    "$polymer-resources": {
+      "hidden": true,
+      "required": true
+    },
     "continuity:glass_pane_culling_fix": {
       "hidden": true,
       "required": true
