@@ -653,6 +653,17 @@
         "sha512": "6e16f286dbf52a4c58d524e112cddf15d29f741abc2d051e3a385f4059fa72911448a7b3c54a7856a884937d30826cb47d57424e0ce8ae0935c3e28f016d15cd"
       }
     },
+    {
+      "path": "mods/fabric-carpet-26.1+v260402.jar",
+      "downloads": [
+        "https://github.com/gnembon/fabric-carpet/releases/download/v26.1/fabric-carpet-26.1+v260402.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "f786a53c97e7caaa5b34c94309e79ed1201c0114",
+        "sha512": "d98b02eb2bd2c7594aac3913c7ddfc8ef6ff724a6b1e86098611e09c303134626eb76e1c9fe910101c6972c8fe0993fb0b21ea99c7affc0e33a0ac64f941954b"
+      }
+    },
 
 
 
