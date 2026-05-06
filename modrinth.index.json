@@ -664,6 +664,39 @@
         "sha512": "d98b02eb2bd2c7594aac3913c7ddfc8ef6ff724a6b1e86098611e09c303134626eb76e1c9fe910101c6972c8fe0993fb0b21ea99c7affc0e33a0ac64f941954b"
       }
     },
+    {
+      "path": "mods/ViaFabric-0.4.21+162-26.x.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/YlKdE5VK/versions/rwEWb3Gu/ViaFabric-0.4.21%2B162-26.x.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "3a31510a1d8ed02a64889a9593886f4d01fd0cdc",
+        "sha512": "9179fb5214ec92a0485c0c5df9b5ad0549b37415939d7732219fe8fb3ad6152ef0143a6f92afe94349e58ecd795411e48343abd227cae71965b8c6d737accdf7"
+      }
+    },
+    {
+      "path": "mods/ViaVersion-5.9.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/P1OZGk5p/versions/OGj9YIQN/ViaVersion-5.9.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "a736ac3ba340cde150cc1b774c93a94e68d54480",
+        "sha512": "7b89f2779c487342f8a77db27583a98868bb20117a4fa68a2e07da0bb62da5aef446bbbc01720a0a983a1ea2e91a6bd26fc947befee140ff1e4e251ebf602cf8"
+      }
+    },
+    {
+      "path": "mods/ViaBackwards-5.9.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/NpvuJQoq/versions/W890fNPl/ViaBackwards-5.9.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "2cd2a94fe923e5de408cc46829e38352518431b2",
+        "sha512": "3dda968f438a1a5aa60c2856f0fa767db6501a27b1a8ebd1dc72ba09804456ee608cbd82ba66a1c7298a08c9f0e39d1ae3ae27cc16bdfacb2e333e93aff7ec75"
+      }
+    },
 
 
 
