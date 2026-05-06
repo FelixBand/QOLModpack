@@ -642,6 +642,28 @@
         "sha512": "4740fc6ac3fa99ad94d8008df8e7b0a927fa9f2fdd26bdaf3d181b1bf65505a7e93b52d8bc0fa2e0c09c7678edf1d89b66403e0f123686cdbb4b828355eaf417"
       }
     },
+    {
+      "path": "mods/Geyser-Fabric-2.10.0-b1137.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/wKkoqHrH/versions/k3cmMjxk/Geyser-Fabric-2.10.0-b1137.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "4bf5555decc120688d8df7d248dc0b2b0124cb2c",
+        "sha512": "491d9cf0a7772f7302b7c006b23d1cc04314c14ee5eaa5c89b9d6ec06f8865ab9abda04a2493eda010cc6ca81d16ff16b9b1c9620515946fafa3b8429adb1690"
+      }
+    },
+    {
+      "path": "mods/Floodgate-Fabric-2.2.6-b63.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/bWrNNfkb/versions/fD4J9lnX/Floodgate-Fabric-2.2.6-b63.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "7911e2a6eb02fac1e33b1c241ae374c2e4b96406",
+        "sha512": "54874033236df688da15fd4dd7d2d99d002e8955cb2d788d5ba409d753eb17629f53a6e976992de8cca8c8dd3663c70b283da88b5a12d72cef9647d09e04ae62"
+      }
+    },
 
 
 
