@@ -412,17 +412,6 @@
       }
     },
     {
-      "path": "mods/ViaFabricPlus-4.5.2.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/rIC2XJV4/versions/D9mD8kWw/ViaFabricPlus-4.5.2.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "e6f2a9d0d3cfb5ea7c43141e455d32d28e89886b",
-        "sha512": "d5891bf096f777b9646438beb74279014b416538dba593ea57932012463caa152ee906e23ebebe5cc3722d87bda1f23204b5d25661d33e131a8393720de8dc84"
-      }
-    },
-    {
       "path": "mods/bedrockify-1.11.6+mc26.1.1.jar",
       "downloads": [
         "https://github.com/FelixBand/BedrockIfy/releases/download/v1/bedrockify-1.11.6+mc26.1.1.jar"
@@ -662,6 +651,28 @@
       "hashes": {
         "sha1": "7911e2a6eb02fac1e33b1c241ae374c2e4b96406",
         "sha512": "54874033236df688da15fd4dd7d2d99d002e8955cb2d788d5ba409d753eb17629f53a6e976992de8cca8c8dd3663c70b283da88b5a12d72cef9647d09e04ae62"
+      }
+    },
+    {
+      "path": "mods/bedrock-cauldrons-1.0.4+26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/AFSc5r06/versions/vsZnmlVY/bedrock-cauldrons-1.0.4%2B26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "e8c0cf4bedb08558b5c6ca98941bfb91414a08cb",
+        "sha512": "f3447e857230576e189150c0abac7618d1ad7016102ec39703afb95925d4b7c976f06f05f9ab575edd5a08259017fe62d420ed65d43cb46ebbc8125d429f7065"
+      }
+    },
+    {
+      "path": "mods/polymer-bundled-0.16.4+26.1.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/xGdtZczs/versions/BkYLqhON/polymer-bundled-0.16.4%2B26.1.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "3c471d236bf8befd58bd73e164119311311e137c",
+        "sha512": "6e16f286dbf52a4c58d524e112cddf15d29f741abc2d051e3a385f4059fa72911448a7b3c54a7856a884937d30826cb47d57424e0ce8ae0935c3e28f016d15cd"
       }
     },
 
