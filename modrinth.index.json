@@ -27,14 +27,14 @@
       }
     },
     {
-      "path": "mods/sodium-fabric-0.8.9+mc26.1.1.jar",
+      "path": "mods/sodium-fabric-0.8.11+mc26.1.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/uGvVQBnw/sodium-fabric-0.8.9%2Bmc26.1.1.jar"
+        "https://cdn.modrinth.com/data/AANobbMI/versions/ff7xUQLH/sodium-fabric-0.8.11%2Bmc26.1.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "48b949ec71365788dfd4e89d489f7abd504aa709",
-        "sha512": "74f9dc8963b5258226837cc361ba6b525da734ab4fa5f05d1862bc6e9175f4fa81ca3d49443e2fb85be144d06042f0d65cbcceefc391043af857b38aa2614ae8"
+        "sha1": "f5847c84aa5fdc498bcc61a4f0c148b9051deac4",
+        "sha512": "b60755799efb97f0d3d111c9d69887382da28aab3a7bf2fb4b7be7a9c6846f4f553421927c15a403c901c4b088773b82fdaa5af1a9414b19a627961e687ca66d"
       }
     },
     {
@@ -115,14 +115,14 @@
       }
     },
     {
-      "path": "mods/voicechat-fabric-2.6.16+26.1.2.jar",
+      "path": "mods/voicechat-fabric-2.6.17+26.1.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/eGxtLv6D/voicechat-fabric-2.6.16%2B26.1.2.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/gVPjsMto/voicechat-fabric-2.6.17%2B26.1.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "82e82d3ccd71f8fb196e33b427e0afb791839eea",
-        "sha512": "e3261eddf20a70949086c347f95671307f3c595e256447a40222783206b8996250d6f66b2c567bd56666d87162533b419237de47a3502176dc28cae360bc62f9"
+        "sha1": "ce2569566a0ae5daf620fa093b7a66c39837d6a5",
+        "sha512": "1eb687a5210e7e15887e84a93195dd8ebcf45d85a2b657d27c711ad01ed8e9096f499fcb84d6564854989ed2c13b6a800665fbb382229977d1125e0d3eb5a836"
       }
     },
     {
@@ -170,14 +170,14 @@
       }
     },
     {
-      "path": "mods/balm-fabric-26.1.2-26.1.2.2.jar",
+      "path": "mods/balm-fabric-26.1.2-26.1.2.5.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/MBAkmtvl/versions/QNdlITcY/balm-fabric-26.1.2-26.1.2.2.jar"
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/NSzL3cs6/balm-fabric-26.1.2-26.1.2.5.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "0ae74e2d53f566b58aaecb4c97a31d90d6faf1fc",
-        "sha512": "591dc5b312c166a2c3aa1be4635c63db494e1d274b644c29143a1323dca94a289a52109c499a34716a9f1bdbbc14028cd81b0dc746a52bc126232b747b0a37f7"
+        "sha1": "1751cb197dfa2605039fb57d541e9a66053a32f7",
+        "sha512": "a53890d98b78e8c280eb9f0cabc01c5bb8140ba5a2fc43cd4165adbc05cb0be735405b8a48b70444e7f9c56ea85dfb8c6a8b23fb33e8e5a9b414c2bb16c76ae8"
       }
     },
     {
@@ -236,14 +236,14 @@
       }
     },
     {
-      "path": "mods/yet_another_config_lib_v3-3.9.2+26.1-fabric.jar",
+      "path": "mods/yet_another_config_lib_v3-3.9.3+26.1-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/1eAoo2KR/versions/h2FGeDHG/yet_another_config_lib_v3-3.9.2%2B26.1-fabric.jar"
+        "https://cdn.modrinth.com/data/1eAoo2KR/versions/hzww5Tor/yet_another_config_lib_v3-3.9.3%2B26.1-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "0282a3772dea69135dbb66773fa82190ac7a39b9",
-        "sha512": "0efbc7bbf9cabcf5f78884eab0b85ca902e6ca7dfa07b60c1c812b828442b940e80c459fd3de8b87cae50bba3c203efc4444a8e29d21b94ad1ad12d438f91a58"
+        "sha1": "666bbfcce4508b53d51dca1e4253f528c517b315",
+        "sha512": "c725d81ef2b8f7f4b3c1c127e782572778a765581ce6105e2c4ce77e642b52b2c99b1587f18af192ad649538e4844dda6807e2ecda0a493d09f7f06a346ac377"
       }
     },
     {
@@ -555,14 +555,14 @@
       }
     },
     {
-      "path": "mods/fancymenu_fabric_3.8.6_MC_26.1.1.jar",
+      "path": "mods/fancymenu_fabric_3.9.0_MC_26.1.1-26.1.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/zpO2HtMi/fancymenu_fabric_3.8.6_MC_26.1.1.jar"
+        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/e3J6JY22/fancymenu_fabric_3.9.0_MC_26.1.1-26.1.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "99800b9f827c48d73790de084ad1247102277173",
-        "sha512": "25d11832cea1e60c21bc6e8a60960d0785e86bff345b0236092918d597e1a5253d2bf763e74645c6215d711bbf2371d520aa0dd4453f4cdb2b8bf136c46740fb"
+        "sha1": "517283408a582ed4a787d044c9c8e93d7b4167d6",
+        "sha512": "d5458601c21120abde5e139f342ea1eeab551569e278ebc113ee3b6d43cbb95f3faaec96011e67a1344e9d6ec7717868d267d398665a11a5a48db2fd5fa5217c"
       }
     },
     {
