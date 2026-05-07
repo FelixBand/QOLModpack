@@ -697,6 +697,17 @@
         "sha512": "3dda968f438a1a5aa60c2856f0fa767db6501a27b1a8ebd1dc72ba09804456ee608cbd82ba66a1c7298a08c9f0e39d1ae3ae27cc16bdfacb2e333e93aff7ec75"
       }
     },
+    {
+      "path": "mods/Voxy World Gen V2-26.1.2-2.2.4.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/xT0lnNE9/versions/tRiQxKkc/Voxy%20World%20Gen%20V2-26.1.2-2.2.4.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "23384acfa7c13e51d236a0f7fc9f12acb8b8b19e",
+        "sha512": "f8d3e96c5bda4f04faa79c1731379b8217dc7a392cc208dc3d25a8dbeab790430e869705bdb4d154a359b0e1e415b12442b4e6757b002193ebb4cfbed1f2639a"
+      }
+    },
 
 
 
