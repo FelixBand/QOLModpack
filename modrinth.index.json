@@ -719,6 +719,17 @@
         "sha512": "80e5c129710fa6cdef6ca5721a5f2736615b185ed3d8cec7509860798bab761f968060c234072456aa42b08c670ebac3becca9cd6fcb5988521b0c84cd347211"
       }
     },
+    {
+      "path": "mods/SnowUnderTrees-2.7.6+26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/XVnUIUAQ/versions/Z8lQvzF4/SnowUnderTrees-2.7.6%2B26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "6fde2a7046374b554f7bbafdcf9eca24ded27095",
+        "sha512": "eb8d87e03359c314926d9674551c2383033c0322a3217c43fc8a6634edeebe706b0f101776dce668bcedaff68d8abe1683f729ddb423ad4c3c34637f9f70321e"
+      }
+    },
 
 
 
