@@ -390,14 +390,14 @@
       }
     },
     {
-      "path": "mods/vivecraft-26.1.2-1.3.7-b4-fabric.jar",
+      "path": "mods/vivecraft-26.1.2-1.3.7-b5-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/wGoQDPN5/versions/oUgVbSvf/vivecraft-26.1.2-1.3.7-b4-fabric.jar"
+        "https://cdn.modrinth.com/data/wGoQDPN5/versions/x9nWw2j2/vivecraft-26.1.2-1.3.7-b5-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "8c7c4958cc9aca391c69600b1a6929e6dbf5f7f4",
-        "sha512": "c0964e6922a3da42721706df52139a2a16ad1cb21e967cac1c2f0b846b7c714a531a32b31aa20f22816e73526666604d4e73e07bc8c71c96f9b5e2f44d3198c4"
+        "sha1": "8724a6a854929ef902796dabb76a9b95e488dba1",
+        "sha512": "13c2ffc4eba60262498fc1550fdfc8a92d8820466819d774cf7b20a9de153d712a273d515103627faa77c891dd7695bcc09c75260a584a7e2a9198b0ee7daf80"
       }
     },
     {
@@ -739,6 +739,28 @@
       "hashes": {
         "sha1": "6fde2a7046374b554f7bbafdcf9eca24ded27095",
         "sha512": "eb8d87e03359c314926d9674551c2383033c0322a3217c43fc8a6634edeebe706b0f101776dce668bcedaff68d8abe1683f729ddb423ad4c3c34637f9f70321e"
+      }
+    },
+    {
+      "path": "mods/Bedrock_Swamps_26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/JyzpLRrh/versions/LiH0T7qx/Bedrock_Swamps_26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "2d5a5deb05305154a66a567a5b297c6aafd6061b",
+        "sha512": "2d7756b0cf43ec41ce823b22c6fb39716858126cf7d16acc8183d0816d248868ee6916bc47dabd541a76c1340901b054c326b520d685ed6dff0cbfea98d01701"
+      }
+    },
+    {
+      "path": "mods/enchanteds_sodium_options-1.2.1+0.8.11-mc26.1.2-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/bd7qKEEC/versions/TUCMwgkI/enchanteds_sodium_options-1.2.1%2B0.8.11-mc26.1.2-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "a95fa69ffb50183a2e1a3b2fb6e1ce94563f3a00",
+        "sha512": "5f8ae154b03fac7e72bf337192209ec62e9344d3f94b31fac033a29d010a1cfe3093b304f594ab91cc86f533fa7325da89fa7faba41d155320291dbd04572dc0"
       }
     },
 
