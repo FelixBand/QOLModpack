@@ -774,6 +774,17 @@
         "sha512": "f32db465578f27a8b128f6b52021310752fd3ba0da5162508201d2fd4d5056e51df269f0dd1a3f8df98d929508f08d6d3f2a2ff15be7dfd95015847dde3d5b2e"
       }
     },
+    {
+      "path": "mods/betterimpaling-4.0+26.1.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/m8MF21pg/versions/QgFXyAsA/betterimpaling-4.0%2B26.1.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "423c7e2f433c98381f08d1a825176ab7d827f20f",
+        "sha512": "08053d270e48dc1bbb0819225ab463f84dbe40b8b481d71a4971b4ea1ae443c0e06e343de618c7dcb2e37b4d77bfcf8092df6254cf5b83fec626b1fec5d930b0"
+      }
+    },
 
 
 
