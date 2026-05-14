@@ -271,12 +271,12 @@
     {
       "path": "mods/mcwifipnp-1.9.8-26.1-fabric.jar",
       "downloads": [
-        "https://codeberg.org/FelixBand/mcwifipnp/releases/download/26.1/mcwifipnp-1.9.8-26.1-fabric.jar"
+        "https://cdn.modrinth.com/data/RTWpcTBp/versions/uU16tO9q/mcwifipnp-1.9.8-26.1-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "60ac98bf96980fc810da8b3d0fd4d11cd871b8cf",
-        "sha512": "9787775c473c931eff9884713ba7cde119092557ca78ca3a5d6bee6aa332caebe47867a279dc1a8441516254cf7aa10a8b3d01aea642dd0e6991869248d1048b"
+        "sha1": "69aaa6055c6c5764f905ba39f9af95e922b7cf9c",
+        "sha512": "07ed65d2b820a00909fa78a1d102f216a169e3f6e0c26f6567ac5b0f71ddf14ef986037a36ff2ddc497a4fa8b436ce143969f79429806b1c5620e5bffb4061ab"
       }
     },
     {
@@ -419,7 +419,7 @@
       "fileSize": 0,
       "hashes": {
         "sha1": "2955f16235f96a52c15b87148e241ca16dc1c1dd",
-        "sha512": "00ff4e4b90a6d16c0af72762f635668318bff29c384e2592ad44093beb7abd71b55896e3b7e71c8386ca54da5e25dca15e0dc0a2369367dcbe1e8da8c978d9ae"
+        "sha512": "fa5cbe9fcc9f89d4db8c3b6f795327c5807165c83ca44b746756b59243b44be2caeb5dc3c77558819decdf94d2a59740a29f9ddcac6b30ac9de0154f9b836c85"
       }
     },
     {
