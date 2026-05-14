@@ -2,7 +2,8 @@
   "schema_version": 1,
   "global": {
     "virtual_mouse_screens": [
-      "net.minecraft.client.gui.screens.inventory.AbstractContainerScreen",
+      "dev.imb11.skinshuffle.client.gui.carousels.LargeCarouselScreen",
+      "dev.imb11.skinshuffle.client.gui.carousels.CompactCarouselScreen",
       "net.minecraft.client.gui.screens.options.OptionsScreen"
     ],
     "keyboard_movement_whitelist": [
