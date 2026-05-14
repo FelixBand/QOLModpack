@@ -203,14 +203,14 @@
       }
     },
     {
-      "path": "mods/locator-heads-2.2.0.jar",
+      "path": "mods/locator-heads-2.3.0.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/L4pt5egz/versions/6DwkUvG0/locator-heads-2.2.0.jar"
+        "https://cdn.modrinth.com/data/L4pt5egz/versions/iIlqYXPt/locator-heads-2.3.0.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "3f07ef1d3b80036596d9af8e124f7819f9b9e1af",
-        "sha512": "d95a2f1ecab7ea5b6322be8e6b2bd931c9948db7665e57e58d36f53903c829ec6d4cedb8c2e47ee9947329082df1904c5d82ed793591dfce987b449f3bde0d61"
+        "sha1": "0748387a224ee2454b8e925618bf9320e094d45d",
+        "sha512": "93e281f024053250d5f06343cfd0b281349ac31231f31ed72d60b477294a99fe2f5c750d78556d57afe4e7221b87776d560ec74e9d34d1a30952a5d068b69c8e"
       }
     },
     {
@@ -249,12 +249,12 @@
     {
       "path": "mods/Stfu-2.9.1-26.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/Rg9WdvvR/versions/TCs1xt2K/Stfu-2.9.1-26.1.jar"
+        "https://cdn.modrinth.com/data/Rg9WdvvR/versions/8Wj07Ua1/Stfu-2.9.1-26.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "7f4f22b428ed41677f8fd537561110fa0806d455",
-        "sha512": "6c3fe6c9ec2cc21a0fe12fd4e8fa779056737f73300af6fb36785c6a98613b96b34305e361718328888bcd237db091b0ec089de13a957e5f8eab946bab0ada87"
+        "sha1": "895fa9df9ac03692c42aed430e4059745395ae30",
+        "sha512": "0cf9368b12215ecd9b1046d43cfe30ca036d2ed38d4ceb3e6d3dd0b855b9af5b3aac301767606efcdb000507e3bb4ba3c49ea4b86c4274c3acb03ca9563ff2e6"
       }
     },
     {
@@ -434,14 +434,14 @@
       }
     },
     {
-      "path": "mods/modernfix-5.27.5-build.2.jar",
+      "path": "mods/modernfix-5.27.7-build.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/TjSm1wrD/versions/5REDoIHm/modernfix-5.27.5-build.2.jar"
+        "https://cdn.modrinth.com/data/TjSm1wrD/versions/PDwZT2Ku/modernfix-5.27.7-build.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "2a52e6878e4c0237d0a2a45af47fb65342904199",
-        "sha512": "1ac2938e1cabe026ef667d6556874e1125ace2df1d0c0cd73fa6ee6224cd8850d00a2a92c90aa7ae9881c71a3dda628a18128fa7ce5fcd89247eadef6771c741"
+        "sha1": "8c067ba5f8da5ef9e53c5938dde93c935e2e0ba2",
+        "sha512": "632f70ead073aff83df33854c0a3858807480b39b3542f15287b23bc6b2372417afda58872564aba21803bc3e6cb1bf92dca8d749d14b211696b20d6b221c36d"
       }
     },
     {
