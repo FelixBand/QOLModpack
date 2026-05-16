@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "5.9.0",
+  "versionId": "5.9.1",
   "name": "Felix' QOL Modpack",
   "files": [
     {
@@ -269,14 +269,14 @@
       }
     },
     {
-      "path": "mods/mcwifipnp-1.9.8-26.1-fabric.jar",
+      "path": "mods/offlinelan-1.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/RTWpcTBp/versions/uU16tO9q/mcwifipnp-1.9.8-26.1-fabric.jar"
+        "https://cdn.modrinth.com/data/pimmstPB/versions/LJvx8eU8/offlinelan-1.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "69aaa6055c6c5764f905ba39f9af95e922b7cf9c",
-        "sha512": "07ed65d2b820a00909fa78a1d102f216a169e3f6e0c26f6567ac5b0f71ddf14ef986037a36ff2ddc497a4fa8b436ce143969f79429806b1c5620e5bffb4061ab"
+        "sha1": "5f29b3926f7454cb1a7eaa2223799b50fae0d039",
+        "sha512": "b558b1f9b91caeda2f4fcd035d4ca0dcfd600e303b3f3ab58dad795b2aae8cddac8c1054c532410f466161fcb6f3d526ab396e79153dc68d0a9155ae01d1748c"
       }
     },
     {
@@ -412,14 +412,14 @@
       }
     },
     {
-      "path": "mods/bedrockify-1.11.6+mc26.1.1.jar",
+      "path": "mods/bedrockify-1.11.7+mc26.1.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/ox3rDp1B/versions/LyAZ5Yqf/bedrockify-1.11.6%2Bmc26.1.1.jar"
+        "https://cdn.modrinth.com/data/ox3rDp1B/versions/ciiz107C/bedrockify-1.11.7%2Bmc26.1.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "2955f16235f96a52c15b87148e241ca16dc1c1dd",
-        "sha512": "fa5cbe9fcc9f89d4db8c3b6f795327c5807165c83ca44b746756b59243b44be2caeb5dc3c77558819decdf94d2a59740a29f9ddcac6b30ac9de0154f9b836c85"
+        "sha1": "7a19ae678dc1eae0ef13443969e31a0f64bb1a26",
+        "sha512": "b90d1f5ef066cb40f49586ba77b0fd65b712abd2e02446765d5fff735c6fb462c11237bba16b6d8bb657dc8d0f0ac0f5ff80e6e49d39ef4d6dbb4326c7bdbf98"
       }
     },
     {

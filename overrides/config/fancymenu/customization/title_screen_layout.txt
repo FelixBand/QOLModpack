@@ -351,7 +351,7 @@ element {
   transparent_background = false
   restartbackgroundanimations = true
   nine_slice_custom_background = false
-  label = Felix's QOL Modpack 5.9.0
+  label = Felix's QOL Modpack 5.9.1
   navigatable = true
   widget_active_state_requirement_container_identifier = fcd6d8bf-11c1-4412-9f17-88953b6d55c1-1777395423064
   [loading_requirement_container_meta:fcd6d8bf-11c1-4412-9f17-88953b6d55c1-1777395423064] = [groups:][instances:]
