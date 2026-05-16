@@ -269,14 +269,14 @@
       }
     },
     {
-      "path": "mods/offlinelan-1.2.jar",
+      "path": "mods/mcwifipnp-1.9.8-26.1-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/pimmstPB/versions/LJvx8eU8/offlinelan-1.2.jar"
+        "https://github.com/FBandit6/mcwifipnp/releases/download/26.1.2/mcwifipnp-1.9.8-26.1-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "5f29b3926f7454cb1a7eaa2223799b50fae0d039",
-        "sha512": "b558b1f9b91caeda2f4fcd035d4ca0dcfd600e303b3f3ab58dad795b2aae8cddac8c1054c532410f466161fcb6f3d526ab396e79153dc68d0a9155ae01d1748c"
+        "sha1": "60ac98bf96980fc810da8b3d0fd4d11cd871b8cf",
+        "sha512": "9787775c473c931eff9884713ba7cde119092557ca78ca3a5d6bee6aa332caebe47867a279dc1a8441516254cf7aa10a8b3d01aea642dd0e6991869248d1048b"
       }
     },
     {
