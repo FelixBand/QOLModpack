@@ -192,14 +192,14 @@
       }
     },
     {
-      "path": "mods/bobby-5.2.12+mc26.1.jar",
+      "path": "mods/bobby-5.2.13+mc26.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/M08ruV16/versions/8gsFUovP/bobby-5.2.12%2Bmc26.1.jar"
+        "https://cdn.modrinth.com/data/M08ruV16/versions/njaTBYvt/bobby-5.2.13%2Bmc26.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "2af0b6ab7eeed738d39f66ead142756702a4cbf2",
-        "sha512": "db4e72c96ecf6f3861bf87a8af061a41edae1c5657718160a5cd5831e8ac31391c06a3de6a2b2b14bb30f0074cf9ec8ff9db30d2b7952b4cd1fde25c73af3811"
+        "sha1": "24bb68c889e56d6a532725668ca663e4197935c5",
+        "sha512": "5db151e9fe65ff5e4077a2b7b6b0c5bb1f907bbdadc240536b3e7c010f9d7c1c76edb8bb0e5158ab26713af034ba0f5f4fae479271664d6cc56fc6204646e59c"
       }
     },
     {
@@ -379,14 +379,14 @@
       }
     },
     {
-      "path": "mods/cwb-4.0.2+26.1.jar",
+      "path": "mods/cwb-4.0.3+26.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/ETlrkaYF/versions/j51j0ihr/cwb-4.0.2%2B26.1.jar"
+        "https://cdn.modrinth.com/data/ETlrkaYF/versions/bWNodSSK/cwb-4.0.3%2B26.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "92a66e36bd84aae1cdece80b028b9079ec9fecc9",
-        "sha512": "8fc2add98175896c837fde208e163d62cf3da16f211c94fceaf5653eca15465aef3b30ad64e1e02c25bf9b13cce0d7cefeb587a64ac86268e2efb610b0e6b787"
+        "sha1": "b41434422c640dda534de3af586c0e42968f3d6f",
+        "sha512": "467c9fc8a1d89e6ab4bab6ffce0a15b420943a585e1daf091cf5a861dcf74ada13befc496adbc70dcec6143f07790d0d4ac7ef1a0575170b4e8a2363277156c6"
       }
     },
     {
