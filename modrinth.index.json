@@ -577,47 +577,36 @@
       }
     },
     {
-      "path": "mods/malilib-fabric-26.1.2-0.28.3.jar",
+      "path": "mods/malilib-fabric-26.1.2-0.28.4.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/GcWjdA9I/versions/7lAncM04/malilib-fabric-26.1.2-0.28.3.jar"
+        "https://cdn.modrinth.com/data/GcWjdA9I/versions/JRqAFP28/malilib-fabric-26.1.2-0.28.4.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "257a7f73b1167d44444ff6102bd64b959abe3c2c",
-        "sha512": "dd3dca9c4d7e67d9471b63cfb37c1a7189ff3a771ab04693cdd3f885a5b94e764f6593154e9ebbdb27633cd6f7ab06a40661b9fb0daa4c2d5b7f0c8bfec22bfd"
+        "sha1": "7b143e772594ad9f20ba0d86fc5165ec4d72eca3",
+        "sha512": "7975813737c1a266d483aaf9ab26f6a0f2467f87eae8b5d2e4d1088e72d04e45201c4c4a7f9ca411e94fffe501036f0f61ad9b508f376f075f79927bf19aed35"
       }
     },
     {
-      "path": "mods/tweakeroo-fabric-26.1.2-0.28.2.jar",
+      "path": "mods/tweakeroo-fabric-26.1.2-0.28.3.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/t5wuYk45/versions/weHlJmDK/tweakeroo-fabric-26.1.2-0.28.2.jar"
+        "https://cdn.modrinth.com/data/t5wuYk45/versions/FxGzElRZ/tweakeroo-fabric-26.1.2-0.28.3.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "2b2ac8842370c702edc5abe6e0f78d8c7a44ab60",
-        "sha512": "4f645d6e03865f3a0a83f6bcc2169be23adb7a335479b79a20350631509c74f43d2cae71c3f200c8c43cb8b0eb0d452ea357f602bccba24202f01aed3cea8f57"
+        "sha1": "bee5d68b40a329a9e18de0a7779a41dd68411667",
+        "sha512": "30be28c235ea5894ed1fda18e388110d94e817b226c81251f47a2c765bf9ff1be8f30d68b3af68453987bc63e6ca3a70ce2204c86756509543d390f89e17f860"
       }
     },
     {
-      "path": "mods/eclipsestweakeroo-0.7.3-26.1.1.jar",
+      "path": "mods/Geyser-Fabric-2.10.0-b1148.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/6kKLK5i1/versions/5yknCiSy/eclipsestweakeroo-0.7.3-26.1.1.jar"
+        "https://cdn.modrinth.com/data/wKkoqHrH/versions/tWdnw6uA/Geyser-Fabric-2.10.0-b1148.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "0478a16856ef9514bc8a64d16c7343752f3b2066",
-        "sha512": "4740fc6ac3fa99ad94d8008df8e7b0a927fa9f2fdd26bdaf3d181b1bf65505a7e93b52d8bc0fa2e0c09c7678edf1d89b66403e0f123686cdbb4b828355eaf417"
-      }
-    },
-    {
-      "path": "mods/Geyser-Fabric-2.10.0-b1138.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/wKkoqHrH/versions/q4Pg0AcC/Geyser-Fabric-2.10.0-b1138.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "91647115661cb55254f99385035638d4671b015e",
-        "sha512": "490b134ccafa3b25154b09a787717d6fcebebb97b8e00317aefc3c2257e76c888181793a772d84b4bbb72b6534e17957451383adc71dc68822688f335dfc319b"
+        "sha1": "43b169c7a2219c67fc842575fa0afa45cc054989",
+        "sha512": "bd7eed8599b69e875805b79c6d871d3a109d2b763a522cfedf746cf074c846bd6c00ef0e04c8da493eaa4079bf7836664677a8668ad96c30621f59ac8c30dbda"
       }
     },
     {
