@@ -796,6 +796,17 @@
         "sha512": "d5c7d38189fff63b71a48587694f09c4c5cc82ec3e80424cdce93ea2d99a783b447cfed5c640dba854a1417d6e2a576c7f403210b4c63a13e57495ff8f4ce11f"
       }
     },
+    {
+      "path": "mods/no-peeking-1.3.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/LMoBD2pV/versions/CbGBQ8xI/no-peeking-1.3.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "d14d78769e3713aa34e6cf7f4e25c1dabc283fc1",
+        "sha512": "475faba90ce0ea8afcb613599aa5260e52101fae09ad1226c8bafcf25b22cc6146cd48921c3cc629a635ea5391bd79e12dd36f45d6b5a9e585ebc4106529f6da"
+      }
+    },
 
 
 
