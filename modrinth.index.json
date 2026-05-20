@@ -807,6 +807,17 @@
         "sha512": "475faba90ce0ea8afcb613599aa5260e52101fae09ad1226c8bafcf25b22cc6146cd48921c3cc629a635ea5391bd79e12dd36f45d6b5a9e585ebc4106529f6da"
       }
     },
+    {
+      "path": "mods/armor-stand-arms-v2.5.7.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/GWFnD2zx/versions/mQbwtjmm/armor-stand-arms-v2.5.7.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "0a01241891e2b0b24c639caba9c5f6e4ab8afddd",
+        "sha512": "b18b9025edb870db96a3f48f24c850c351bbd7a4ce354fec7be2a2083b3cb51776a85d4e377dc2b940360d1832957d8c1d71a0353ed1fd83497bd78ef93df144"
+      }
+    },
 
 
 
