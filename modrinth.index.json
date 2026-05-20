@@ -775,17 +775,6 @@
       }
     },
     {
-      "path": "mods/betterimpaling-4.0+26.1.2.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/m8MF21pg/versions/QgFXyAsA/betterimpaling-4.0%2B26.1.2.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "423c7e2f433c98381f08d1a825176ab7d827f20f",
-        "sha512": "08053d270e48dc1bbb0819225ab463f84dbe40b8b481d71a4971b4ea1ae443c0e06e343de618c7dcb2e37b4d77bfcf8092df6254cf5b83fec626b1fec5d930b0"
-      }
-    },
-    {
       "path": "mods/zfastnoise-1.0.29-ocl+26.1.2.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/OnlVIpq5/versions/sKqtVH3Z/zfastnoise-1.0.29-ocl%2B26.1.2.jar"
