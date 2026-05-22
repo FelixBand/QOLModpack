@@ -423,14 +423,14 @@
       }
     },
     {
-      "path": "mods/autologin-1.1.0+26.1.jar",
+      "path": "mods/AutoLoginMod26.1-1.1.8.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/qbvK7wHQ/versions/BmTDrgLX/autologin-1.1.0%2B26.1.jar"
+        "https://cdn.modrinth.com/data/6OR8Lue2/versions/jog7n91k/AutoLoginMod26.1-1.1.8.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "42957f573ead272ea1779c02236b771483b5d40a",
-        "sha512": "f5f3e75e20140f745c8adb19ef38cb2d4e5cc011ad2799ab6fbc052f18a8cefdc0b53caa40147fa4594158d87093f2c52c2980da49244ebaef2ad37cd1644315"
+        "sha1": "38df16a6945520bdbfb4ef09ce3ca70adbba4989",
+        "sha512": "03f9418dd1a015cdf902acec374364cbc6e57d5bd42abf4976fd590c3899e5b082f9856f5143a76d3486c64c9e38f7c5c3b648eccde17d4ae46b33f6979a6040"
       }
     },
     {
