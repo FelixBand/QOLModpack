@@ -137,14 +137,14 @@
       }
     },
     {
-      "path": "mods/c2me-fabric-mc26.1.2-0.3.7+alpha.0.68.jar",
+      "path": "mods/c2me-fabric-mc26.1.2-0.3.7+alpha.0.69.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/utLSz8Lf/c2me-fabric-mc26.1.2-0.3.7%2Balpha.0.68.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/iFyIEVsG/c2me-fabric-mc26.1.2-0.3.7%2Balpha.0.69.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "1ba53e0f4ab50e4ce721aa747283ac2c207e53cf",
-        "sha512": "34dd605aa81ff1270f9697cf0451ca9a6023e57f4873468ff01fc19e264d6434fbc0c108e194a6a675b0269dd16ed829f79a18ea06d32d89acda3fbf7675302f"
+        "sha1": "30597d4cb419eba4d0e6576b4523455e36f96c2e",
+        "sha512": "32e5a21914ecd16b4560d2d59a4c1a96be92841d642cb278acd76461c0fe70e3875944917cb9e51dac719421d75abffd57bcbafe6e297e7477eaf34514857ced"
       }
     },
     {
@@ -599,14 +599,14 @@
       }
     },
     {
-      "path": "mods/Geyser-Fabric-2.10.0-b1151.jar",
+      "path": "mods/Geyser-Fabric-2.10.0-b1153.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/wKkoqHrH/versions/DB8dm9rX/Geyser-Fabric-2.10.0-b1151.jar"
+        "https://cdn.modrinth.com/data/wKkoqHrH/versions/fpWINGUE/Geyser-Fabric-2.10.0-b1153.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "63013cfe79187230a1533451dc1e486e886f0f0e",
-        "sha512": "ad3fe6939672dc77b42af6daa0c1907fcff17338ee6a9251329a65d546d11eb15dfbd7f8c7285a1f9753b112d7182edc4a73733d50012d2e83f4ab08f7c713ec"
+        "sha1": "1a7d3147db404d84b9fb5ec594f00994ceb5003d",
+        "sha512": "f6c47f1df8be6bd10bd6d25516a90624a4e074c36ecc40799ac31247460a452894e4d4fa2cc09707c57827cbe32c779d38cae9c57848e0ed61dc1654532e66d3"
       }
     },
     {
