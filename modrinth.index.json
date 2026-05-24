@@ -379,14 +379,14 @@
       }
     },
     {
-      "path": "mods/cwb-4.0.3+26.1.jar",
+      "path": "mods/cwb-4.0.4+26.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/ETlrkaYF/versions/bWNodSSK/cwb-4.0.3%2B26.1.jar"
+        "https://cdn.modrinth.com/data/ETlrkaYF/versions/GeAvj4tF/cwb-4.0.4%2B26.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "b41434422c640dda534de3af586c0e42968f3d6f",
-        "sha512": "467c9fc8a1d89e6ab4bab6ffce0a15b420943a585e1daf091cf5a861dcf74ada13befc496adbc70dcec6143f07790d0d4ac7ef1a0575170b4e8a2363277156c6"
+        "sha1": "e0ce52a555bdcc743d6e08e13862c71338d5c649",
+        "sha512": "39a9548f0f159ab7fa34e88fc31781175745d8f68f3a94ccfab70400398f3fcd9ac68d4382a4caef19ec646ba3f7eb45fb2ab3a89314261189c9a3efa41de399"
       }
     },
     {
@@ -794,6 +794,17 @@
       "hashes": {
         "sha1": "d14d78769e3713aa34e6cf7f4e25c1dabc283fc1",
         "sha512": "475faba90ce0ea8afcb613599aa5260e52101fae09ad1226c8bafcf25b22cc6146cd48921c3cc629a635ea5391bd79e12dd36f45d6b5a9e585ebc4106529f6da"
+      }
+    },
+    {
+      "path": "mods/particle_core-0.3.2+26.1.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/RSeLon5O/versions/EkGqhJyz/particle_core-0.3.2%2B26.1.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "2cc7af5d75e8b3af7deb8b5acec2fcb52654b252",
+        "sha512": "871a6f289d3b599f973ba121306d51811dbeb1a42bb800d4cd3cb00c8d41bd7f47d0694eb5ea8f67b82e466d74dcb0901482b08cabafacdb814e97294c0e746c"
       }
     },
 
