@@ -27,14 +27,14 @@
       }
     },
     {
-      "path": "mods/sodium-fabric-0.8.11+mc26.1.2.jar",
+      "path": "mods/sodium-fabric-0.8.12+mc26.1.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/ff7xUQLH/sodium-fabric-0.8.11%2Bmc26.1.2.jar"
+        "https://cdn.modrinth.com/data/AANobbMI/versions/eRJU33Hp/sodium-fabric-0.8.12%2Bmc26.1.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "f5847c84aa5fdc498bcc61a4f0c148b9051deac4",
-        "sha512": "b60755799efb97f0d3d111c9d69887382da28aab3a7bf2fb4b7be7a9c6846f4f553421927c15a403c901c4b088773b82fdaa5af1a9414b19a627961e687ca66d"
+        "sha1": "cd6c6236f0dcff03c7148414db220de32c934b5a",
+        "sha512": "402bb945d1f893a72c152c137e08f8a0c045d725a4d6ca2af7bcfe929c4d80338da509094cfe3a8cd162346b78c5069dc3cf1d57bf94a1bce557f6425da7e76f"
       }
     },
     {
@@ -357,25 +357,14 @@
       }
     },
     {
-      "path": "mods/voxy-0.2.15-beta+26.1.jar",
+      "path": "mods/voxy-0.2.16-beta.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/fxxUqruK/versions/tIs0IXaN/voxy-0.2.15-beta%2B26.1.jar"
+        "https://cdn.modrinth.com/data/fxxUqruK/versions/7RYVKQJm/voxy-0.2.16-beta.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "7570259d68157e32a0841abafb6755aef5656881",
-        "sha512": "e18e6b7697038bdd7c7e0f230342c356f9be14b79f18a5215cf73e7c1bda33699f5ce1ce3b37c8ce6a23161bc64365cc7835dab90f54aa6a4e3efa1def4c1cd1"
-      }
-    },
-    {
-      "path": "mods/voxy-extra-0.1.6.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/znQnhrkQ/versions/Wunjl0Ox/voxy-extra-0.1.6.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "75880c2159962e7f4d829935744055f0702304fe",
-        "sha512": "2eff2d32a4d966ada000ff8c61164c26539283ae95f3d6d6d0df6b74f594cc7340e67d279ec0401e42fa17c9066465e1758730c35f7f822b63eb8c6c1287a4a6"
+        "sha1": "fb1540e3da6e801ed3da63ef6d514eadf79bdfc0",
+        "sha512": "d839f9d06a6f93d28a973dcaf49a9c4307dfabb8393961005d0a830213e23990e82c2afc845f339701aadb5441b83ce3a19c00cc04b846e2cbe73165495adea0"
       }
     },
     {
@@ -742,14 +731,14 @@
       }
     },
     {
-      "path": "mods/enchanteds_sodium_options-1.2.1+0.8.11-mc26.1.2-fabric.jar",
+      "path": "mods/enchanteds_sodium_options-1.2.2+0.8.12-mc26.1.2-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/bd7qKEEC/versions/TUCMwgkI/enchanteds_sodium_options-1.2.1%2B0.8.11-mc26.1.2-fabric.jar"
+        "https://cdn.modrinth.com/data/bd7qKEEC/versions/p8p8RzcR/enchanteds_sodium_options-1.2.2%2B0.8.12-mc26.1.2-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "a95fa69ffb50183a2e1a3b2fb6e1ce94563f3a00",
-        "sha512": "5f8ae154b03fac7e72bf337192209ec62e9344d3f94b31fac033a29d010a1cfe3093b304f594ab91cc86f533fa7325da89fa7faba41d155320291dbd04572dc0"
+        "sha1": "8e5371b50a146f4c78847f88f67072f373e56edc",
+        "sha512": "c5b59bf6062df47ddc1d5247f5f9b779b320481ab6a2e4cc5c51297ae4fe5175abca87a93ccacfd9d0a1e1470d168aa29b8fb4c359e11f7940fb04bad7c98927"
       }
     },
     {
