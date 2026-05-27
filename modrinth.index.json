@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "5.10.1",
+  "versionId": "5.10.2",
   "name": "Felix' QOL Modpack",
   "files": [
     {
@@ -599,9 +599,9 @@
       }
     },
     {
-      "path": "mods/Geyser-Fabric-2.10.0-b1153.jar",
+      "path": "mods/Geyser-Fabric-2.10.0-b1155.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/wKkoqHrH/versions/fpWINGUE/Geyser-Fabric-2.10.0-b1153.jar"
+        "https://cdn.modrinth.com/data/wKkoqHrH/versions/70KxctIC/Geyser-Fabric-2.10.0-b1155.jar"
       ],
       "fileSize": 0,
       "hashes": {
@@ -616,8 +616,8 @@
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "7911e2a6eb02fac1e33b1c241ae374c2e4b96406",
-        "sha512": "54874033236df688da15fd4dd7d2d99d002e8955cb2d788d5ba409d753eb17629f53a6e976992de8cca8c8dd3663c70b283da88b5a12d72cef9647d09e04ae62"
+        "sha1": "2f437a036f478b23b3f0bcac65afd480849f0e60",
+        "sha512": "7a57cdf9b14b3636efd83e67cc6c5d5f39242fba709ece5966bbbea0186bba55e2db170461603d744e13e8b4bc683d2c0d44bd371e6ffc06cb2fc65eea4ee7bb"
       }
     },
     {
