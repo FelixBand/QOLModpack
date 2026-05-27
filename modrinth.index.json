@@ -566,25 +566,25 @@
       }
     },
     {
-      "path": "mods/malilib-fabric-26.1.2-0.28.4.jar",
+      "path": "mods/malilib-fabric-26.1.2-0.28.6.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/GcWjdA9I/versions/JRqAFP28/malilib-fabric-26.1.2-0.28.4.jar"
+        "https://cdn.modrinth.com/data/GcWjdA9I/versions/pvxtUnf1/malilib-fabric-26.1.2-0.28.6.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "7b143e772594ad9f20ba0d86fc5165ec4d72eca3",
-        "sha512": "7975813737c1a266d483aaf9ab26f6a0f2467f87eae8b5d2e4d1088e72d04e45201c4c4a7f9ca411e94fffe501036f0f61ad9b508f376f075f79927bf19aed35"
+        "sha1": "20b171995795c5938baa48e41a0932d3144dd7df",
+        "sha512": "1aaa388a36bc800e26927cab87360af09286bc69a6089f23052080857d2f0b0c79906e45fc11aaf71480ae228657cacadc01a1cdd23a07bb96c0ea5dd0abeff5"
       }
     },
     {
-      "path": "mods/tweakeroo-fabric-26.1.2-0.28.3.jar",
+      "path": "mods/tweakeroo-fabric-26.1.2-0.28.4.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/t5wuYk45/versions/FxGzElRZ/tweakeroo-fabric-26.1.2-0.28.3.jar"
+        "https://cdn.modrinth.com/data/t5wuYk45/versions/JTkUhOo0/tweakeroo-fabric-26.1.2-0.28.4.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "bee5d68b40a329a9e18de0a7779a41dd68411667",
-        "sha512": "30be28c235ea5894ed1fda18e388110d94e817b226c81251f47a2c765bf9ff1be8f30d68b3af68453987bc63e6ca3a70ce2204c86756509543d390f89e17f860"
+        "sha1": "dd1317e828362792c7c6bf0532f46957632e3cd7",
+        "sha512": "276bd8a1d5ae5540e463e43bbe9815bdfa72a6e1928320390eb62aca38b96e84863bc7069adb87c69d500b9f208329f3c8af4921569f969898ab5bb0bbdc575c"
       }
     },
     {
