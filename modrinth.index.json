@@ -379,14 +379,14 @@
       }
     },
     {
-      "path": "mods/vivecraft-26.1.2-1.3.8-fabric.jar",
+      "path": "mods/vivecraft-26.1.2-1.3.10-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/wGoQDPN5/versions/dAFnGtKk/vivecraft-26.1.2-1.3.8-fabric.jar"
+        "https://cdn.modrinth.com/data/wGoQDPN5/versions/nVVG5O02/vivecraft-26.1.2-1.3.10-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "d9f3e569e23ed0db0a258cae5651533f4b261f53",
-        "sha512": "3228489a2ff1191d90a47c0a50d11aa19c6a818032c8657bd530e7c1fbd7cdfca5c2e3062c9da2de868407b83e94f16c57bc44d4537d9538b08f1d9f584037a9"
+        "sha1": "ad96e249bee61c9c1daa1ec60f0346e70ec21ff2",
+        "sha512": "2b33e535a65c34133905e591ed5c2ee0841fef06f69881981dd7c85a98e65c7cb662d7f60bfe74d52d052c542a5aab9ffbc1b4bd41b090a20fc1aef48cb3134b"
       }
     },
     {
