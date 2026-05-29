@@ -822,14 +822,14 @@
       }
     },
     {
-      "path": "shaderpacks/photon_v1.3.zip",
+      "path": "shaderpacks/photon.zip",
       "downloads": [
-        "https://cdn.modrinth.com/data/lLqFfGNs/versions/VFSm0NBn/photon_v1.3.zip"
+        "https://cdn.modrinth.com/data/lLqFfGNs/versions/gUv7fBPN/photon_v1.3b.zip"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "d7bcffc983fc7d0f5270a2265e91597921a79d6b",
-        "sha512": "b080876d12ce6e6b5fe19c77d251748edee40ae79a750d870ff16ce4554097dfa140744acfc2bd96c4a93d51681e5e642f79291a50279db6e988fe15077214d3"
+        "sha1": "d975d25c9686de5f10e8b86c8518613cdf3f040a",
+        "sha512": "40bcbac9c656f2965f543e4b35cd0698723b2db8b67662f1b53c14223cfbef7d60d7fbf0176f73fcadd0d1e19ba60d951ed77e9eece8c8df7dca4d2be6315309"
       }
     }
   ],
