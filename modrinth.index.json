@@ -840,6 +840,17 @@
         "sha512": "2e8c41524824d3aa33c02d2f260b58aecc77b2d8c2b10ba36562cca840faff9cf291e574adeadbd80ca0b77701fc5e94311e449295a2689a38983d7a21ed9a93"
       }
     },
+    {
+      "path": "mods/SlashLength-1.0.0.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/nyFtqnBp/versions/FYVlroYa/SlashLength-1.0.0.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "f74ddc17a1ae9abbeb75b12df43f99dc7ee08fb5",
+        "sha512": "9989b3ee3bd27a17cf8e2eec63c04771eeddeb2a692f6893091a3b4661bbc56e6dade34489cdbf9593f5b6a9bc7d4e43ce7b824d3075cd96e6dfadb2ef8332a6"
+      }
+    },
 
     
 
