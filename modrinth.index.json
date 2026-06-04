@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "5.11.0",
+  "versionId": "5.11.1",
   "name": "Felix' QOL Modpack",
   "files": [
     {
@@ -148,14 +148,14 @@
       }
     },
     {
-      "path": "mods/fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
+      "path": "mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/Ha28R6CL/versions/2i87JpYj/fabric-language-kotlin-1.13.11%2Bkotlin.2.3.21.jar"
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/Pd0xrHCw/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "b6190b247c557c493dc4204121744f289a1d1837",
-        "sha512": "fa5ed2613f7216999cc0c5ddc71906f082a32b52507d7160acbdcf0eb8de12993ba302e5afde6681d025008ecc66c7533fc0c21deb672ef681b2194fb9be4245"
+        "sha1": "2bc17bb4275cc70a12e4ac35d139a71a30845720",
+        "sha512": "ca238ee480dfb237062200fd300be493d022e0837b6998c15807e01488b2a30d5ba4731e5c6d05a5333719c8923a1cb84c06fd6fa45aa88ced492ddb5b40906f"
       }
     },
     {
@@ -368,14 +368,14 @@
       }
     },
     {
-      "path": "mods/cwb-4.0.5+26.1.jar",
+      "path": "mods/cwb-4.0.6+26.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/ETlrkaYF/versions/Qmg5ibH4/cwb-4.0.5%2B26.1.jar"
+        "https://cdn.modrinth.com/data/ETlrkaYF/versions/r1S9kOO9/cwb-4.0.6%2B26.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "8b840ef5c04f0db763b3d010781bfb13ccb0d1dd",
-        "sha512": "14ffee2bb125ba8c94c871fb5993b50c964ffa6eec77f122426eed461256f7c9a30df6baf1941446e99a766e4c60bdb5616352244986512881421d1569c55aaa"
+        "sha1": "265160727b0d10486060b9460a93ac82a35e73ea",
+        "sha512": "ca006c3716ea8b66fe5e64845bb4d3a7ce2ef2fac54008db2ef2c1fdafd83c9f0783ac993f0f0e3dfb0b510f3007552cca2f14d080f88dfada1a8277f19b9651"
       }
     },
     {
