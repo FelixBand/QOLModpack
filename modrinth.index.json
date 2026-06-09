@@ -82,14 +82,14 @@
       }
     },
     {
-      "path": "mods/moreculling-fabric-26.1.1-1.7.1.jar",
+      "path": "mods/moreculling-fabric-26.1.2-1.7.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/51shyZVL/versions/iltBrlre/moreculling-fabric-26.1.1-1.7.1.jar"
+        "https://cdn.modrinth.com/data/51shyZVL/versions/IUqOgV5r/moreculling-fabric-26.1.2-1.7.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "8cd00d6d61ef54199d9de050132da7636dc1cabc",
-        "sha512": "e39031cad972fd083a7d89a07df7c08509d6e2aa6814468b4a6c961d81a035115dadb9bbb0b061d8733961be8b26487658a7d5b237998e153ad85728cdac8409"
+        "sha1": "ef2bae874cb6d0f8b77eb7604ef699c6271dfeb8",
+        "sha512": "f03f57a6097c3db78261156e289e2e5c207229f8583d901d28489baf32ccd78fde65cdbd19d7f703e72569c97e7af03dc6f7d600ca64f318373725188277374e"
       }
     },
     {
