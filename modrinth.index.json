@@ -324,14 +324,14 @@
       }
     },
     {
-      "path": "mods/skinrestorer-2.8.0+26.1-fabric.jar",
+      "path": "mods/skinrestorer-2.8.1+26.1-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/ghrZDhGW/versions/9MoU6vsD/skinrestorer-2.8.0%2B26.1-fabric.jar"
+        "https://cdn.modrinth.com/data/ghrZDhGW/versions/rgcYRGDt/skinrestorer-2.8.1%2B26.1-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "a1428b012b8e06955d01636ac21f134df4d48ea6",
-        "sha512": "f941f01a6a0cfb962c34e5cac757ee14639f262a75fb4df4e60bc2b2305bf94e6b1da27e8f347156b9fa7a1a534894a64010be1f82242033872a833296adee16"
+        "sha1": "d3253a3a46e342592b999a21e0f8274cd205d2f2",
+        "sha512": "e1b080b40bc28ccef2fe3b18ce3b8932053ab6eb239f3956fff9301c654ca21e5ed203e0093269ec65173050c0613ac02f9e47fed5f0e72d82916ce4a5aed0ed"
       }
     },
     {
