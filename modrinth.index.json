@@ -271,7 +271,7 @@
     {
       "path": "mods/mcwifipnp-1.9.8-26.1-fabric.jar",
       "downloads": [
-        "https://github.com/FBandit6/mcwifipnp/releases/download/26.1.2/mcwifipnp-1.9.8-26.1-fabric.jar"
+        "https://github.com/FelixBand/mcwifipnp/releases/download/26.1.2/mcwifipnp-1.9.8-26.1-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
@@ -403,7 +403,7 @@
     {
       "path": "mods/bedrockify-1.11.7+mc26.1.1.jar",
       "downloads": [
-        "https://github.com/FBandit6/BedrockIfy/releases/download/26.1.2/bedrockify-1.11.7+mc26.1.1.jar"
+        "https://github.com/FelixBand/BedrockIfy/releases/download/v1/bedrockify-1.11.6+mc26.1.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
