@@ -742,14 +742,14 @@
       }
     },
     {
-      "path": "mods/falling_snow-2.0.1.jar",
+      "path": "mods/falling_snow-2.0.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/soBfQALz/versions/qDVAJQHk/falling_snow-2.0.1.jar"
+        "https://cdn.modrinth.com/data/soBfQALz/versions/CPHjkHag/falling_snow-2.0.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "58ff55053c4480893f2e5c7c7eca46cc590b8d13",
-        "sha512": "4b5d23bc5f11e01b06642e1420822dd425fb91564997f7e628c041e6938af20a28d916b46663bc218f144fb66463cd5c11edd2647c151232415dfbf113d499bc"
+        "sha1": "f81ca434e8d724db422b791f6bf4aa97a5266ebf",
+        "sha512": "891439319645493946abf94639a8455e2d386351970354f6d83d64dc2f2a80124bcaf557527092d953f903657220968f66d07915b3e41d5ec9d40b389f549477"
       }
     },
     {
