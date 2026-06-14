@@ -588,14 +588,14 @@
       }
     },
     {
-      "path": "mods/Geyser-Fabric-2.10.1-b1164.jar",
+      "path": "mods/Geyser-Fabric-2.10.1-b1165.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/wKkoqHrH/versions/IdJ7Edh4/Geyser-Fabric-2.10.1-b1164.jar"
+        "https://cdn.modrinth.com/data/wKkoqHrH/versions/NcF4ENEQ/Geyser-Fabric-2.10.1-b1165.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "8936c7997218465fcaf780397a6dc11a343b572a",
-        "sha512": "806573d9d65c72be6c33c209c6d595e54485e6e143a23e21de40047ecf559960c446f0dba9d4612426ef5ca885215bc3a1fe99608ee13bdbe90cbfc3905eea8e"
+        "sha1": "9a9f64b25f00f68da4d4fe36b19fe9a50e81f3b5",
+        "sha512": "e01d4059778559e960b958b6fb83b469028a49ef36e5beec94bcfbdb64e9a48d8e0c2036b582efed6c7e6c7055f9d94f5d93ade7a26e3f81ca37bc981ca9b0b8"
       }
     },
     {
