@@ -126,14 +126,14 @@
       }
     },
     {
-      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.1.jar",
+      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.8.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/mvEDAhN1/c2me-fabric-mc26.2-0.4.2-alpha.0.1.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/XFuLpTDt/c2me-fabric-mc26.2-0.4.2-alpha.0.8.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "9dd510fca08d3988e55a41dff10c9a66edc6842f",
-        "sha512": "0379b8ef14111545a77da74a05b685ed9d2ead9266d137d7883201e754176792626e729c4c35836143df3008ba7d5eb3b9586b01ca7595ef9fe5737d7a406c44"
+        "sha1": "a7d98b3e92fadb75bc28b73e2bff86b736a5de69",
+        "sha512": "791408b01f476f59cd5e32d760707893e786c5f2dc71afe727f9fa2cdf71e9a4f18b04fcbdac42cccb42c2f70b932ee0fcfdeef40c98bab4ebaa3d183fd63688"
       }
     },
     {
