@@ -620,6 +620,39 @@
         "sha512": "9989b3ee3bd27a17cf8e2eec63c04771eeddeb2a692f6893091a3b4661bbc56e6dade34489cdbf9593f5b6a9bc7d4e43ce7b824d3075cd96e6dfadb2ef8332a6"
       }
     },
+    {
+      "path": "mods/konkrete_fabric_1.11.0_MC_26.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/J81TRJWm/versions/YnnkbRci/konkrete_fabric_1.11.0_MC_26.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "40efa4811837c1553fb5f7cbc7b29cea111aa93e",
+        "sha512": "ef3f196344536443a2bd9bad4ba56ac7b0dc1aa9a75742f51fb307d469f83233d601b789cc56250d9e3fc80732ad6106a794c99179ecf376d5966cff3330865c"
+      }
+    },
+    {
+      "path": "mods/melody_fabric_1.0.17_MC_26.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/CVT4pFB2/versions/ItVQn1cW/melody_fabric_1.0.17_MC_26.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "73a6216fcdae3928bd387a26a68318be9db83841",
+        "sha512": "4f1b414688c546c62ba66d362454778c060c82f6556bb55af5f3f624d37059bdbd7361051d0f2a958f1acc799a210fc7408a806f199ff69ba6bb27162b50bd47"
+      }
+    },
+    {
+      "path": "mods/fancymenu_fabric_3.9.4_MC_26.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/TiJqlVLt/fancymenu_fabric_3.9.4_MC_26.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "a4d460522f9c58d4df1c585b32edd2c8bbb8faed",
+        "sha512": "25883a01a8f3450df3921ca9b72ae7797918f52d40172babed7af1bfb83ac10a608af9448e62db60ce6a7d50a4c2de4319fc324b65e4ab6430f530f3219b8944"
+      }
+    },
 
     
 
