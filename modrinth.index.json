@@ -357,14 +357,14 @@
       }
     },
     {
-      "path": "mods/AutoLoginMod26.1-1.1.9.jar",
+      "path": "mods/AutoLoginMod26.2-1.1.9.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/6OR8Lue2/versions/szkCmIj9/AutoLoginMod26.1-1.1.9.jar"
+        "https://cdn.modrinth.com/data/6OR8Lue2/versions/BFLAJ5cz/AutoLoginMod26.2-1.1.9.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "d19bfe2dbf3288dd2caf4cb012dad1576cba4466",
-        "sha512": "6973915b23fc1ea6a9f4f828e42e2231dac9ece789099c7c61606d637938fc57e304e65b6cfbe2345d896c012b9143562645849a50b2ef427bc55341ae14dfd2"
+        "sha1": "a832ffe52e96f193e1316c43dce8dc1f942e396c",
+        "sha512": "b36b77d71c48a68b537747b38f287971272c14dc0ae61dad3c83e2105ba75729d03ffe7c0ac3f665f53dbfc34de32a1133fc28a5c99512ead9a14943d9637044"
       }
     },
     {
