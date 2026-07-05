@@ -16,25 +16,25 @@
       }
     },
     {
-      "path": "mods/lithium-fabric-0.25.0+mc26.2.jar",
+      "path": "mods/lithium-fabric-0.25.1+mc26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/x1OEDMlF/lithium-fabric-0.25.0%2Bmc26.2.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/vy3clWg7/lithium-fabric-0.25.1%2Bmc26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "ee6613921c224097f968a289e8a7b53e036cc6ec",
-        "sha512": "15027c279850999667cee29510e4491c01d17f121604c51dd9736a5b835dee6303183fdde63637b3dd666de3b28082b1818cacd6a047fee35fced49807b5eacf"
+        "sha1": "7307306a67fcbb8b4bb324387074425e5df753cc",
+        "sha512": "165320d63464bf45676ff6b4437111e63547ac7f752d7b19a19cdf90083c4c941062ba82dd1dc80ba539a07a97dc08e7db81405fd3ac0998f2a374806d70651a"
       }
     },
     {
-      "path": "mods/sodium-fabric-0.9.0+mc26.2.jar",
+      "path": "mods/sodium-fabric-0.9.1-beta.3+mc26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/3QgJXuSK/sodium-fabric-0.9.0%2Bmc26.2.jar"
+        "https://cdn.modrinth.com/data/AANobbMI/versions/jvfEutyx/sodium-fabric-0.9.1-beta.3%2Bmc26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "924dc2b779b7b7cd2d1d2464b863b00aa9fea797",
-        "sha512": "cff27e97d179ec1d3bcbcfc49820ec62b04fd101c98c2922cbcf426a3a0d3b32cd73e2d4cbefe0e291c9074484fbfdfa9d53b8cf0dc8783b015f33b2e21126a3"
+        "sha1": "221dcf961af1d834a54819c744c64d48aa3c6610",
+        "sha512": "152d6cba917d6adcbb4940a8aebabe2f05a5a20b2496f22d8032b85c6ca8879e60355fe103a248335ab5ce7a5aaec7c5a7339bd17d26949e3ddba67bb6d3d334"
       }
     },
     {
@@ -49,14 +49,14 @@
       }
     },
     {
-      "path": "mods/ImmediatelyFast-Fabric-1.16.0+26.2.jar",
+      "path": "mods/ImmediatelyFast-Fabric-1.16.1+26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/FQU5HWsp/ImmediatelyFast-Fabric-1.16.0%2B26.2.jar"
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/4r0uMdy5/ImmediatelyFast-Fabric-1.16.1%2B26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "fc0b3322adec4ca80b5250d6d4b275045ee3c202",
-        "sha512": "f7f1d57832f1dd2652ff377f008208e43cea171f35228d70c95cb93f61d4280662de4ee2eb4d11914387c7a2cb30b3e88e968d562dff192c6d5d1de1e4ec37e8"
+        "sha1": "ef9347d232ede4c97799fa5dd3a6d2b5be9d7bd8",
+        "sha512": "d90c2489f09efd0bf51072e4e675aa0a7aaca10b004cb1b01ffdcf3a6f20d9bc29002dbb47cfd69ade125d09203109a0c1d62e58ed18df29776bf61844fbe6fd"
       }
     },
     {
@@ -126,14 +126,14 @@
       }
     },
     {
-      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.8.jar",
+      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.9.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/XFuLpTDt/c2me-fabric-mc26.2-0.4.2-alpha.0.8.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/nvOkOiyi/c2me-fabric-mc26.2-0.4.2-alpha.0.9.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "a7d98b3e92fadb75bc28b73e2bff86b736a5de69",
-        "sha512": "791408b01f476f59cd5e32d760707893e786c5f2dc71afe727f9fa2cdf71e9a4f18b04fcbdac42cccb42c2f70b932ee0fcfdeef40c98bab4ebaa3d183fd63688"
+        "sha1": "75826b4c158de2465829817c2d0b43389bf506d9",
+        "sha512": "31e6ff1f07872e9cdd4532919610df4b53fa2900f41b45df73ebc7ede8fff9379ee9ae3f57d63dba7303d176676d59ac588bbc2adedd317af79fa6a01ad84490"
       }
     },
     {
@@ -335,14 +335,14 @@
       }
     },
     {
-      "path": "mods/vivecraft-26.2-1.3.12-fabric.jar",
+      "path": "mods/vivecraft-26.2-1.3.14-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/wGoQDPN5/versions/PXBqyGtU/vivecraft-26.2-1.3.12-fabric.jar"
+        "https://cdn.modrinth.com/data/wGoQDPN5/versions/u5Kg1DX4/vivecraft-26.2-1.3.14-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "5a6e9ef6eda01fb6f570d840eb65647a04084857",
-        "sha512": "a243017959b934202a601364a03cc959cc8527ecda3b5ebcc5702bfc67f0310c1c861bbc85d935ad14bdd92a2a8e9d9091a66386c6da012a066f90beaf40fd62"
+        "sha1": "e59e6d6e58a4e45c92f2e1e01ebd74c3da1b087e",
+        "sha512": "25b72575d02db4e775392cdfd19bab4aef0a2d5e35f29e24940f41fc3191ce7593e5434ac9e2ded3e3663f6fd6a7fe3e3286e37c1794c53e5597a0efb6594deb"
       }
     },
     {
@@ -357,14 +357,14 @@
       }
     },
     {
-      "path": "mods/AutoLoginMod26.1-1.1.9.jar",
+      "path": "mods/AutoLoginMod26.2-1.1.9.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/6OR8Lue2/versions/szkCmIj9/AutoLoginMod26.1-1.1.9.jar"
+        "https://cdn.modrinth.com/data/6OR8Lue2/versions/BFLAJ5cz/AutoLoginMod26.2-1.1.9.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "d19bfe2dbf3288dd2caf4cb012dad1576cba4466",
-        "sha512": "6973915b23fc1ea6a9f4f828e42e2231dac9ece789099c7c61606d637938fc57e304e65b6cfbe2345d896c012b9143562645849a50b2ef427bc55341ae14dfd2"
+        "sha1": "a832ffe52e96f193e1316c43dce8dc1f942e396c",
+        "sha512": "b36b77d71c48a68b537747b38f287971272c14dc0ae61dad3c83e2105ba75729d03ffe7c0ac3f665f53dbfc34de32a1133fc28a5c99512ead9a14943d9637044"
       }
     },
     {
@@ -467,25 +467,14 @@
       }
     },
     {
-      "path": "mods/bedrock-cauldrons-1.0.4+26.1.jar",
+      "path": "mods/polymer-bundled-0.17.1+26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/AFSc5r06/versions/vsZnmlVY/bedrock-cauldrons-1.0.4%2B26.1.jar"
+        "https://cdn.modrinth.com/data/xGdtZczs/versions/Tnd1PthN/polymer-bundled-0.17.1%2B26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "e8c0cf4bedb08558b5c6ca98941bfb91414a08cb",
-        "sha512": "f3447e857230576e189150c0abac7618d1ad7016102ec39703afb95925d4b7c976f06f05f9ab575edd5a08259017fe62d420ed65d43cb46ebbc8125d429f7065"
-      }
-    },
-    {
-      "path": "mods/polymer-bundled-0.17.0+26.2-rc-2.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/xGdtZczs/versions/TbzTxpbP/polymer-bundled-0.17.0%2B26.2-rc-2.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "ff3837d56ed74a495694966eb9832658307c0d47",
-        "sha512": "4d6457266dddf67ea37c66a4d7985e7a8ac6c941900127e9b7a1d0793d04b78e98e99ceb6580031294b556e45895b2b26aed324a685f1fb45796f421ef816ab5"
+        "sha1": "7d1f49c345c0fe58d7ec2b87e156af7351c0aa83",
+        "sha512": "6f1c791a0b9327a487f223357a6c6f3b1493b2a7a0532f05f069ceae0125a753596195c17ff8b1c95a0ca44956c528115625afd09fa97f1e53084188b4741a9f"
       }
     },
     {
@@ -621,14 +610,14 @@
       }
     },
     {
-      "path": "mods/konkrete_fabric_1.11.0_MC_26.2.jar",
+      "path": "mods/konkrete_fabric_1.11.1_MC_26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/J81TRJWm/versions/YnnkbRci/konkrete_fabric_1.11.0_MC_26.2.jar"
+        "https://cdn.modrinth.com/data/J81TRJWm/versions/Ra1AWDOa/konkrete_fabric_1.11.1_MC_26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "40efa4811837c1553fb5f7cbc7b29cea111aa93e",
-        "sha512": "ef3f196344536443a2bd9bad4ba56ac7b0dc1aa9a75742f51fb307d469f83233d601b789cc56250d9e3fc80732ad6106a794c99179ecf376d5966cff3330865c"
+        "sha1": "5f7e89dc14016ae63a504780a1d2c2f50d1c0c7e",
+        "sha512": "9679b1512ec7fd64a5ac49c2de24daabc6308956d7c5144e5c6d6f8ed5f6d40c3fa903ec329adf315a8ea806b841a49b6f5521edeec3ea114a9d2abef5e06154"
       }
     },
     {
@@ -643,14 +632,14 @@
       }
     },
     {
-      "path": "mods/fancymenu_fabric_3.9.4_MC_26.2.jar",
+      "path": "mods/fancymenu_fabric_3.9.6_MC_26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/TiJqlVLt/fancymenu_fabric_3.9.4_MC_26.2.jar"
+        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ZjFNXWXh/fancymenu_fabric_3.9.6_MC_26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "a4d460522f9c58d4df1c585b32edd2c8bbb8faed",
-        "sha512": "25883a01a8f3450df3921ca9b72ae7797918f52d40172babed7af1bfb83ac10a608af9448e62db60ce6a7d50a4c2de4319fc324b65e4ab6430f530f3219b8944"
+        "sha1": "bb8f45c40c61491302ec6476dec63cbe8c259398",
+        "sha512": "ea8d8804a80e498bf0965a532daa92530f5c7b50dac43a0d8d3ff910db1633041a98ba3be79f3544190d5a7fe168377077eb0da2f89bc4fbd79b80e80889ce6f"
       }
     },
     {
