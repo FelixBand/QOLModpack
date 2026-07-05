@@ -258,14 +258,14 @@
       }
     },
     {
-      "path": "mods/serverpingerfixer+26.1-1.1.0.jar",
+      "path": "mods/fast-ip-ping-v1.0.11-mc26.1.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/iqK5uv72/versions/5xfjHyo4/serverpingerfixer%2B26.1-1.1.0.jar"
+        "https://cdn.modrinth.com/data/9mtu0sUO/versions/H7KycYXE/fast-ip-ping-v1.0.11-mc26.1.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "9524c8b2a62794a861c80a477d311ab04826a4de",
-        "sha512": "3f313b0918e3b8dbb46ded7445c11ffaa650e52852c0389adbc2eb464706cd09f9add63743492bd60c3d6968243f36074e4cd50c249fe049f220290476092154"
+        "sha1": "6b69eaa6323da9f7933206d55cdb09ea3299cde3",
+        "sha512": "a3172cf7c42c8c71c4fd38ff267233787320ff9a24b39fdac61df659d326ab3d13a5227dd3ee4d966080e31ccb922a8a27580931eaa003565f809f9e3399287e"
       }
     },
     {
