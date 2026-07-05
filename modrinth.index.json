@@ -653,6 +653,17 @@
         "sha512": "25883a01a8f3450df3921ca9b72ae7797918f52d40172babed7af1bfb83ac10a608af9448e62db60ce6a7d50a4c2de4319fc324b65e4ab6430f530f3219b8944"
       }
     },
+    {
+      "path": "mods/voxy-0.2.17-alpha.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/fxxUqruK/versions/hUUcusfA/voxy-0.2.17-alpha.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "503286a81285237ef939d812276b877d00bdd6b4",
+        "sha512": "4c2efcb6476a89e22e23569d9b8c57e262d9fd9083c6b99a84be3d267cf6b81024258de38d273e52d573f7317bd0f47fd9ee72b5ae615bf5e2e44533ff7f5d2e"
+      }
+    },
 
     
 
