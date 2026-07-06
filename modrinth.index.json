@@ -643,6 +643,17 @@
       }
     },
     {
+      "path": "mods/Voxy World Gen V2-fabric-26.2-2.4.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/xT0lnNE9/versions/II0QK5sq/Voxy%20World%20Gen%20V2-fabric-26.2-2.4.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "76f22e7e213ad08c28d59b4bcd622ce3fbba7308",
+        "sha512": "c825eb3ccc127753fba4e34ec14dc52541b6a8fe78b29e4af796c4177614caf5a4d85bad12cd354ccaeae315420d67912155cf345b0cdb5aedfc3a8286ac5b1d"
+      }
+    },
+    {
       "path": "mods/no-peeking-1.3.1.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/LMoBD2pV/versions/888zqH2x/no-peeking-1.3.1.jar"
