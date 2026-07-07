@@ -60,14 +60,14 @@
       }
     },
     {
-      "path": "mods/moreculling-fabric-26.2-1.8.0-beta.1.jar",
+      "path": "mods/moreculling-fabric-26.2-1.8.0.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/51shyZVL/versions/RwGECWCy/moreculling-fabric-26.2-1.8.0-beta.1.jar"
+        "https://cdn.modrinth.com/data/51shyZVL/versions/SYFaYeMK/moreculling-fabric-26.2-1.8.0.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "d26fed5415ee09d503fa941a452fbb4080554f81",
-        "sha512": "884a4026996e7316291421c27afa6250b715bfb098196319325703e0d9a5fb31941f2557ba6d6c39cca95d5895863e341d7aceade149ca5d87d2a31b99fc340a"
+        "sha1": "6a2ae8fa02102f078657f02fd70b2d34c66ae898",
+        "sha512": "d7e52db2c4214bd13a5e8ef9e7e6e84312d991847525fa9827cd0fac9385e32e7ab5bdc9062a3daa68c901629bd7ad390d3713139191734bb2e753fef12fbe1c"
       }
     },
     {
@@ -456,14 +456,14 @@
       }
     },
     {
-      "path": "mods/polymer-bundled-0.17.1+26.2.jar",
+      "path": "mods/polymer-bundled-0.17.2+26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/xGdtZczs/versions/Tnd1PthN/polymer-bundled-0.17.1%2B26.2.jar"
+        "https://cdn.modrinth.com/data/xGdtZczs/versions/N2pBHJRZ/polymer-bundled-0.17.2%2B26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "7d1f49c345c0fe58d7ec2b87e156af7351c0aa83",
-        "sha512": "6f1c791a0b9327a487f223357a6c6f3b1493b2a7a0532f05f069ceae0125a753596195c17ff8b1c95a0ca44956c528115625afd09fa97f1e53084188b4741a9f"
+        "sha1": "9d65f541cc29ec0e5a35cb5a65a853c04fc0f2ca",
+        "sha512": "c7811fabdbcf05f65d732dba9e6fecc6a4c5979c2520af693a112a67af7023fd83e30455025ca35da17b4275963b015f06e397b478c2fcb1af239c755cb8b491"
       }
     },
     {
