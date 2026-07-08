@@ -675,6 +675,28 @@
         "sha512": "bde241ecae201e5032153ac1fe3e5dd06c05425150bea0ce45c1b399cfd7b283a6aa54258f57ea9767915260b5214350e43d88f5fb02b5f85981b76fe485e8fb"
       }
     },
+    {
+      "path": "mods/fzzy_config-0.7.6+26.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/hYykXjDp/versions/EQSFgLYw/fzzy_config-0.7.6%2B26.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "7ac79a06b302ea72ac029b2f2df1e3930714b256",
+        "sha512": "cc6ed535a8ea78dd255351e12e0a0ebcd4feb645f03402f7de4666378466e3b8a9562ff9a4e01e772eb25fb9d04554571c19f7c27eaec7bb4e3f115036c0492f"
+      }
+    },
+    {
+      "path": "mods/particle_core-0.3.3+26.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/RSeLon5O/versions/VFv6uQKM/particle_core-0.3.3%2B26.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "47c472f02c4f9eebc22e1590c02549b6be921292",
+        "sha512": "75467791b669b8cb0450b31766afd0ebfb734c0cdff020c0f1f9e95491440260823fa507d3515f347cb913143e4600feb88400174fc3d84b098ee3126fb91f48"
+      }
+    },
 
     
 
