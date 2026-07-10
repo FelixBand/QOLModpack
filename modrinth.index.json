@@ -533,14 +533,14 @@
       }
     },
     {
-      "path": "mods/enchanteds_sodium_options-1.3.0+0.9.0-mc26.2-fabric.jar",
+      "path": "mods/reeses-sodium-options-fabric-2.2.2+mc26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/bd7qKEEC/versions/swS2zLbu/enchanteds_sodium_options-1.3.0%2B0.9.0-mc26.2-fabric.jar"
+        "https://cdn.modrinth.com/data/Bh37bMuy/versions/6in8I1ms/reeses-sodium-options-fabric-2.2.2%2Bmc26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "c17f69fe24413a00d37f3170a53b10a65fd42bc3",
-        "sha512": "61641dd908b84765afc614e3eb08348a57573e84dcda825994623edeaa6ef9401ab4c1920170856f22fd719066115ce2865c872f8a8bd1d3807bfbcbd2a730af"
+        "sha1": "79d46f71ad99104d8ef0d6c470d91fcdc1a1c971",
+        "sha512": "e14a814a4013f3612d84034380d9187865a535f5e01ac4a6184c9f5060e2e084b174aedb8865ea1b367ebca96095d950ec41dc0e56aaaab34c6a0e6d01701484"
       }
     },
     {
