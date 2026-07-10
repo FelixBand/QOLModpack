@@ -27,14 +27,25 @@
       }
     },
     {
-      "path": "mods/sodium-fabric-0.9.1-beta.3+mc26.2.jar",
+      "path": "mods/iris-fabric-1.11.2+mc26.1.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/jvfEutyx/sodium-fabric-0.9.1-beta.3%2Bmc26.2.jar"
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/e4ioH5mG/iris-fabric-1.11.2%2Bmc26.1.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "221dcf961af1d834a54819c744c64d48aa3c6610",
-        "sha512": "152d6cba917d6adcbb4940a8aebabe2f05a5a20b2496f22d8032b85c6ca8879e60355fe103a248335ab5ce7a5aaec7c5a7339bd17d26949e3ddba67bb6d3d334"
+        "sha1": "5f23dc2bae9fa28a18ef1ec6a60c0d6f8fcc5b13",
+        "sha512": "46db54abb42324fbbfb9874c53dd323b6397f33372e901255a0ea3a63083db57f5ee4445fba7287462054d22771c249069a1c44cae3d625416d6e1a3ea9b5314"
+      }
+    },
+    {
+      "path": "mods/sodium-fabric-0.9.1+mc26.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/AANobbMI/versions/2Yom1N68/sodium-fabric-0.9.1%2Bmc26.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "14f3388694fa77f870d28262f74562de67eabcbe",
+        "sha512": "627fbf9625a4b94693c789c84a0686ffe558c0b1ecbeccf2602a903caafa9e126548b644282aa9c391dc798930d378724a383bea6b4397c5294d59ba5c0a6936"
       }
     },
     {
@@ -71,14 +82,14 @@
       }
     },
     {
-      "path": "mods/modmenu-20.0.0.jar",
+      "path": "mods/modmenu-20.0.1.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/mOgUt4GM/versions/QEDySGIN/modmenu-20.0.0.jar"
+        "https://cdn.modrinth.com/data/mOgUt4GM/versions/njXb639R/modmenu-20.0.1.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "023bcb509fb58930aae99ab24493ebbba8b0f45d",
-        "sha512": "90081aaf6f7f644340366c5e629363977972a48cfdc62f3341a79cd3ed131027141d864114b9d695583c6ff2fc05d196fbac2a3c3cc675304818a434d74784bd"
+        "sha1": "8562dee49eae1a6bdd14b026be1b300aedb5ce0f",
+        "sha512": "1aa297ab5e6fac71ad6af750fe6f8cd25281bd00c0340e5fe1c1e9d153d1198df03be1df55727a4a2116db97dcaad541d41754f3fc0063abfe4345b60f193fb4"
       }
     },
     {
@@ -115,14 +126,14 @@
       }
     },
     {
-      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.12.jar",
+      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.13.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/sBKVreDD/c2me-fabric-mc26.2-0.4.2-alpha.0.12.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/XQMx5J57/c2me-fabric-mc26.2-0.4.2-alpha.0.13.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "23788e72a01ee02cc666a2272952aa02214c7680",
-        "sha512": "757eb369c94ca63b3297f30e2e561aff9c9b02aaaf9891fded7e60b97b6e981def556f226b0b272026f7ff90c550989efea21555d10d0fff7ac4de27a2fb66a5"
+        "sha1": "f531fb2c8774fd30c9fbeedc2d4a60bf9f59995f",
+        "sha512": "052c79f8da23a4215a812e3c3fb592b3992d519e1c5daedd193d66742823855dac65365de31408c18b750bb58990f2650e4402a3abc32cf0e30aab7125adb15b"
       }
     },
     {
@@ -632,14 +643,14 @@
       }
     },
     {
-      "path": "mods/voxy-0.2.17-alpha.jar",
+      "path": "mods/voxy-0.2.17-beta.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/fxxUqruK/versions/hUUcusfA/voxy-0.2.17-alpha.jar"
+        "https://cdn.modrinth.com/data/fxxUqruK/versions/K3mJrsgk/voxy-0.2.17-beta.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "503286a81285237ef939d812276b877d00bdd6b4",
-        "sha512": "4c2efcb6476a89e22e23569d9b8c57e262d9fd9083c6b99a84be3d267cf6b81024258de38d273e52d573f7317bd0f47fd9ee72b5ae615bf5e2e44533ff7f5d2e"
+        "sha1": "f88a4d6d4b3628e9b75d0cf4999a9478c36334a5",
+        "sha512": "b2b3684a25ded8fe65aa600e0961162257bf172a0039b8c60b470edea7005b8d8aa9d30b8f3f96c380e5532b6d6e40e9decc9ba604251c3fd97060e51911f346"
       }
     },
     {
