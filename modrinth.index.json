@@ -708,6 +708,17 @@
         "sha512": "75467791b669b8cb0450b31766afd0ebfb734c0cdff020c0f1f9e95491440260823fa507d3515f347cb913143e4600feb88400174fc3d84b098ee3126fb91f48"
       }
     },
+    {
+      "path": "mods/multi-key-bindings-1.3.4+26.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/2VF6JEnL/versions/2hw5jWvm/multi-key-bindings-1.3.4%2B26.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "b65aa02fd53da547ceded2f26bfa39fb64f28f35",
+        "sha512": "9f3070699f827a48497062efb419e7e6370091d98c188419de030699565583d77232b5de12b40678169668e5eca17901a794efca17b117f5ce03a70e73d1e111"
+      }
+    },
 
     
 
