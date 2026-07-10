@@ -719,6 +719,17 @@
         "sha512": "9f3070699f827a48497062efb419e7e6370091d98c188419de030699565583d77232b5de12b40678169668e5eca17901a794efca17b117f5ce03a70e73d1e111"
       }
     },
+    {
+      "path": "mods/mcwifipnp-2.0.0-26.2-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/RTWpcTBp/versions/5IK13PjO/mcwifipnp-2.0.0-26.2-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "7b5fbc0d5d7c141b283e8c764fcf382d96808cc8",
+        "sha512": "a426b04ff9e4604df87b737863f35225216f5eeccf2fd4eb36a13f486c4d91eb27f6b4749d0da20f3db83df361ae1018bb5e9020b74b1615800b8369f89356d8"
+      }
+    },
 
     
 
