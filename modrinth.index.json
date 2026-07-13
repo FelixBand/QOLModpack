@@ -722,12 +722,12 @@
     {
       "path": "mods/mcwifipnp-2.0.0-26.2-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/RTWpcTBp/versions/5IK13PjO/mcwifipnp-2.0.0-26.2-fabric.jar"
+        "https://github.com/FelixBand/mcwifipnp/releases/download/26.2/mcwifipnp-2.0.0-26.2-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "7b5fbc0d5d7c141b283e8c764fcf382d96808cc8",
-        "sha512": "a426b04ff9e4604df87b737863f35225216f5eeccf2fd4eb36a13f486c4d91eb27f6b4749d0da20f3db83df361ae1018bb5e9020b74b1615800b8369f89356d8"
+        "sha1": "918b2f77980fa0c36502ca7bac55d58566b90b5e",
+        "sha512": "9c2bc94ea98be69a55c7c149e784200a4d363055eb9e645f80827e83fb27f90b977b842854f3eb6046302bb6e6c8c1c19d748393267417e1450daa7d2d948722"
       }
     },
     {
