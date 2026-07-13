@@ -16,14 +16,14 @@
       }
     },
     {
-      "path": "mods/lithium-fabric-0.25.1+mc26.2.jar",
+      "path": "mods/lithium-fabric-0.25.2+mc26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/vy3clWg7/lithium-fabric-0.25.1%2Bmc26.2.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/UPNexAfy/lithium-fabric-0.25.2%2Bmc26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "7307306a67fcbb8b4bb324387074425e5df753cc",
-        "sha512": "165320d63464bf45676ff6b4437111e63547ac7f752d7b19a19cdf90083c4c941062ba82dd1dc80ba539a07a97dc08e7db81405fd3ac0998f2a374806d70651a"
+        "sha1": "3bcc94183d7068395de08915fd5fce8d199aaa50",
+        "sha512": "db676376c05b7e912cdae5aad9e51f125adc1554ae2b204599ccb598751921aedbac98e97b9cba0333b6b52488c6b75c915a7dbd50436f97800387fe1aad1c50"
       }
     },
     {
@@ -60,14 +60,14 @@
       }
     },
     {
-      "path": "mods/ImmediatelyFast-Fabric-1.16.1+26.2.jar",
+      "path": "mods/ImmediatelyFast-Fabric-1.16.2+26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/4r0uMdy5/ImmediatelyFast-Fabric-1.16.1%2B26.2.jar"
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/uJHxuQxy/ImmediatelyFast-Fabric-1.16.2%2B26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "ef9347d232ede4c97799fa5dd3a6d2b5be9d7bd8",
-        "sha512": "d90c2489f09efd0bf51072e4e675aa0a7aaca10b004cb1b01ffdcf3a6f20d9bc29002dbb47cfd69ade125d09203109a0c1d62e58ed18df29776bf61844fbe6fd"
+        "sha1": "2d1cd27b0b570f908b665c02a35b49381b4c5ec1",
+        "sha512": "5f7c9d7993bfe3654b4f384c23afd83c1adcc359b1fa669b20f29ffa41e4e3135a161c1fdf97c66c5fc513ec5fe63e757a46b6e183b7b93148a28412496c5a0b"
       }
     },
     {
@@ -181,14 +181,14 @@
       }
     },
     {
-      "path": "mods/bobby-5.2.14+mc26.2.jar",
+      "path": "mods/bobby-5.2.15+mc26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/M08ruV16/versions/9O9VU4Wh/bobby-5.2.14%2Bmc26.2.jar"
+        "https://cdn.modrinth.com/data/M08ruV16/versions/KLiFVFju/bobby-5.2.15%2Bmc26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "0a57a358795280386f8a20aad1de35efe4e5e5d1",
-        "sha512": "7b3f7f1b31c0a3847f4551a65e0da8aacecd62915aebb94133db663ee4a8a06ba6e70b1bf6f145d0aa4a842a664aa3a3701659e993422c94282f2f1dd88677ea"
+        "sha1": "7acb26634632894b95ef09c06503c7cc8f04b90b",
+        "sha512": "25261b02b2db7f969de5c7013b7e223508a9e6005d61f287911af30c0fecd06c40df1e3cb4d6f7b714093f6b8ecffb5dfba25726c370ef3a0a74dcebf7711631"
       }
     },
     {
@@ -467,14 +467,14 @@
       }
     },
     {
-      "path": "mods/polymer-bundled-0.17.2+26.2.jar",
+      "path": "mods/polymer-bundled-0.17.3+26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/xGdtZczs/versions/N2pBHJRZ/polymer-bundled-0.17.2%2B26.2.jar"
+        "https://cdn.modrinth.com/data/xGdtZczs/versions/w0N4I45x/polymer-bundled-0.17.3%2B26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "9d65f541cc29ec0e5a35cb5a65a853c04fc0f2ca",
-        "sha512": "c7811fabdbcf05f65d732dba9e6fecc6a4c5979c2520af693a112a67af7023fd83e30455025ca35da17b4275963b015f06e397b478c2fcb1af239c755cb8b491"
+        "sha1": "6a7a4a0f5d8bf2ee17434d3f0f5acfeddfced056",
+        "sha512": "1459edf99834bbbb2eff5f7df2e7159688ad88e20e8704bc473752e81a755963bb96c511641d53c9f7b4e5867436f7b49ef839e3b857c48ca54af93627c2a110"
       }
     },
     {
@@ -632,14 +632,14 @@
       }
     },
     {
-      "path": "mods/fancymenu_fabric_3.9.6_MC_26.2.jar",
+      "path": "mods/fancymenu_fabric_3.9.7_MC_26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ZjFNXWXh/fancymenu_fabric_3.9.6_MC_26.2.jar"
+        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/rl6cJZGJ/fancymenu_fabric_3.9.7_MC_26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "bb8f45c40c61491302ec6476dec63cbe8c259398",
-        "sha512": "ea8d8804a80e498bf0965a532daa92530f5c7b50dac43a0d8d3ff910db1633041a98ba3be79f3544190d5a7fe168377077eb0da2f89bc4fbd79b80e80889ce6f"
+        "sha1": "8e0f6921e3d281eab922e61fb84f0f9935982ae1",
+        "sha512": "fb808714ac3e353ec9c468d3e81a92a3d37b849d51e15242397f387a08b3fec63009499d4e307e412bc609f877342ec827ddebb48ae32b8abdb507e27abdd6d4"
       }
     },
     {
@@ -764,14 +764,14 @@
       }
     },
     {
-      "path": "mods/Geyser-Fabric-2.11.0-b1189.jar",
+      "path": "mods/Geyser-Fabric-2.11.0-b1196.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/wKkoqHrH/versions/HkxPJQyS/Geyser-Fabric-2.11.0-b1189.jar"
+        "https://cdn.modrinth.com/data/wKkoqHrH/versions/6TIwzcQR/Geyser-Fabric-2.11.0-b1196.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "d265eef27eb13c560b31e0df615c75c983a2e79a",
-        "sha512": "7e7fff5bf6275c7d751afbaf54499b8730048dbf08ef924bde1d0c7af69bcca64a9e7e9b43020d85936d4ebd21e8c6cfaacf42df40b734124fcc75f65cef377c"
+        "sha1": "e382cdea2c76c36de9130e3152f3803e3be099b8",
+        "sha512": "09fc8d7dd03613d53ad16b083f52dd89c4e8a7cc01c9b4995c661c12c4cc1733c1a8c2cf08b3dd657b14b8ce035aa5503179fe2d9e991d54f5d409da20410ba2"
       }
     },
     {
