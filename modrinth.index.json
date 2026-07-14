@@ -785,6 +785,17 @@
         "sha512": "d6ecacfbf1c31171317792783754c4f58414508a8fd1aa23b9e3da5da9fe450a6e6e882e39e862cb5f1df38d2d97be8465a39857fe4b78c1cf89934230a71205"
       }
     },
+    {
+      "path": "mods/bedrockify-1.11.7+mc26.2.jar",
+      "downloads": [
+        "https://github.com/FelixBand/BedrockIfy/releases/download/v2/bedrockify-1.11.7+mc26.2.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "9fa8e505ffc806372fb5139d4d9e8998ca8f6656",
+        "sha512": "38d3fe6ed096f8ed21e65968b258c76a8f03468816c07880aa7b60a3ff3a7320fb364afa5262f6e503164876336f72c9cac93ec40d3f9e27951be5847ecf7b47"
+      }
+    },
 
 
     
