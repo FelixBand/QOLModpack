@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "6.0.0",
+  "versionId": "6.0.1",
   "name": "Felix' QOL Modpack",
   "files": [
     {
@@ -812,9 +812,9 @@
       }
     },
     {
-      "path": "shaderpacks/photon.zip",
+      "path": "shaderpacks/ComplementaryReimagined.zip",
       "downloads": [
-        "https://cdn.modrinth.com/data/lLqFfGNs/versions/gUv7fBPN/photon_v1.3b.zip"
+        "https://cdn.modrinth.com/data/HVnmMxH1/versions/yCCduG44/ComplementaryReimagined_r5.8.1.zip"
       ],
       "fileSize": 0,
       "hashes": {
