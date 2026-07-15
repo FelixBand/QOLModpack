@@ -126,14 +126,14 @@
       }
     },
     {
-      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.14.jar",
+      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.18.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/gO4NvmUk/c2me-fabric-mc26.2-0.4.2-alpha.0.14.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/ZrrJuWws/c2me-fabric-mc26.2-0.4.2-alpha.0.18.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "853c5f46e36a2db2b1f2235e506440f701142094",
-        "sha512": "2576e73621e26a11be886f904c65e2d635f992398e6fe2f112471d12a843fdf69cc8d5305aa3af3f7e7cd1f69e79e2e0dd0343fdf73db98c32ce1478429be089"
+        "sha1": "00c11ea0c0c4197e2beac0078463be9fb1a52d00",
+        "sha512": "9b72b44150c08dea90a4a1eb8bc8ff8a7859a272bee185dfeae5fefd69ac2bb0b639b21bcf85ffa5625eb42f759f74440e861cc709a7d50fb3588267559356e8"
       }
     },
     {
@@ -643,14 +643,14 @@
       }
     },
     {
-      "path": "mods/voxy-0.2.17-beta.jar",
+      "path": "mods/voxy-0.2.18-beta.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/fxxUqruK/versions/K3mJrsgk/voxy-0.2.17-beta.jar"
+        "https://cdn.modrinth.com/data/fxxUqruK/versions/zZX86mbc/voxy-0.2.18-beta.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "f88a4d6d4b3628e9b75d0cf4999a9478c36334a5",
-        "sha512": "b2b3684a25ded8fe65aa600e0961162257bf172a0039b8c60b470edea7005b8d8aa9d30b8f3f96c380e5532b6d6e40e9decc9ba604251c3fd97060e51911f346"
+        "sha1": "34206446f7625782b04382256083f44fe9551b83",
+        "sha512": "2605d9255cc4e72e401cf8de299ad01c21a9a4828d4f8d2b6ec4f63ea59fd21c4d29c92255c50979f848cccb4057f0b687fb3c9c87fa4c0dd62f68540e4d84bb"
       }
     },
     {
@@ -764,14 +764,14 @@
       }
     },
     {
-      "path": "mods/Geyser-Fabric-2.11.0-b1197.jar",
+      "path": "mods/Geyser-Fabric-2.11.0-b1198.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/wKkoqHrH/versions/hvRr6nXc/Geyser-Fabric-2.11.0-b1197.jar"
+        "https://cdn.modrinth.com/data/wKkoqHrH/versions/bgfvfaEW/Geyser-Fabric-2.11.0-b1198.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "8ccfe85d03fba24e431f7c4b5f96ce3c1dfeabb1",
-        "sha512": "270054a765d79fc5bb3e8d8ee5426660e5e26e372794de895cd702b44669dcb35f83bde6fa31d29d16c55eb290806aa725b35c393457fd1f51b197ebd6a39df8"
+        "sha1": "7a47c86a3e760259cfcbe751e2bf24b836997744",
+        "sha512": "7570029eb69983d52c02c38502910db530ca5aceda4f5fba192fbfee4a9b0457f04e59f7455dc1f354f15fbb934516e973f050db846c317c495d5d31266a38c2"
       }
     },
     {
