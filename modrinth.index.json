@@ -588,14 +588,14 @@
       }
     },
     {
-      "path": "mods/BetterCommandBlockUI-0.5.3-26.1.jar",
+      "path": "mods/BetterCommandBlockUI-0.5.3-26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/8iQcgjQ2/versions/hZzJb0zx/BetterCommandBlockUI-0.5.3-26.1.jar"
+        "https://cdn.modrinth.com/data/8iQcgjQ2/versions/r9j5QnhO/BetterCommandBlockUI-0.5.3-26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "3ab1b9045e1cbd8e807bf09f9114eabe06845367",
-        "sha512": "2e8c41524824d3aa33c02d2f260b58aecc77b2d8c2b10ba36562cca840faff9cf291e574adeadbd80ca0b77701fc5e94311e449295a2689a38983d7a21ed9a93"
+        "sha1": "6b52f48a312329ef9ef22ccc0caaad8e43bdc081",
+        "sha512": "e68979af0ce51e4310765cd8d4880e428ed0b50b459ea9ff221803f8bc962c82950eb67d6dd649a9ab085e4197522b39f3b1064c23c7e181f1b5b869dc94b6b2"
       }
     },
     {
