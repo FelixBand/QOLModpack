@@ -796,6 +796,28 @@
         "sha512": "d33b5f27d0b69f834fdc39de1e1f5d50be5600d7979c8e70112ac3d92d322384483775921215486ffdeb1438d6c405fdf92fa3010b13b74c70c8aabf5049609e"
       }
     },
+    {
+      "path": "mods/entity_texture_features-7.1.1-26.2-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/BVzZfTc1/versions/HLCBKYFD/entity_texture_features-7.1.1-26.2-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "2d09a60630e8f25a25d9c06d87684c74a843caac",
+        "sha512": "4acd478923fac5300fb43cbcc3b6a7501fee473491ee416b5d5a1203bdb8ceeaed04ff34bd1730a9cbff7bc4497265ab129f9eee2ca1d37a70c463203b1a8c20"
+      }
+    },
+    {
+      "path": "mods/entity_model_features-3.2.6-26.2-fabric.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/4I1XuqiY/versions/xQeW3qQB/entity_model_features-3.2.6-26.2-fabric.jar"
+      ],
+      "fileSize": 0,
+      "hashes": {
+        "sha1": "47862c653e419aa6741338b795db841f1086a643",
+        "sha512": "9296b5755839062067c9e5e561b8248709c5f9aade53a9eb0c87e0d0dc743f83f1a6b5776dbe1c33c85b0b1a3355544b0da53b0bcdcee5dccc02d6576cb9ef31"
+      }
+    },
 
 
     
