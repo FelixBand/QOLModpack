@@ -566,14 +566,14 @@
       }
     },
     {
-      "path": "mods/zfastnoise-1.0.36+26.2.jar",
+      "path": "mods/zfastnoise-1.0.39+26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/OnlVIpq5/versions/zDmmeNYS/zfastnoise-1.0.36%2B26.2.jar"
+        "https://cdn.modrinth.com/data/OnlVIpq5/versions/GJk7sVtP/zfastnoise-1.0.39%2B26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "5ba08086e00d4ac7e6c52817f068cf7953583a7f",
-        "sha512": "46668a5c03b0cddc8375b77dfedb25f71ba6567e3ff81b16941680a2026a414f75996489ea761bcc93016fba900b25408697d22f443f9d2116058a6a63b2e16f"
+        "sha1": "e1772fcd422a5ca6dc139e04d9ba4edcf208b8e2",
+        "sha512": "33a6c9a9e78e8973b6b485ea3db34e04d06062daf83f3e9146e2a6111e36b68d6c08cfb3a960c0e3dcef6d7a9198d6ed7bd791886efa9fb2f7fe02c0545617f9"
       }
     },
     {
