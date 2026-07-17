@@ -731,14 +731,14 @@
       }
     },
     {
-      "path": "mods/ViaFabric-0.4.21+172-26.x.jar",
+      "path": "mods/ViaFabric-0.4.21+174-26.x.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/YlKdE5VK/versions/rRHSH3qm/ViaFabric-0.4.21%2B172-26.x.jar"
+        "https://cdn.modrinth.com/data/YlKdE5VK/versions/JsqLEkHy/ViaFabric-0.4.21%2B174-26.x.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "f54964e3455f1468ce15de180ea1f54dad6ec02d",
-        "sha512": "a7a221a80ad283ff58fc84167b98f2628d1800efcf218f79d9de670d28e31fe255bfb43c97caf295c0e84b096bafa6617184168b2dd444385026ca75884a1579"
+        "sha1": "e89df23a124484c0f4a70eee4fb4a9bfe1b469d0",
+        "sha512": "caee9f8512010b6acc8f6afb65ed68e66477f92520cfad784e537cf3274c373ccced89f9bde294a7e36d489d7e561a3e6a3f3123606d0faa3f100e014e243b50"
       }
     },
     {
