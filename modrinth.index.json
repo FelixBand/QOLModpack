@@ -49,14 +49,14 @@
       }
     },
     {
-      "path": "mods/sodium-extra-fabric-0.8.9+mc26.2.jar",
+      "path": "mods/sodium-extra-fabric-0.9.3+mc26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/PtjYWJkn/versions/Yx7JiBit/sodium-extra-fabric-0.8.9%2Bmc26.2.jar"
+        "https://cdn.modrinth.com/data/PtjYWJkn/versions/Fu02wj4x/sodium-extra-fabric-0.9.3%2Bmc26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "cfc41276b6ba6dd9b70535aea8bea8923905bc1b",
-        "sha512": "a5279343726b1ad0398b98327296a6ab90b80afc8c238f38d17c92875f0e2c8fc28da770e95767efa295762dcde699d2b01a15ac89618a50cdc6b44aa4b1b68a"
+        "sha1": "e939d4e9760169d83763e373de6d668b1b303321",
+        "sha512": "d8caeb19c0439f06c5e885582b19980019c347a9685a8a41e5a94b9afd390a6b82b21c44541cc58b88a8ae1430f4410dff2e488833c900f7ea4705ae171321d7"
       }
     },
     {
