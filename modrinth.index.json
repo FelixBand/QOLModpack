@@ -137,14 +137,14 @@
       }
     },
     {
-      "path": "mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+      "path": "mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/Ha28R6CL/versions/Pd0xrHCw/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar"
+        "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "2bc17bb4275cc70a12e4ac35d139a71a30845720",
-        "sha512": "ca238ee480dfb237062200fd300be493d022e0837b6998c15807e01488b2a30d5ba4731e5c6d05a5333719c8923a1cb84c06fd6fa45aa88ced492ddb5b40906f"
+        "sha1": "620cb137a9dc69ce86f3114f19d9eedab16366f5",
+        "sha512": "9a63c35a550b0362b7b25ff045d93709c7b0dae08c89076cba422813fdfb9e5f5dd021ed3afac9f82e74e95b88c249e8f68b240717151540ca3e88cc27fb9c77"
       }
     },
     {
@@ -335,14 +335,14 @@
       }
     },
     {
-      "path": "mods/vivecraft-26.2-1.3.14-fabric.jar",
+      "path": "mods/vivecraft-26.2-1.3.15-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/wGoQDPN5/versions/u5Kg1DX4/vivecraft-26.2-1.3.14-fabric.jar"
+        "https://cdn.modrinth.com/data/wGoQDPN5/versions/VrqKDtZn/vivecraft-26.2-1.3.15-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "e59e6d6e58a4e45c92f2e1e01ebd74c3da1b087e",
-        "sha512": "25b72575d02db4e775392cdfd19bab4aef0a2d5e35f29e24940f41fc3191ce7593e5434ac9e2ded3e3663f6fd6a7fe3e3286e37c1794c53e5597a0efb6594deb"
+        "sha1": "1cd59695918d538499457edddc11198ecfeb080d",
+        "sha512": "8f63a60587fd95b21884d2d61ac6e76f18a3e9a510226edbc0e06e4f276b8f84196bde314764aedf3bfc5f08499facd3bc3697ab97fa93602986fc6e8e7c7c7c"
       }
     },
     {
@@ -632,14 +632,14 @@
       }
     },
     {
-      "path": "mods/fancymenu_fabric_3.9.7_MC_26.2.jar",
+      "path": "mods/fancymenu_fabric_3.9.8_MC_26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/rl6cJZGJ/fancymenu_fabric_3.9.7_MC_26.2.jar"
+        "https://cdn.modrinth.com/data/Wq5SjeWM/versions/eFsB24by/fancymenu_fabric_3.9.8_MC_26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "8e0f6921e3d281eab922e61fb84f0f9935982ae1",
-        "sha512": "fb808714ac3e353ec9c468d3e81a92a3d37b849d51e15242397f387a08b3fec63009499d4e307e412bc609f877342ec827ddebb48ae32b8abdb507e27abdd6d4"
+        "sha1": "79bb09897c1e8aed70b7f2dc6cb6b61ac75d0815",
+        "sha512": "c1b139c6ae24e7b766fa994c8585d3a88a510be5267f23d8a768b41f71aed8c91bd896b72080de2e7f4d0c3daae5c3713fec86b97d6376df1df8fc21a36a2ce0"
       }
     },
     {
