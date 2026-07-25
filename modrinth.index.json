@@ -104,14 +104,14 @@
       }
     },
     {
-      "path": "mods/voicechat-fabric-2.6.20+26.2.jar",
+      "path": "mods/voicechat-fabric-2.6.21+26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/bvaEHE2T/voicechat-fabric-2.6.20%2B26.2.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/3SOh5iiX/voicechat-fabric-2.6.21%2B26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "cdb67f7d187dc886c6010d4710f3d2025e5e16ac",
-        "sha512": "6d9e16ef5e86b60c637797631f55c5ab3adbb8a8ee1e67f1d6b4f3c70fead800cf5d927a2f5f0eb6de5bc806088ae0d39a8ad3293c98d13936684a03c5d81336"
+        "sha1": "445f7e1f1490e16385b04be554cf173c2a4fe780",
+        "sha512": "0308b2e18a05913faaf461530a475d2f5debbfb4d0a46107b512ce51166ceb6cfdbea468f7e21444a3e005655e51729c3764266f81c59b6228629b4866d16b28"
       }
     },
     {
@@ -126,14 +126,14 @@
       }
     },
     {
-      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.18.jar",
+      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.28.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/ZrrJuWws/c2me-fabric-mc26.2-0.4.2-alpha.0.18.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/AtMwOFAC/c2me-fabric-mc26.2-0.4.2-alpha.0.28.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "00c11ea0c0c4197e2beac0078463be9fb1a52d00",
-        "sha512": "9b72b44150c08dea90a4a1eb8bc8ff8a7859a272bee185dfeae5fefd69ac2bb0b639b21bcf85ffa5625eb42f759f74440e861cc709a7d50fb3588267559356e8"
+        "sha1": "f1b61738b7c75c2a785016bb3d1d7e789ed6c028",
+        "sha512": "15b86de3a17986386a5ce54502932645071c32f1f6bd8375e0ff4cf8e6eaba102ff14d518ae22f087a05761a0599c8e9f609be04dfd46f2b4d91f3cc2290879a"
       }
     },
     {
@@ -192,14 +192,14 @@
       }
     },
     {
-      "path": "mods/locator-heads-2.4.1.jar",
+      "path": "mods/locator-heads-2.4.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/L4pt5egz/versions/Ti3iZri6/locator-heads-2.4.1.jar"
+        "https://cdn.modrinth.com/data/L4pt5egz/versions/OPUaj8dP/locator-heads-2.4.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "63544a8d9b1689502c0a1ceaa3f6eade7de2bfd9",
-        "sha512": "ece295f0c9697ce5617bf7baca9cf9b00342b1ce3f45691cb3180fc9953e2abbe30a49fbd5727c2914fdb8663aec3bec89ccd6eb83ffe0b3f2e979b494d07c83"
+        "sha1": "328230d24a17214ddfb6f8f6f27d824fe6c23706",
+        "sha512": "388c9d80279b0ed03cd0f6daae214a6a47062b41d4de395b8dc72f025d703609418b506749e309b1e91c5d1b34a81f4aee452aed849bb802c618e5b703037714"
       }
     },
     {
@@ -214,14 +214,14 @@
       }
     },
     {
-      "path": "mods/yet_another_config_lib_v3-3.9.5+26.2-fabric.jar",
+      "path": "mods/yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/1eAoo2KR/versions/LlSShNCR/yet_another_config_lib_v3-3.9.5%2B26.2-fabric.jar"
+        "https://cdn.modrinth.com/data/1eAoo2KR/versions/cnfPzuFU/yet_another_config_lib_v3-3.9.6%2B26.2-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "e5d90b4f2cc508056097249d71fc9482ae73c111",
-        "sha512": "bf709e5d1db2f104abb1e45d27dec39f10e0e2d546ec1e5df3a49b464c6f2b2daf39633e26e94e7869ae2a555258e5c4ee2d796c7d6d0e26300052a8de15052a"
+        "sha1": "40887775504751acd752545e6370a76ca3b5bda9",
+        "sha512": "b3a58e4a5ef54647569282b8b2e9630389b3568f0abecb9c168daaa815477cbf961e79de28081cac551b69b810f561f043d669d1034aec80f12153a53dff53ef"
       }
     },
     {
@@ -247,14 +247,14 @@
       }
     },
     {
-      "path": "mods/controlify-3.1.0+26.2-fabric.jar",
+      "path": "mods/controlify-3.1.1+26.2-universal.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/yzksuauf/controlify-3.1.0%2B26.2-fabric.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/3Z0RNraJ/controlify-3.1.1%2Bmc26.2-universal.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "cd89a76756376b825f9b8552a281b7be07319ba0",
-        "sha512": "e13d623ea01c47bcc5c6ab1f479f5076ef26ce1bd98b7a81ac770bcf1b300d8eef7da010d6607fd9adba70368f964b50879ef5983161d67e8cc592ea92d9e3dd"
+        "sha1": "9d7abedfb944ae03776b11b10e8fcf9f32feda5c",
+        "sha512": "6d857dfec6f3caabdce73d57d83a325cd4e793f58da961e4391d114efaa3609502d355aae2b41414f2436d1a62465328b57c27f6f25572324b1a55e7476b44a7"
       }
     },
     {
@@ -731,47 +731,47 @@
       }
     },
     {
-      "path": "mods/ViaFabric-0.4.21+174-26.x.jar",
+      "path": "mods/ViaFabric-0.4.21+176-26.x.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/YlKdE5VK/versions/JsqLEkHy/ViaFabric-0.4.21%2B174-26.x.jar"
+        "https://cdn.modrinth.com/data/YlKdE5VK/versions/qTp3MGwf/ViaFabric-0.4.21%2B176-26.x.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "e89df23a124484c0f4a70eee4fb4a9bfe1b469d0",
-        "sha512": "caee9f8512010b6acc8f6afb65ed68e66477f92520cfad784e537cf3274c373ccced89f9bde294a7e36d489d7e561a3e6a3f3123606d0faa3f100e014e243b50"
+        "sha1": "6aa9d6f8689ca7dc9d695d2f7a645e647747443a",
+        "sha512": "9047a2a376c753f552f34366336e33f27ee7a073febd7cd285e4910c0521861ebfa6b601a7424639a20ca2b4a20771caa9f22d859fce21e78e783b38b32baea1"
       }
     },
     {
-      "path": "mods/ViaVersion-5.11.0-SNAPSHOT.jar",
+      "path": "mods/ViaVersion-5.11.1-SNAPSHOT.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/P1OZGk5p/versions/hIC4C8re/ViaVersion-5.11.0-SNAPSHOT.jar"
+        "https://cdn.modrinth.com/data/P1OZGk5p/versions/ZhlgRvXY/ViaVersion-5.11.1-SNAPSHOT.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "47f954ef4ef23ba691865198a196d0c5e3361a37",
-        "sha512": "24949d6f42d34afe7123be8cba219d6da5654f5f857202eec5604a2948f1916b6d7128de3f25bdf66e613b5a868c6604180b2cc46227e82ddcf4de71533f9374"
+        "sha1": "a5048fe8071a26f3698c7c0b1100c183538b4862",
+        "sha512": "e803cd03f1926e84662cbd13171f36dfefb906a01ce13f94d737e923fdd375a71d977e70732c3755afee9e131aa5b35838a392d6b60ffea2b6d00d40e412607b"
       }
     },
     {
-      "path": "mods/ViaBackwards-5.11.0-SNAPSHOT.jar",
+      "path": "mods/ViaBackwards-5.11.1-SNAPSHOT.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/NpvuJQoq/versions/uf4Mgp8c/ViaBackwards-5.11.0-SNAPSHOT.jar"
+        "https://cdn.modrinth.com/data/NpvuJQoq/versions/cMdnLKVi/ViaBackwards-5.11.1-SNAPSHOT.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "558c970f0adb147ae9edb2305d85e9616726ecf7",
-        "sha512": "5585cbade165363878a5bb3dc67a3d0b3f76b448df257b53fdb877b6f638078228ebb81cd9abe6db3850cd90f96f4fae01123a8cec7dfec2ec6fd5ba0a8ae468"
+        "sha1": "7a0af20a264c052468948e3975179812afef7cd4",
+        "sha512": "587b882c65f096aa7b01c53fdc0322abf20e31a3ede78d11c3c70858a7526c2f116ced85fca988a028049e78ffdbf5edfe31a7d2dd12fe01486b94e198bfad91"
       }
     },
     {
-      "path": "mods/Geyser-Fabric-2.11.0-b1200.jar",
+      "path": "mods/Geyser-Fabric-2.11.0-b1204.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/wKkoqHrH/versions/rRRaN6Lg/Geyser-Fabric-2.11.0-b1200.jar"
+        "https://cdn.modrinth.com/data/wKkoqHrH/versions/46fTkAl1/Geyser-Fabric-2.11.0-b1204.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "e9cc0e9afb6bd010de9cbfaf1d871f75ade85a2c",
-        "sha512": "1c9f510d180c0391f018beddc9e405ac9fb59032ab35e80b803c917444d77fefc5c21468c7e5b5d2e57e93426773b8e2ebde68c7cc069e8488a96da30571266a"
+        "sha1": "589f33f26d4c0ee0b9e50ba55e24b460c6f40d76",
+        "sha512": "7070677116c34a89325f9f57821e0f68fb79c7018e3c5e8941ca5b2d1a1667d52bd4ab96cc486f43b30c9a92a0c288501847e5fcc2a588175ad2d8cb27ca7fb9"
       }
     },
     {
