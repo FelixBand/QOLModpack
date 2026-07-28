@@ -247,14 +247,14 @@
       }
     },
     {
-      "path": "mods/controlify-3.1.1+26.2-universal.jar",
+      "path": "mods/controlify-3.2.0+26.2-universal.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/3Z0RNraJ/controlify-3.1.1%2Bmc26.2-universal.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/OF7sqGiR/controlify-3.2.0%2Bmc26.2-universal.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "9d7abedfb944ae03776b11b10e8fcf9f32feda5c",
-        "sha512": "6d857dfec6f3caabdce73d57d83a325cd4e793f58da961e4391d114efaa3609502d355aae2b41414f2436d1a62465328b57c27f6f25572324b1a55e7476b44a7"
+        "sha1": "4341048b20242f189f76972c7ccfc364d7d6517b",
+        "sha512": "368d4646b4fe204e9016640e14fa44887698a605f9a986ba174da0f8faccbca92d572f765f400eae6e2595625a95fa91aa901ee18c16b136824f5a47e5da04ed"
       }
     },
     {
