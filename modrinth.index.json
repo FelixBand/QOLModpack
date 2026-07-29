@@ -16,14 +16,14 @@
       }
     },
     {
-      "path": "mods/lithium-fabric-0.25.2+mc26.2.jar",
+      "path": "mods/lithium-fabric-0.25.3+mc26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/UPNexAfy/lithium-fabric-0.25.2%2Bmc26.2.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/f7vZ0VWU/lithium-fabric-0.25.3%2Bmc26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "3bcc94183d7068395de08915fd5fce8d199aaa50",
-        "sha512": "db676376c05b7e912cdae5aad9e51f125adc1554ae2b204599ccb598751921aedbac98e97b9cba0333b6b52488c6b75c915a7dbd50436f97800387fe1aad1c50"
+        "sha1": "435ad0289209bb72195e7a423756a03f5dfa5a9a",
+        "sha512": "148b638f3c6229fbaf487120a2344a0af5e411a5aa6533d5db9d75da0a8c0d8304f63eb4cca13f4d03b2c9b4c23d559dd74c1d832422ef8a3087bd005e62a8bd"
       }
     },
     {
@@ -126,14 +126,14 @@
       }
     },
     {
-      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.28.jar",
+      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.29.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/AtMwOFAC/c2me-fabric-mc26.2-0.4.2-alpha.0.28.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/sdcwKuxX/c2me-fabric-mc26.2-0.4.2-alpha.0.29.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "f1b61738b7c75c2a785016bb3d1d7e789ed6c028",
-        "sha512": "15b86de3a17986386a5ce54502932645071c32f1f6bd8375e0ff4cf8e6eaba102ff14d518ae22f087a05761a0599c8e9f609be04dfd46f2b4d91f3cc2290879a"
+        "sha1": "79408044584b07f091e610ce475e3f03e6214e39",
+        "sha512": "2903068912bc79ee89660257bba58129d75a500e3e9364a8210d426a8f38f0f8f5e2fc70a252b595207616e01d108e8df420a8d3e7fe583fd467036af57bc504"
       }
     },
     {
@@ -247,14 +247,14 @@
       }
     },
     {
-      "path": "mods/controlify-3.2.0+26.2-universal.jar",
+      "path": "mods/controlify-3.2.1+26.2-universal.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/OF7sqGiR/controlify-3.2.0%2Bmc26.2-universal.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/CehmpRM7/controlify-3.2.1%2Bmc26.2-universal.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "4341048b20242f189f76972c7ccfc364d7d6517b",
-        "sha512": "368d4646b4fe204e9016640e14fa44887698a605f9a986ba174da0f8faccbca92d572f765f400eae6e2595625a95fa91aa901ee18c16b136824f5a47e5da04ed"
+        "sha1": "58dda4a77f8c885e025603e58e3df71410ff91cf",
+        "sha512": "b5b954f526ab6b78e63a43abd7f3122fa6aad20ff13c76d94310b4614965adbfdb01ec214cb6f2adcf407e77dbc6044d9501b4dc250b83b34e77783eb0980204"
       }
     },
     {
@@ -764,14 +764,14 @@
       }
     },
     {
-      "path": "mods/Geyser-Fabric-2.11.0-b1204.jar",
+      "path": "mods/Geyser-Fabric-2.11.0-b1205.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/wKkoqHrH/versions/46fTkAl1/Geyser-Fabric-2.11.0-b1204.jar"
+        "https://cdn.modrinth.com/data/wKkoqHrH/versions/9kk2wPeH/Geyser-Fabric-2.11.0-b1205.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "589f33f26d4c0ee0b9e50ba55e24b460c6f40d76",
-        "sha512": "7070677116c34a89325f9f57821e0f68fb79c7018e3c5e8941ca5b2d1a1667d52bd4ab96cc486f43b30c9a92a0c288501847e5fcc2a588175ad2d8cb27ca7fb9"
+        "sha1": "a1c982145c4e5f351fdd939399d6a4ae900b660a",
+        "sha512": "a117eea838159cf07f7e146e50b773b5e3a4e27ebe15a3fc9ab381f022779c0f1d75e13622246b101962348c02c2a69ce5f97bcfb017687a6f2c60e05396d03e"
       }
     },
     {
