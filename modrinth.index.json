@@ -480,7 +480,7 @@
     {
       "path": "mods/fabric-carpet-26.2+v260616.jar",
       "downloads": [
-        "https://github.com/gnembon/fabric-carpet/releases/download/v26.2/fabric-carpet-26.2+v260616.jar"
+        "https://cdn.modrinth.com/data/TQTTVgYE/versions/bGrLxJ8v/fabric-carpet-26.2%2Bv260616.jar"
       ],
       "fileSize": 0,
       "hashes": {
@@ -786,9 +786,9 @@
       }
     },
     {
-      "path": "mods/bedrockify-1.11.7+mc26.2.jar",
+      "path": "mods/bedrockify-1.11.7-mc26.2.jar",
       "downloads": [
-        "https://github.com/FelixBand/BedrockIfy/releases/download/v2/bedrockify-1.11.7+mc26.2.jar"
+        "https://github.com/FelixBand/BedrockIfy/releases/download/v2/bedrockify-1.11.7-mc26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
