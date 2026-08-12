@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "6.1.2",
+  "versionId": "6.1.3",
   "name": "Felix' QOL Modpack",
   "files": [
     {
@@ -104,14 +104,14 @@
       }
     },
     {
-      "path": "mods/voicechat-fabric-2.6.21+26.2.jar",
+      "path": "mods/voicechat-fabric-2.6.22+26.2.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/3SOh5iiX/voicechat-fabric-2.6.21%2B26.2.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/DKSq5wO6/voicechat-fabric-2.6.22%2B26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "445f7e1f1490e16385b04be554cf173c2a4fe780",
-        "sha512": "0308b2e18a05913faaf461530a475d2f5debbfb4d0a46107b512ce51166ceb6cfdbea468f7e21444a3e005655e51729c3764266f81c59b6228629b4866d16b28"
+        "sha1": "f36fca7d4d091421e55f2a22d4e3cd0f462082b9",
+        "sha512": "eb45e75e8b031f3bb27e178ed44fd7b78ba681f077f5972e170726b4837146efd49c7b67d63a95ec4ce87e5672cf76bed85ac8fa7790a9e7ff7309a6c3f424ee"
       }
     },
     {
@@ -126,14 +126,14 @@
       }
     },
     {
-      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.35.jar",
+      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.41.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/HBLtzvqv/c2me-fabric-mc26.2-0.4.2-alpha.0.35.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/sOfMfJPD/c2me-fabric-mc26.2-0.4.2-alpha.0.41.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "925adccbe5fe6c5496410fdb007e2c6ca2b20511",
-        "sha512": "078618f4e45367ae416000a5930e3a13dced5e71eb82102e614c0e8e03d1b84d8d8efcbebc7d5e88d5a4a71ad6d64b1fd5ef3a1171a56001566b33afbad9a504"
+        "sha1": "68a848db15d3b8d730a40badc8f637fa38c838e4",
+        "sha512": "649a7e866bbfed2099c12228c49afb76a850c0f087ba6640c7e73cc224aab921a92aafd0797f29119ac52632c412991924d7eacb964a8c0b864ff363f0579801"
       }
     },
     {
@@ -247,14 +247,14 @@
       }
     },
     {
-      "path": "mods/controlify-3.3.2+26.2-universal.jar",
+      "path": "mods/controlify-3.4.1+26.2-universal.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/DOUdJVEm/versions/EJRLNb9y/controlify-3.3.2%2Bmc26.2-universal.jar"
+        "https://cdn.modrinth.com/data/DOUdJVEm/versions/E2Rvo2Q0/controlify-3.4.1%2Bmc26.2-universal.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "8c1dfbac6019746fbe2e48473963e38fa393f35d",
-        "sha512": "d3a7f62767d4b8698262aaa42024166eadf4e83121b40154597e1e5e8bf65fa1078c3ffb1c1f2db3f29f615679b3debc1fcb405e09d6a0e2247f648e6edab43b"
+        "sha1": "266509f8789fede25ed36fa7a736514251be41d4",
+        "sha512": "6182ad374d32f7c0c29ddb776f63c2371ae03f1991642b331321e668e75aabe35ae994f9b4acfa2b8124942eadd48abaf3c2787c886c5d89793fbf2597d8f993"
       }
     },
     {
@@ -654,25 +654,25 @@
       }
     },
     {
-      "path": "mods/Voxy World Gen V2-fabric-26.2-2.4.2.jar",
+      "path": "mods/Voxy World Gen V2-fabric-26.2-2.4.3.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/xT0lnNE9/versions/II0QK5sq/Voxy%20World%20Gen%20V2-fabric-26.2-2.4.2.jar"
+        "https://cdn.modrinth.com/data/xT0lnNE9/versions/fZooaCeC/Voxy%20World%20Gen%20V2-fabric-26.2-2.4.3.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "76f22e7e213ad08c28d59b4bcd622ce3fbba7308",
-        "sha512": "c825eb3ccc127753fba4e34ec14dc52541b6a8fe78b29e4af796c4177614caf5a4d85bad12cd354ccaeae315420d67912155cf345b0cdb5aedfc3a8286ac5b1d"
+        "sha1": "4c94536138d9a366fca64825757e120060ae3ac8",
+        "sha512": "c2e641ab1c6310fc67ff94f7edc52db41a7cb382c736d2bf2e23156be31ed8c878da42130a5c6f7375ac0efd98f99840f079323f348b2bf6fcb37d8d329ef3f3"
       }
     },
     {
       "path": "mods/voxy-server-side-fabric.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/84zcagOb/versions/hA4Cxg83/voxy-server-side-fabric.jar"
+        "https://cdn.modrinth.com/data/84zcagOb/versions/v3RNtv7d/voxy-server-side-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "0bd881e800fc4128605f478ede8abff752f7fcb5",
-        "sha512": "5405cafe98203f481d43d7083fd1ab646b947a8e5198042dae50bb3edc8aefd5d61d8e363fd92231dd315b9e557aaa201f0e6509969d0a2d46cd3a89d945aa22"
+        "sha1": "e729ad60117ddc4397fe554c8e96fa22d7ff1baf",
+        "sha512": "7fcce56717c5ae4203f789da922384ef5d6cbf7e2d89e05208a2ae368c003f6276fc68e7eb0faee318e0f2748377de668cc475b7a8a9b99c7dfe6eb130b8153a"
       }
     },
     {
@@ -720,14 +720,14 @@
       }
     },
     {
-      "path": "mods/mcwifipnp-2.0.0-26.2-fabric.jar",
+      "path": "mods/mcwifipnp-2.0.7-26.2-fabric.jar",
       "downloads": [
-        "https://github.com/FelixBand/mcwifipnp/releases/download/26.2/mcwifipnp-2.0.0-26.2-fabric.jar"
+        "https://cdn.modrinth.com/data/RTWpcTBp/versions/39LRsm6f/mcwifipnp-2.0.7-26.2-fabric.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "918b2f77980fa0c36502ca7bac55d58566b90b5e",
-        "sha512": "9c2bc94ea98be69a55c7c149e784200a4d363055eb9e645f80827e83fb27f90b977b842854f3eb6046302bb6e6c8c1c19d748393267417e1450daa7d2d948722"
+        "sha1": "312b94522cf5ef809b93ef255477f4c8d06dc81d",
+        "sha512": "53e2ec121f42aa20b66a706f45549bb6a0c9e903f82592521af89f79e847bfcf4b87b6c7b99cdba20d29e590f99d501c6e9bebd3609a81fac22aa94296786a38"
       }
     },
     {
@@ -764,14 +764,14 @@
       }
     },
     {
-      "path": "mods/Geyser-Fabric-2.11.0-b1205.jar",
+      "path": "mods/Geyser-Fabric-2.11.1-b1219.jar",
       "downloads": [
-        "https://cdn.modrinth.com/data/wKkoqHrH/versions/9kk2wPeH/Geyser-Fabric-2.11.0-b1205.jar"
+        "https://cdn.modrinth.com/data/wKkoqHrH/versions/2lEfEDzN/Geyser-Fabric-2.11.1-b1219.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "a1c982145c4e5f351fdd939399d6a4ae900b660a",
-        "sha512": "a117eea838159cf07f7e146e50b773b5e3a4e27ebe15a3fc9ab381f022779c0f1d75e13622246b101962348c02c2a69ce5f97bcfb017687a6f2c60e05396d03e"
+        "sha1": "3a82b6cc289a2cd9e24b94fa06c9c92bcdedfc65",
+        "sha512": "a69c5b581185fc87eea26aeec0f038cdf9f76f148279daf3e95bf3da1a217c876f9c1a39ef374bdde1b36416e9c1079dd3161cb6adb04e4d2f8eaa2540338a76"
       }
     },
     {
