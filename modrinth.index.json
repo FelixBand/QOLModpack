@@ -786,14 +786,14 @@
       }
     },
     {
-      "path": "mods/bedrockify-1.11.7-mc26.2.jar",
+      "path": "mods/bedrockify-1.11.8+mc26.2.jar",
       "downloads": [
-        "https://github.com/FelixBand/BedrockIfy/releases/download/v2/bedrockify-1.11.7-mc26.2.jar"
+        "https://cdn.modrinth.com/data/ox3rDp1B/versions/4pyW4Uba/bedrockify-1.11.8%2Bmc26.2.jar"
       ],
       "fileSize": 0,
       "hashes": {
-        "sha1": "68a645431e5997b86606cf6d2432cbe0381b3d8f",
-        "sha512": "d33b5f27d0b69f834fdc39de1e1f5d50be5600d7979c8e70112ac3d92d322384483775921215486ffdeb1438d6c405fdf92fa3010b13b74c70c8aabf5049609e"
+        "sha1": "33a4be67697ffea2563f8cee4b58f6ae1ee27dd2",
+        "sha512": "766d914918519667feae454f405de65ef3ce44f4de728036a2bf2e825e50dc019b20ec7e9424433f34102309d96485bbf45c5bbee1032c36336212613f550144"
       }
     },
     {
