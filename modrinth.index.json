@@ -632,17 +632,6 @@
       }
     },
     {
-      "path": "mods/bedrockify-1.11.8+mc26.2.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/ox3rDp1B/versions/4pyW4Uba/bedrockify-1.11.8%2Bmc26.2.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "33a4be67697ffea2563f8cee4b58f6ae1ee27dd2",
-        "sha512": "766d914918519667feae454f405de65ef3ce44f4de728036a2bf2e825e50dc019b20ec7e9424433f34102309d96485bbf45c5bbee1032c36336212613f550144"
-      }
-    },
-    {
       "path": "mods/entity_texture_features-7.2.4-26.3-fabric.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/BVzZfTc1/versions/Hs3N31ud/entity_texture_features-7.2.4-26.3-fabric.jar"
