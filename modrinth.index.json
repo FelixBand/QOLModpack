@@ -225,17 +225,6 @@
       }
     },
     {
-      "path": "mods/macos-input-fixes-1.13.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/x9BrsVME/versions/Bejy0PdE/macos-input-fixes-1.13.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "b71d0deb7d7cc4db64b51a1456efdd8fa9c360de",
-        "sha512": "8f6fa5310c8793e926459bb1bc1de598bb03e9b02115e3ccdd71e406000490171653edc43fe43352f1fab8b097bdc6a7c3cab178bc79c9a4be5bcdf45e292cd9"
-      }
-    },
-    {
       "path": "mods/controlify-3.5.3+26.3-universal.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/DOUdJVEm/versions/fo76vL20/controlify-3.5.3%2Bmc26.3-universal.jar"
@@ -310,28 +299,6 @@
       "hashes": {
         "sha1": "63d51781b2c87e3b4b4ca98a133db8c98d3f2afb",
         "sha512": "1ec1e3b2f73c26b19445d664822a8936e9076f4d8855a2ed5fac19786daa8da42da8fdc9526c4a53c227a82819a87ad8e73d5b4fc003f6519c50454c33014f04"
-      }
-    },
-    {
-      "path": "mods/cwb-4.1.0+26.2.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/ETlrkaYF/versions/Zn8JbMkF/cwb-4.1.0%2B26.2.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "9420614dd8f95a9ca1e1b2371f342e92855bb354",
-        "sha512": "b63b07080cb6ff69f52afb1e33fc1664b25b04bcda54b482ca76d50851de76491238b4e6e4adaca5ed478dc67ea26ade69908aea268a75aae9d3f62d3cff19eb"
-      }
-    },
-    {
-      "path": "mods/vivecraft-26.2-1.3.15-fabric.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/wGoQDPN5/versions/VrqKDtZn/vivecraft-26.2-1.3.15-fabric.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "1cd59695918d538499457edddc11198ecfeb080d",
-        "sha512": "8f63a60587fd95b21884d2d61ac6e76f18a3e9a510226edbc0e06e4f276b8f84196bde314764aedf3bfc5f08499facd3bc3697ab97fa93602986fc6e8e7c7c7c"
       }
     },
     {
@@ -500,17 +467,6 @@
       }
     },
     {
-      "path": "mods/Bedrock_Swamps_26.1.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/JyzpLRrh/versions/LiH0T7qx/Bedrock_Swamps_26.1.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "2d5a5deb05305154a66a567a5b297c6aafd6061b",
-        "sha512": "2d7756b0cf43ec41ce823b22c6fb39716858126cf7d16acc8183d0816d248868ee6916bc47dabd541a76c1340901b054c326b520d685ed6dff0cbfea98d01701"
-      }
-    },
-    {
       "path": "mods/xanders-sodium-options-3.6.0+26.3-fabric.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/fGB38jk4/versions/EhuQdDmj/xanders-sodium-options-3.6.0%2B26.3-fabric.jar"
@@ -519,28 +475,6 @@
       "hashes": {
         "sha1": "7da0cbbdca41080fc870b161df786fcfcc1afff5",
         "sha512": "ecbef18f481df409c4a1d9cc5932483ed99472270500c20a964ee8266f870fa0575c7afa6a94e83262d44575b7ebde33899b563b338943fe8de2b6fcdfc03d5b"
-      }
-    },
-    {
-      "path": "mods/falling_snow-2.0.2.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/soBfQALz/versions/CPHjkHag/falling_snow-2.0.1.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "f81ca434e8d724db422b791f6bf4aa97a5266ebf",
-        "sha512": "891439319645493946abf94639a8455e2d386351970354f6d83d64dc2f2a80124bcaf557527092d953f903657220968f66d07915b3e41d5ec9d40b389f549477"
-      }
-    },
-    {
-      "path": "mods/betterimpaling-4.0+26.1.2.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/m8MF21pg/versions/QgFXyAsA/betterimpaling-4.0%2B26.1.2.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "423c7e2f433c98381f08d1a825176ab7d827f20f",
-        "sha512": "08053d270e48dc1bbb0819225ab463f84dbe40b8b481d71a4971b4ea1ae443c0e06e343de618c7dcb2e37b4d77bfcf8092df6254cf5b83fec626b1fec5d930b0"
       }
     },
     {
@@ -563,17 +497,6 @@
       "hashes": {
         "sha1": "ebff83a1448232bad439c3303d7e2be3bd35a73b",
         "sha512": "fd8b173b1a3e1e61477cd31ffee010f6305fefef64f9e46fe07af74f197ee7350e3f97e1bd0daf049c3cb3be029a94361e32f31d23320fe82a6148a7051f2d12"
-      }
-    },
-    {
-      "path": "mods/BetterCommandBlockUI-0.5.3-26.2.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/8iQcgjQ2/versions/r9j5QnhO/BetterCommandBlockUI-0.5.3-26.2.jar"
-      ],
-      "fileSize": 0,
-      "hashes": {
-        "sha1": "6b52f48a312329ef9ef22ccc0caaad8e43bdc081",
-        "sha512": "e68979af0ce51e4310765cd8d4880e428ed0b50b459ea9ff221803f8bc962c82950eb67d6dd649a9ab085e4197522b39f3b1064c23c7e181f1b5b869dc94b6b2"
       }
     },
     {
