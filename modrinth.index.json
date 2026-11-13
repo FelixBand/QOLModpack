@@ -800,6 +800,7 @@
         "downloads": [
             "https://cdn.modrinth.com/data/OnlVIpq5/versions/WWl1RXk0/zfastnoise-1.1.1%2B26.2.jar"
         ],
+        "fileSize": 52154,
         "hashes": {
             "sha1": "378ae834f84b913209ac0853b49b5d8c05e34fc8",
             "sha512": "7e0726688438cd69e9169ad47bbb5334d89fbf74f08d0c883fb2f023c03123db6d78f5181909b19fad034089e87dbb79155da784749709745593e19f79e29f23"
@@ -810,6 +811,7 @@
         "downloads": [
             "https://cdn.modrinth.com/data/4qmvXRB9/versions/tsgt79sG/zconfig-1.0.0%2B26.x.jar"
         ],
+        "fileSize": 405423,
         "hashes": {
             "sha1": "91dab4f25559cf79d493177fbe0a50c4083a27cb",
             "sha512": "baf87ac023fd0297f531897f0dcdcac3b0b35960683090adb3350a2281a211c5134a5373730a10628300caf5711b912705f16b33a1d1a73a3a86f346bcd7c6f5"
