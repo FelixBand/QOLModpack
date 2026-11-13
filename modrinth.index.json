@@ -818,6 +818,17 @@
         },
         "path": "mods/zconfig-1.0.0+26.x.jar"
     },
+    {
+        "downloads": [
+            "https://github.com/Sansrus/AutoLogin-Mod/releases/download/v1.1.9/AutoLoginMod26.2-1.1.9.jar"
+        ],
+        "fileSize": 40297,
+        "hashes": {
+            "sha1": "a832ffe52e96f193e1316c43dce8dc1f942e396c",
+            "sha512": "b36b77d71c48a68b537747b38f287971272c14dc0ae61dad3c83e2105ba75729d03ffe7c0ac3f665f53dbfc34de32a1133fc28a5c99512ead9a14943d9637044"
+        },
+        "path": "mods/AutoLoginMod26.2-1.1.9.jar"
+    },
 
 
     
